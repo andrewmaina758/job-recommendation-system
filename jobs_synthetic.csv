@@ -1,0 +1,901 @@
+Job ID,Job Title,Company ID,Company Name,Job Location,Job Skills,Industry Sector,Experience Level,Job Type
+J0001,Operations Analyst,C001,Peak Capital,"Detroit, MI","Communication, Excel, Power BI, Process Improvement, SQL, Statistics",Finance,Entry,Intern
+J0002,Research Analyst,C001,Peak Capital,"Seattle, WA","Communication, Data Visualization, Research, SQL, Statistics",Finance,Associate,Full-time
+J0003,Research Analyst,C002,NorthBridge Finance,"Atlanta, GA","Data Visualization, Excel, Research, SQL, Statistics",Finance,Entry,Intern
+J0004,Financial Analyst,C003,Metro Policy Lab,"Chicago, IL","Communication, Excel, Financial Modeling, SQL, Statistics",Government,Entry,Intern
+J0005,Systems Analyst,C004,RetailGrid,"Washington, DC","Documentation, Project Management, Requirements Gathering, SQL, Testing",Retail,Entry,Full-time
+J0006,Research Assistant,C005,CuraData,"Detroit, MI","Data Analysis, Documentation, Excel, Research",Healthcare,Entry,Intern
+J0007,Design Engineer,C006,NorthWind Energy,"Detroit, MI","CAD, MATLAB, Problem Solving, SolidWorks, Testing",Energy,Associate,Full-time
+J0008,Clinical Data Analyst,C007,Insight Research Group,"Austin, TX","Data Analysis, Documentation, Excel, SQL, Statistics",Research,Associate,Full-time
+J0009,Manufacturing Engineer,C008,GridSpring,"New York, NY","CAD, Documentation, Process Improvement, Quality Assurance, SolidWorks",Energy,Entry,Intern
+J0010,Business Analyst,C009,OakStone Advisors,"Washington, DC","Excel, Power BI, Requirements Gathering, SQL",Finance,Entry,Full-time
+J0011,Operations Engineer,C010,Orbital Dynamics,"San Francisco, CA","Automation, Excel, Problem Solving, Python",Aerospace,Entry,Full-time
+J0012,Quality Engineer,C011,Axion Mobility,"Seattle, WA","Excel, Process Improvement, Quality Assurance, Statistics",Automotive,Entry,Full-time
+J0013,Data Analyst,C012,CartLift,"New York, NY","Data Visualization, Excel, Pandas, SQL, Statistics, Tableau",E-commerce,Associate,Full-time
+J0014,Data Analyst,C009,OakStone Advisors,"Atlanta, GA","Data Visualization, Excel, Pandas, Python, SQL, Tableau",Finance,Entry,Full-time
+J0015,Quality Engineer,C013,PrimeMotion,"Seattle, WA","Documentation, Excel, Quality Assurance, Statistics",Manufacturing,Entry,Intern
+J0016,Embedded Software Engineer,C014,DriveCore,"Austin, TX","C++, Embedded Systems, Linux, MATLAB, Testing",Automotive,Entry,Intern
+J0017,IT Analyst,C015,NorthPoint Health,"Boston, MA","Communication, Documentation, SQL, Systems Support, Troubleshooting",Healthcare,Entry,Intern
+J0018,Hardware Test Engineer,C016,Quantive Systems,"Seattle, WA","APIs, Circuit Analysis, Documentation, Python, Signal Processing",Technology,Entry,Full-time
+J0019,Hardware Test Engineer,C008,GridSpring,Remote,"Circuit Analysis, Documentation, MATLAB, Python, Signal Processing",Energy,Entry,Intern
+J0020,Design Engineer,C006,NorthWind Energy,"Atlanta, GA","CAD, MATLAB, Problem Solving, SolidWorks",Energy,Entry,Full-time
+J0021,Data Analyst,C001,Peak Capital,"Chicago, IL","Data Visualization, Excel, SQL, Statistics, Tableau",Finance,Entry,Full-time
+J0022,Machine Learning Engineer,C017,ByteForge,"Seattle, WA","APIs, Cloud, Machine Learning, Pandas, Python, SQL, Statistics",Technology,Entry,Intern
+J0023,Data Analyst,C018,CloudVista,"Chicago, IL","Data Visualization, Excel, Python, SQL, Statistics, Tableau",Technology,Entry,Full-time
+J0024,Systems Analyst,C015,NorthPoint Health,"Austin, TX","Documentation, Project Management, Requirements Gathering, SQL",Healthcare,Entry,Full-time
+J0025,Operations Analyst,C001,Peak Capital,"Chicago, IL","Communication, Excel, Power BI, Process Improvement, SQL, Statistics",Finance,Entry,Intern
+J0026,Clinical Data Analyst,C019,HelixPath,"Atlanta, GA","Data Analysis, Documentation, Excel, Statistics",Biotech,Entry,Intern
+J0027,Data Analyst,C002,NorthBridge Finance,"San Francisco, CA","Excel, Pandas, Python, SQL, Statistics, Tableau",Finance,Entry,Intern
+J0028,Clinical Data Analyst,C020,Novamedica,"Austin, TX","Data Analysis, Documentation, Excel, SQL, Statistics",Pharmaceuticals,Entry,Full-time
+J0029,Quality Engineer,C021,TerraVolt,"Boston, MA","Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Energy,Entry,Intern
+J0030,Business Analyst,C022,CareSphere,Remote,"Communication, Excel, Power BI, Tableau",Healthcare,Entry,Intern
+J0031,Operations Analyst,C023,ShopScale,"San Francisco, CA","Communication, Excel, Power BI, Process Improvement, SQL, Statistics",Retail,Mid,Full-time
+J0032,Systems Analyst,C024,UrbanCart,Remote,"Documentation, Requirements Gathering, SQL, Testing",Retail,Entry,Full-time
+J0033,Quality Engineer,C008,GridSpring,"New York, NY","Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Energy,Entry,Full-time
+J0034,Design Engineer,C013,PrimeMotion,"Washington, DC","CAD, MATLAB, Problem Solving, SolidWorks, Testing",Manufacturing,Entry,Intern
+J0035,Hardware Test Engineer,C014,DriveCore,"San Francisco, CA","Circuit Analysis, Documentation, MATLAB, Signal Processing",Automotive,Entry,Full-time
+J0036,Operations Engineer,C006,NorthWind Energy,"San Francisco, CA","Automation, Excel, Problem Solving, Process Improvement, Python",Energy,Associate,Full-time
+J0037,Business Analyst,C023,ShopScale,"Austin, TX","Excel, Power BI, SQL, Tableau",Retail,Entry,Full-time
+J0038,Systems Analyst,C022,CareSphere,Remote,"Project Management, Requirements Gathering, SQL, Testing",Healthcare,Entry,Intern
+J0039,Systems Analyst,C025,NexaTech,"Seattle, WA","APIs, Documentation, Project Management, Requirements Gathering, SQL",Technology,Entry,Intern
+J0040,Policy Analyst,C003,Metro Policy Lab,"Detroit, MI","Communication, Documentation, Excel, Research, Statistics",Government,Entry,Intern
+J0041,Operations Analyst,C018,CloudVista,"New York, NY","Communication, Excel, Power BI, Process Improvement, Statistics",Technology,Entry,Part-time
+J0042,Research Analyst,C018,CloudVista,Remote,"Data Visualization, Documentation, Excel, Research, SQL, Statistics",Technology,Entry,Intern
+J0043,Quality Analyst,C007,Insight Research Group,"Austin, TX","Excel, Process Improvement, Quality Assurance, Statistics",Research,Entry,Intern
+J0044,Data Analyst,C005,CuraData,"Seattle, WA","Data Visualization, Excel, Pandas, Python, SQL, Tableau",Healthcare,Associate,Full-time
+J0045,Data Analyst,C026,Summit Bank,"San Francisco, CA","Communication, Excel, Pandas, Python, Statistics, Tableau",Finance,Entry,Intern
+J0046,Embedded Software Engineer,C014,DriveCore,"Austin, TX","C++, Linux, Python, Testing",Automotive,Entry,Intern
+J0047,Operations Engineer,C006,NorthWind Energy,"San Francisco, CA","Automation, Excel, Problem Solving, Process Improvement, Python",Energy,Entry,Intern
+J0048,Financial Analyst,C003,Metro Policy Lab,"Atlanta, GA","Communication, Excel, Financial Modeling, Statistics",Government,Associate,Full-time
+J0049,Systems Analyst,C017,ByteForge,"New York, NY","APIs, Documentation, Project Management, Requirements Gathering, SQL, Testing",Technology,Entry,Full-time
+J0050,Software Engineer,C002,NorthBridge Finance,Remote,"APIs, Algorithms, Communication, Data Structures, Java, Linux, Python",Finance,Mid,Full-time
+J0051,Data Analyst,C027,RetailNova,"Detroit, MI","APIs, Excel, Pandas, Python, SQL, Tableau",E-commerce,Associate,Full-time
+J0052,Lab Analyst,C007,Insight Research Group,"New York, NY","Documentation, Excel, Laboratory Techniques, Quality Assurance",Research,Entry,Full-time
+J0053,Research Assistant,C014,DriveCore,"Detroit, MI","Data Analysis, Documentation, Excel, Research",Automotive,Entry,Part-time
+J0054,Policy Analyst,C018,CloudVista,"Detroit, MI","Communication, Documentation, Excel, Research, Statistics",Technology,Entry,Full-time
+J0055,Design Engineer,C028,AeroNova,"Washington, DC","CAD, MATLAB, Problem Solving, SolidWorks, Testing",Aerospace,Entry,Intern
+J0056,Business Analyst,C004,RetailGrid,"Seattle, WA","Excel, Power BI, Requirements Gathering, SQL, Tableau",Retail,Entry,Intern
+J0057,Business Intelligence Analyst,C001,Peak Capital,"Seattle, WA","Communication, Data Visualization, Excel, Power BI, SQL, Statistics, Tableau",Finance,Entry,Full-time
+J0058,Business Analyst,C029,Catalyst Advisory,"Atlanta, GA","Communication, Excel, Power BI, Requirements Gathering, SQL",Consulting,Entry,Intern
+J0059,Business Analyst,C026,Summit Bank,"Chicago, IL","Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Finance,Associate,Full-time
+J0060,Research Analyst,C030,NovaAI,"Detroit, MI","APIs, Data Visualization, Documentation, SQL, Statistics",Technology,Entry,Intern
+J0061,Marketing Analyst,C016,Quantive Systems,"Austin, TX","Communication, Data Visualization, SQL, Statistics",Technology,Entry,Full-time
+J0062,Data Analyst,C004,RetailGrid,"Washington, DC","Data Visualization, Python, SQL, Statistics, Tableau",Retail,Entry,Full-time
+J0063,Quality Engineer,C021,TerraVolt,"San Francisco, CA","Documentation, Excel, Process Improvement, Statistics",Energy,Entry,Full-time
+J0064,Systems Analyst,C031,Verity Strategy,"New York, NY","Communication, Documentation, Project Management, Requirements Gathering, SQL, Testing",Consulting,Entry,Full-time
+J0065,Research Analyst,C029,Catalyst Advisory,"Boston, MA","Communication, Data Visualization, Documentation, Research, SQL, Statistics",Consulting,Entry,Intern
+J0066,Research Analyst,C003,Metro Policy Lab,"Boston, MA","Data Visualization, Documentation, Excel, Research, SQL",Government,Entry,Intern
+J0067,Research Analyst,C032,Public Systems Office,"San Francisco, CA","Data Visualization, Documentation, Research, SQL, Statistics",Government,Entry,Intern
+J0068,Marketing Analyst,C004,RetailGrid,Remote,"A/B Testing, Communication, Data Visualization, Excel, Statistics",Retail,Associate,Full-time
+J0069,Research Assistant,C033,BrightRx,"San Francisco, CA","Data Analysis, Excel, Research, Statistics",Pharmaceuticals,Entry,Intern
+J0070,Hardware Test Engineer,C034,Orion Industrial,"Atlanta, GA","Circuit Analysis, Documentation, Python, Signal Processing",Manufacturing,Entry,Intern
+J0071,Manufacturing Engineer,C010,Orbital Dynamics,"Washington, DC","CAD, Process Improvement, Quality Assurance, SolidWorks",Aerospace,Entry,Full-time
+J0072,Business Intelligence Analyst,C035,BluePeak Consulting,"New York, NY","Communication, Data Visualization, Excel, Power BI, SQL, Statistics, Tableau",Consulting,Entry,Intern
+J0073,Manufacturing Engineer,C010,Orbital Dynamics,"Seattle, WA","Documentation, Process Improvement, Quality Assurance, SolidWorks",Aerospace,Entry,Intern
+J0074,Data Analyst,C030,NovaAI,"New York, NY","Excel, Pandas, Python, SQL, Statistics, Tableau",Technology,Entry,Intern
+J0075,Data Analyst,C009,OakStone Advisors,"Atlanta, GA","Data Visualization, Pandas, Python, SQL, Tableau",Finance,Entry,Intern
+J0076,Business Analyst,C036,Insight Partners,"Boston, MA","Communication, Excel, SQL, Tableau",Consulting,Entry,Intern
+J0077,Quality Analyst,C019,HelixPath,"Boston, MA","Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Biotech,Entry,Intern
+J0078,Systems Analyst,C036,Insight Partners,"New York, NY","Communication, Documentation, Project Management, Requirements Gathering, SQL, Testing",Consulting,Entry,Full-time
+J0079,Embedded Software Engineer,C025,NexaTech,"New York, NY","C++, Embedded Systems, Linux, MATLAB",Technology,Entry,Intern
+J0080,Software Engineer,C027,RetailNova,Remote,"APIs, Data Structures, Git, Java, Python, SQL",E-commerce,Entry,Full-time
+J0081,Embedded Software Engineer,C013,PrimeMotion,"New York, NY","C++, Embedded Systems, MATLAB, Python",Manufacturing,Entry,Intern
+J0082,Business Analyst,C031,Verity Strategy,"Boston, MA","Communication, Requirements Gathering, SQL, Tableau",Consulting,Entry,Intern
+J0083,Controls Engineer,C006,NorthWind Energy,Remote,"Automation, MATLAB, Python, Testing",Energy,Entry,Intern
+J0084,Clinical Data Analyst,C019,HelixPath,"Atlanta, GA","Documentation, Excel, SQL, Statistics",Biotech,Entry,Intern
+J0085,Machine Learning Engineer,C018,CloudVista,"New York, NY","Cloud, Git, Machine Learning, Python, Statistics",Technology,Entry,Intern
+J0086,Data Analyst,C037,MedIntel,"Detroit, MI","Data Visualization, Excel, Pandas, Statistics, Tableau",Healthcare,Associate,Full-time
+J0087,Research Assistant,C038,Center for Applied Research,"Washington, DC","Data Analysis, Documentation, Excel, Research, Statistics",Research,Entry,Intern
+J0088,Quality Engineer,C039,SkyAxis,"Detroit, MI","Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Aerospace,Entry,Full-time
+J0089,Business Analyst,C040,MarketLane,"Austin, TX","Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Retail,Entry,Full-time
+J0090,Lab Analyst,C033,BrightRx,"Seattle, WA","Documentation, Excel, Laboratory Techniques, Quality Assurance",Pharmaceuticals,Entry,Full-time
+J0091,Business Analyst,C031,Verity Strategy,"Atlanta, GA","Communication, Excel, Power BI, SQL, Tableau",Consulting,Entry,Intern
+J0092,Systems Analyst,C018,CloudVista,"Chicago, IL","APIs, Documentation, Project Management, Requirements Gathering, SQL, Testing",Technology,Entry,Intern
+J0093,Clinical Data Analyst,C037,MedIntel,Remote,"Documentation, Excel, SQL, Statistics",Healthcare,Associate,Full-time
+J0094,Quality Engineer,C041,Vector Manufacturing,"Atlanta, GA","Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Manufacturing,Entry,Full-time
+J0095,Data Analyst,C025,NexaTech,"Detroit, MI","APIs, Data Visualization, Pandas, Python, SQL, Statistics, Tableau",Technology,Entry,Intern
+J0096,Research Analyst,C036,Insight Partners,"Boston, MA","Data Visualization, Documentation, SQL, Statistics",Consulting,Entry,Full-time
+J0097,Research Assistant,C042,GeneNova,"Chicago, IL","Data Analysis, Documentation, Excel, Research, Statistics",Biotech,Entry,Part-time
+J0098,Manufacturing Engineer,C043,SteelArc,"Detroit, MI","CAD, Documentation, Process Improvement, Quality Assurance",Manufacturing,Entry,Intern
+J0099,Operations Analyst,C009,OakStone Advisors,"Seattle, WA","Communication, Power BI, Process Improvement, SQL, Statistics",Finance,Entry,Intern
+J0100,Design Engineer,C043,SteelArc,Remote,"CAD, MATLAB, Problem Solving, SolidWorks",Manufacturing,Entry,Intern
+J0101,Data Analyst,C026,Summit Bank,"Seattle, WA","Communication, Excel, Pandas, Python, SQL, Statistics, Tableau",Finance,Associate,Full-time
+J0102,Quality Analyst,C038,Center for Applied Research,"San Francisco, CA","Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Research,Entry,Intern
+J0103,Data Analyst,C001,Peak Capital,"Boston, MA","Data Visualization, Python, SQL, Statistics, Tableau",Finance,Entry,Intern
+J0104,Business Analyst,C040,MarketLane,"New York, NY","Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Retail,Associate,Full-time
+J0105,Clinical Data Analyst,C019,HelixPath,"Atlanta, GA","Data Analysis, Documentation, Excel, SQL, Statistics",Biotech,Mid,Full-time
+J0106,Design Engineer,C039,SkyAxis,"Boston, MA","CAD, MATLAB, Problem Solving, Testing",Aerospace,Associate,Full-time
+J0107,Quality Analyst,C015,NorthPoint Health,"Boston, MA","Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Healthcare,Mid,Full-time
+J0108,Systems Analyst,C036,Insight Partners,"New York, NY","Documentation, Requirements Gathering, SQL, Testing",Consulting,Associate,Full-time
+J0109,Data Analyst,C002,NorthBridge Finance,"Detroit, MI","Data Visualization, Excel, Python, SQL, Statistics",Finance,Associate,Full-time
+J0110,Data Analyst,C035,BluePeak Consulting,"Washington, DC","Data Visualization, Excel, Pandas, Python, SQL, Statistics",Consulting,Entry,Intern
+J0111,Manufacturing Engineer,C014,DriveCore,"San Francisco, CA","CAD, Documentation, Process Improvement, Quality Assurance, SolidWorks",Automotive,Entry,Intern
+J0112,Business Intelligence Analyst,C009,OakStone Advisors,"New York, NY","Data Visualization, Power BI, SQL, Statistics, Tableau",Finance,Associate,Full-time
+J0113,Data Analyst,C002,NorthBridge Finance,"Detroit, MI","Data Visualization, Pandas, Python, SQL, Statistics",Finance,Entry,Intern
+J0114,Clinical Data Analyst,C042,GeneNova,"New York, NY","Data Analysis, Documentation, Excel, SQL, Statistics",Biotech,Entry,Intern
+J0115,Business Analyst,C031,Verity Strategy,"Seattle, WA","Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Consulting,Entry,Full-time
+J0116,Hardware Test Engineer,C041,Vector Manufacturing,"New York, NY","Circuit Analysis, Documentation, MATLAB, Python, Signal Processing",Manufacturing,Entry,Intern
+J0117,Business Intelligence Analyst,C029,Catalyst Advisory,"San Francisco, CA","Excel, Power BI, SQL, Tableau",Consulting,Entry,Intern
+J0118,Policy Analyst,C025,NexaTech,"Seattle, WA","APIs, Communication, Documentation, Excel, Research",Technology,Associate,Full-time
+J0119,Software Engineer,C002,NorthBridge Finance,"New York, NY","APIs, Algorithms, Java, Linux, Python, SQL",Finance,Entry,Intern
+J0120,Research Assistant,C044,Aster Pharma,"Washington, DC","Data Analysis, Documentation, Excel, Research, Statistics",Pharmaceuticals,Entry,Intern
+J0121,Data Analyst,C036,Insight Partners,"New York, NY","Communication, Data Visualization, Excel, Pandas, Python, Statistics",Consulting,Entry,Intern
+J0122,Systems Analyst,C005,CuraData,"Atlanta, GA","Documentation, Requirements Gathering, SQL, Testing",Healthcare,Mid,Full-time
+J0123,Software Engineer,C037,MedIntel,"Detroit, MI","APIs, Data Structures, Git, Java, Linux, SQL",Healthcare,Entry,Intern
+J0124,Data Analyst,C030,NovaAI,"Austin, TX","Data Visualization, Excel, Pandas, Python, SQL, Statistics",Technology,Entry,Intern
+J0125,Cloud Analyst,C009,OakStone Advisors,"Washington, DC","Linux, Monitoring, Python, SQL",Finance,Entry,Full-time
+J0126,Systems Analyst,C015,NorthPoint Health,"San Francisco, CA","Documentation, Project Management, Requirements Gathering, SQL",Healthcare,Associate,Full-time
+J0127,Quality Engineer,C010,Orbital Dynamics,"San Francisco, CA","Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Aerospace,Associate,Full-time
+J0128,Research Analyst,C037,MedIntel,"Atlanta, GA","Data Visualization, Documentation, Excel, SQL, Statistics",Healthcare,Entry,Full-time
+J0129,Business Intelligence Analyst,C026,Summit Bank,"Atlanta, GA","Excel, Power BI, SQL, Statistics",Finance,Entry,Intern
+J0130,Research Assistant,C022,CareSphere,"Detroit, MI","Data Analysis, Documentation, Excel, Research, Statistics",Healthcare,Entry,Intern
+J0131,Quality Analyst,C005,CuraData,"New York, NY","Documentation, Excel, Quality Assurance, Statistics",Healthcare,Entry,Intern
+J0132,Operations Engineer,C034,Orion Industrial,"Washington, DC","Excel, Problem Solving, Process Improvement, Python",Manufacturing,Mid,Full-time
+J0133,Systems Analyst,C022,CareSphere,"Austin, TX","Documentation, Project Management, Requirements Gathering, SQL",Healthcare,Entry,Full-time
+J0134,Machine Learning Engineer,C036,Insight Partners,Remote,"Cloud, Communication, Machine Learning, Pandas, Python, SQL",Consulting,Entry,Full-time
+J0135,Machine Learning Engineer,C009,OakStone Advisors,"Austin, TX","Cloud, Machine Learning, Pandas, Python, Statistics",Finance,Entry,Intern
+J0136,Research Assistant,C044,Aster Pharma,"Seattle, WA","Data Analysis, Documentation, Excel, Research, Statistics",Pharmaceuticals,Mid,Part-time
+J0137,Hardware Test Engineer,C045,TorqueWorks,"Detroit, MI","Circuit Analysis, MATLAB, Python, Signal Processing",Automotive,Entry,Full-time
+J0138,Operations Analyst,C018,CloudVista,"Atlanta, GA","Communication, Excel, Power BI, SQL, Statistics",Technology,Associate,Part-time
+J0139,Operations Analyst,C023,ShopScale,"Boston, MA","Excel, Power BI, Process Improvement, SQL",Retail,Entry,Part-time
+J0140,Manufacturing Engineer,C021,TerraVolt,"Washington, DC","Documentation, Process Improvement, Quality Assurance, SolidWorks",Energy,Entry,Full-time
+J0141,Systems Analyst,C036,Insight Partners,"Chicago, IL","Communication, Documentation, Project Management, Requirements Gathering, Testing",Consulting,Entry,Intern
+J0142,Business Analyst,C024,UrbanCart,"New York, NY","Communication, Excel, Power BI, Requirements Gathering, SQL",Retail,Entry,Intern
+J0143,Software Engineer,C027,RetailNova,"Chicago, IL","APIs, Data Structures, Git, Linux, Python, SQL",E-commerce,Entry,Intern
+J0144,Data Analyst,C005,CuraData,"Chicago, IL","Data Visualization, Excel, Python, SQL, Statistics",Healthcare,Entry,Full-time
+J0145,Marketing Analyst,C031,Verity Strategy,"Boston, MA","A/B Testing, Communication, Data Visualization, Excel, Statistics",Consulting,Entry,Intern
+J0146,Manufacturing Engineer,C008,GridSpring,"Atlanta, GA","CAD, Documentation, Process Improvement, Quality Assurance",Energy,Entry,Intern
+J0147,Embedded Software Engineer,C046,Motivon Systems,"Atlanta, GA","C++, Embedded Systems, Python, Testing",Automotive,Mid,Full-time
+J0148,Business Intelligence Analyst,C018,CloudVista,"Boston, MA","Data Visualization, Excel, Power BI, SQL, Statistics, Tableau",Technology,Entry,Intern
+J0149,Operations Analyst,C036,Insight Partners,"San Francisco, CA","Communication, Excel, Power BI, Process Improvement, SQL, Statistics",Consulting,Entry,Full-time
+J0150,Data Analyst,C036,Insight Partners,"Seattle, WA","Communication, Data Visualization, Pandas, Python, SQL, Statistics, Tableau",Consulting,Entry,Intern
+J0151,Cloud Analyst,C027,RetailNova,"Atlanta, GA","APIs, Cloud, Linux, Monitoring, Python, SQL, Troubleshooting",E-commerce,Entry,Intern
+J0152,Business Intelligence Analyst,C037,MedIntel,"Chicago, IL","Data Visualization, Power BI, Statistics, Tableau",Healthcare,Entry,Intern
+J0153,Systems Analyst,C015,NorthPoint Health,"New York, NY","Documentation, Project Management, Requirements Gathering, SQL, Testing",Healthcare,Entry,Intern
+J0154,Software Engineer,C037,MedIntel,"Chicago, IL","Algorithms, Data Structures, Git, Java, Linux, SQL",Healthcare,Entry,Intern
+J0155,Data Analyst,C036,Insight Partners,"Seattle, WA","Data Visualization, Excel, Python, SQL, Statistics, Tableau",Consulting,Entry,Intern
+J0156,Marketing Analyst,C001,Peak Capital,"Chicago, IL","A/B Testing, Communication, Excel, SQL",Finance,Entry,Full-time
+J0157,Lab Analyst,C037,MedIntel,"Detroit, MI","Data Analysis, Documentation, Laboratory Techniques, Quality Assurance",Healthcare,Entry,Part-time
+J0158,Machine Learning Engineer,C018,CloudVista,"Chicago, IL","Machine Learning, Pandas, Python, SQL, Statistics",Technology,Entry,Intern
+J0159,Policy Analyst,C002,NorthBridge Finance,"Boston, MA","Communication, Documentation, Excel, Research, Statistics",Finance,Associate,Full-time
+J0160,Machine Learning Engineer,C030,NovaAI,"Chicago, IL","APIs, Cloud, Git, Machine Learning, Pandas, Python, SQL",Technology,Associate,Full-time
+J0161,Machine Learning Engineer,C035,BluePeak Consulting,"Seattle, WA","Git, Machine Learning, Python, SQL, Statistics",Consulting,Entry,Intern
+J0162,Research Assistant,C037,MedIntel,"Boston, MA","Data Analysis, Documentation, Excel, Research, Statistics",Healthcare,Entry,Intern
+J0163,Machine Learning Engineer,C005,CuraData,"Atlanta, GA","Cloud, Git, Pandas, Python, SQL, Statistics",Healthcare,Entry,Full-time
+J0164,Business Analyst,C001,Peak Capital,"San Francisco, CA","Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Finance,Entry,Full-time
+J0165,Systems Analyst,C004,RetailGrid,"Boston, MA","Documentation, Project Management, Requirements Gathering, Testing",Retail,Entry,Full-time
+J0166,Research Analyst,C030,NovaAI,"San Francisco, CA","APIs, Data Visualization, Documentation, Excel, Research, SQL, Statistics",Technology,Entry,Intern
+J0167,Business Analyst,C035,BluePeak Consulting,Remote,"Communication, Excel, Power BI, Requirements Gathering, SQL",Consulting,Entry,Intern
+J0168,Cloud Analyst,C009,OakStone Advisors,"Detroit, MI","Cloud, Linux, Monitoring, Python, SQL, Troubleshooting",Finance,Entry,Intern
+J0169,Business Analyst,C025,NexaTech,"San Francisco, CA","Communication, Excel, Power BI, Requirements Gathering, SQL",Technology,Entry,Full-time
+J0170,Design Engineer,C043,SteelArc,"New York, NY","CAD, Problem Solving, SolidWorks, Testing",Manufacturing,Entry,Intern
+J0171,IT Analyst,C004,RetailGrid,Remote,"Communication, Documentation, SQL, Systems Support, Troubleshooting",Retail,Entry,Full-time
+J0172,Quality Analyst,C007,Insight Research Group,"New York, NY","Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Research,Associate,Full-time
+J0173,Systems Analyst,C017,ByteForge,"Atlanta, GA","APIs, Documentation, Project Management, SQL, Testing",Technology,Entry,Full-time
+J0174,Business Intelligence Analyst,C018,CloudVista,"San Francisco, CA","APIs, Data Visualization, Power BI, SQL, Statistics, Tableau",Technology,Entry,Intern
+J0175,Hardware Test Engineer,C008,GridSpring,"New York, NY","Circuit Analysis, MATLAB, Python, Signal Processing",Energy,Entry,Full-time
+J0176,Systems Analyst,C037,MedIntel,"Atlanta, GA","Documentation, Project Management, SQL, Testing",Healthcare,Entry,Intern
+J0177,Research Analyst,C026,Summit Bank,"Boston, MA","Data Visualization, Documentation, Excel, Research, SQL, Statistics",Finance,Entry,Intern
+J0178,Cloud Analyst,C005,CuraData,"Detroit, MI","Cloud, Linux, Python, SQL, Troubleshooting",Healthcare,Entry,Intern
+J0179,Embedded Software Engineer,C011,Axion Mobility,"New York, NY","C++, Embedded Systems, Linux, Python",Automotive,Entry,Intern
+J0180,Software Engineer,C017,ByteForge,"San Francisco, CA","APIs, Data Structures, Git, Java, Python, SQL",Technology,Associate,Full-time
+J0181,Software Engineer,C012,CartLift,"Austin, TX","APIs, Algorithms, Data Structures, Git, Java, Linux",E-commerce,Entry,Full-time
+J0182,Design Engineer,C006,NorthWind Energy,"New York, NY","CAD, MATLAB, Problem Solving, SolidWorks",Energy,Entry,Full-time
+J0183,Controls Engineer,C011,Axion Mobility,Remote,"Automation, Python, Signal Processing, Testing",Automotive,Entry,Intern
+J0184,Operations Engineer,C010,Orbital Dynamics,"Boston, MA","Automation, Excel, Problem Solving, Process Improvement, Python",Aerospace,Entry,Full-time
+J0185,Data Analyst,C018,CloudVista,"Atlanta, GA","Data Visualization, Excel, Pandas, SQL, Statistics, Tableau",Technology,Entry,Full-time
+J0186,Data Analyst,C029,Catalyst Advisory,"Chicago, IL","Communication, Data Visualization, Excel, Pandas, Python, SQL",Consulting,Associate,Full-time
+J0187,Data Analyst,C002,NorthBridge Finance,Remote,"Communication, Data Visualization, Excel, Python, SQL, Tableau",Finance,Entry,Full-time
+J0188,Marketing Analyst,C017,ByteForge,Remote,"A/B Testing, Communication, Data Visualization, Excel, SQL, Statistics",Technology,Entry,Full-time
+J0189,Lab Analyst,C047,Frontier Lab,"New York, NY","Data Analysis, Documentation, Excel, Laboratory Techniques, Quality Assurance",Research,Mid,Full-time
+J0190,Software Engineer,C009,OakStone Advisors,"Atlanta, GA","APIs, Algorithms, Data Structures, Java, Linux, SQL",Finance,Entry,Intern
+J0191,Business Analyst,C022,CareSphere,"Atlanta, GA","Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Healthcare,Entry,Full-time
+J0192,Data Analyst,C002,NorthBridge Finance,"San Francisco, CA","Data Visualization, Pandas, Python, SQL, Statistics, Tableau",Finance,Entry,Intern
+J0193,Cloud Analyst,C016,Quantive Systems,"Detroit, MI","Cloud, Linux, Monitoring, Python, SQL, Troubleshooting",Technology,Entry,Intern
+J0194,Data Analyst,C023,ShopScale,"Washington, DC","Data Visualization, Excel, Pandas, SQL, Statistics, Tableau",Retail,Entry,Intern
+J0195,Business Intelligence Analyst,C005,CuraData,"Atlanta, GA","Data Visualization, Excel, SQL, Statistics",Healthcare,Entry,Intern
+J0196,Research Analyst,C029,Catalyst Advisory,"Boston, MA","Data Visualization, Documentation, Excel, Research, SQL, Statistics",Consulting,Entry,Full-time
+J0197,Research Assistant,C011,Axion Mobility,Remote,"Data Analysis, Documentation, Research, Statistics",Automotive,Associate,Part-time
+J0198,Policy Analyst,C036,Insight Partners,"Washington, DC","Communication, Documentation, Excel, Research, Statistics",Consulting,Entry,Intern
+J0199,Operations Engineer,C034,Orion Industrial,"New York, NY","Automation, Excel, Problem Solving, Python",Manufacturing,Entry,Intern
+J0200,Business Analyst,C017,ByteForge,"Atlanta, GA","APIs, Communication, Excel, Power BI, Requirements Gathering, SQL",Technology,Entry,Intern
+J0201,Machine Learning Engineer,C025,NexaTech,"Seattle, WA","Cloud, Git, Machine Learning, Pandas, Python, SQL",Technology,Mid,Full-time
+J0202,Data Analyst,C048,SwiftBasket,"Atlanta, GA","Data Visualization, Excel, Pandas, Python, SQL, Tableau",E-commerce,Entry,Intern
+J0203,Business Analyst,C018,CloudVista,"Seattle, WA","Communication, Excel, Power BI, Requirements Gathering, SQL",Technology,Entry,Intern
+J0204,Operations Analyst,C017,ByteForge,"Boston, MA","Communication, Power BI, SQL, Statistics",Technology,Entry,Intern
+J0205,Business Analyst,C016,Quantive Systems,"Seattle, WA","Communication, Excel, Power BI, Requirements Gathering, SQL",Technology,Entry,Intern
+J0206,Financial Analyst,C032,Public Systems Office,"Seattle, WA","Communication, Excel, Financial Modeling, SQL, Statistics",Government,Entry,Full-time
+J0207,Quality Analyst,C038,Center for Applied Research,Remote,"Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Research,Entry,Intern
+J0208,Research Analyst,C049,Civic Insight,"Chicago, IL","Data Visualization, Documentation, Excel, Research",Government,Entry,Full-time
+J0209,Business Analyst,C037,MedIntel,"Seattle, WA","Excel, Power BI, Requirements Gathering, SQL, Tableau",Healthcare,Entry,Intern
+J0210,Software Engineer,C030,NovaAI,Remote,"APIs, Algorithms, Java, Linux, Python, SQL",Technology,Entry,Full-time
+J0211,Data Analyst,C036,Insight Partners,"San Francisco, CA","Data Visualization, Excel, Python, SQL, Statistics, Tableau",Consulting,Entry,Full-time
+J0212,Research Assistant,C015,NorthPoint Health,"Atlanta, GA","Data Analysis, Documentation, Research, Statistics",Healthcare,Entry,Intern
+J0213,Business Analyst,C005,CuraData,"San Francisco, CA","Communication, Excel, Power BI, Requirements Gathering, Tableau",Healthcare,Mid,Full-time
+J0214,Software Engineer,C018,CloudVista,"New York, NY","APIs, Data Structures, Java, Linux, Python, SQL",Technology,Associate,Full-time
+J0215,Business Analyst,C029,Catalyst Advisory,Remote,"Communication, Excel, Power BI, Requirements Gathering, Tableau",Consulting,Entry,Full-time
+J0216,Software Engineer,C012,CartLift,"Boston, MA","Data Structures, Git, Java, Linux, Python, SQL",E-commerce,Mid,Full-time
+J0217,Operations Analyst,C035,BluePeak Consulting,"Chicago, IL","Communication, Excel, Power BI, Process Improvement, Statistics",Consulting,Associate,Part-time
+J0218,Manufacturing Engineer,C039,SkyAxis,"Boston, MA","CAD, Documentation, Quality Assurance, SolidWorks",Aerospace,Entry,Intern
+J0219,Policy Analyst,C029,Catalyst Advisory,"Atlanta, GA","Communication, Documentation, Research, Statistics",Consulting,Mid,Full-time
+J0220,Clinical Data Analyst,C038,Center for Applied Research,"New York, NY","Data Analysis, Documentation, Excel, SQL, Statistics",Research,Associate,Full-time
+J0221,Manufacturing Engineer,C039,SkyAxis,"Chicago, IL","CAD, Documentation, Process Improvement, Quality Assurance, SolidWorks",Aerospace,Entry,Intern
+J0222,Business Intelligence Analyst,C029,Catalyst Advisory,"New York, NY","Data Visualization, Power BI, SQL, Statistics, Tableau",Consulting,Entry,Full-time
+J0223,Data Analyst,C005,CuraData,"Seattle, WA","Data Visualization, Excel, Pandas, SQL, Tableau",Healthcare,Entry,Intern
+J0224,Software Engineer,C030,NovaAI,"New York, NY","APIs, Git, Java, Linux, Python, SQL",Technology,Entry,Full-time
+J0225,Software Engineer,C015,NorthPoint Health,"Detroit, MI","APIs, Algorithms, Data Structures, Git, Linux, SQL",Healthcare,Associate,Full-time
+J0226,Manufacturing Engineer,C013,PrimeMotion,"Boston, MA","CAD, Documentation, Process Improvement, Quality Assurance, SolidWorks",Manufacturing,Entry,Full-time
+J0227,Quality Analyst,C019,HelixPath,"Detroit, MI","Documentation, Excel, Process Improvement, Quality Assurance",Biotech,Associate,Full-time
+J0228,Business Analyst,C029,Catalyst Advisory,Remote,"Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Consulting,Entry,Full-time
+J0229,Operations Engineer,C006,NorthWind Energy,"Seattle, WA","Automation, Excel, Problem Solving, Process Improvement, Python",Energy,Entry,Full-time
+J0230,Quality Engineer,C013,PrimeMotion,"Washington, DC","Documentation, Excel, Quality Assurance, Statistics",Manufacturing,Entry,Intern
+J0231,Design Engineer,C014,DriveCore,"Boston, MA","CAD, MATLAB, Problem Solving, SolidWorks, Testing",Automotive,Mid,Full-time
+J0232,Business Analyst,C004,RetailGrid,"Chicago, IL","Communication, Power BI, Requirements Gathering, Tableau",Retail,Entry,Intern
+J0233,Operations Analyst,C026,Summit Bank,"New York, NY","Communication, Process Improvement, SQL, Statistics",Finance,Associate,Full-time
+J0234,Manufacturing Engineer,C008,GridSpring,Remote,"CAD, Documentation, Quality Assurance, SolidWorks",Energy,Entry,Intern
+J0235,Systems Analyst,C025,NexaTech,"Chicago, IL","Documentation, Project Management, Requirements Gathering, SQL, Testing",Technology,Entry,Intern
+J0236,Research Assistant,C005,CuraData,Remote,"Data Analysis, Excel, Research, Statistics",Healthcare,Entry,Intern
+J0237,Embedded Software Engineer,C006,NorthWind Energy,Remote,"C++, Embedded Systems, Linux, MATLAB, Python, Testing",Energy,Entry,Full-time
+J0238,Research Analyst,C036,Insight Partners,"Austin, TX","Documentation, Excel, Research, SQL, Statistics",Consulting,Entry,Full-time
+J0239,Systems Analyst,C023,ShopScale,"New York, NY","Documentation, Requirements Gathering, SQL, Testing",Retail,Entry,Intern
+J0240,Systems Analyst,C022,CareSphere,"Detroit, MI","Documentation, Project Management, Requirements Gathering, SQL, Testing",Healthcare,Associate,Full-time
+J0241,Software Engineer,C017,ByteForge,"San Francisco, CA","APIs, Algorithms, Data Structures, Linux, Python, SQL",Technology,Entry,Intern
+J0242,Data Analyst,C018,CloudVista,"Boston, MA","Data Visualization, Excel, Pandas, Python, SQL",Technology,Entry,Intern
+J0243,Data Analyst,C030,NovaAI,"New York, NY","APIs, Data Visualization, Excel, Pandas, SQL, Tableau",Technology,Entry,Intern
+J0244,Business Analyst,C004,RetailGrid,Remote,"Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Retail,Entry,Intern
+J0245,Manufacturing Engineer,C011,Axion Mobility,"Seattle, WA","CAD, Documentation, Process Improvement, Quality Assurance, SolidWorks",Automotive,Associate,Full-time
+J0246,Data Analyst,C012,CartLift,"New York, NY","APIs, Excel, Pandas, Python, SQL, Statistics, Tableau",E-commerce,Entry,Full-time
+J0247,Lab Analyst,C007,Insight Research Group,"Seattle, WA","Data Analysis, Documentation, Excel, Laboratory Techniques",Research,Entry,Intern
+J0248,Data Analyst,C024,UrbanCart,"Austin, TX","Data Visualization, Excel, Pandas, Python, Statistics, Tableau",Retail,Entry,Full-time
+J0249,Research Analyst,C030,NovaAI,"Atlanta, GA","Data Visualization, Documentation, Excel, Research, SQL, Statistics",Technology,Entry,Full-time
+J0250,Machine Learning Engineer,C001,Peak Capital,"Atlanta, GA","Communication, Git, Machine Learning, Pandas, Python, SQL, Statistics",Finance,Entry,Intern
+J0251,IT Analyst,C025,NexaTech,"San Francisco, CA","Documentation, SQL, Systems Support, Troubleshooting",Technology,Entry,Intern
+J0252,Systems Analyst,C024,UrbanCart,"Washington, DC","Documentation, Project Management, Requirements Gathering, Testing",Retail,Entry,Full-time
+J0253,Design Engineer,C014,DriveCore,"San Francisco, CA","CAD, MATLAB, Problem Solving, SolidWorks",Automotive,Associate,Full-time
+J0254,Controls Engineer,C018,CloudVista,"Atlanta, GA","APIs, Automation, MATLAB, Python, Signal Processing, Testing",Technology,Entry,Intern
+J0255,Systems Analyst,C030,NovaAI,"New York, NY","Documentation, Project Management, Requirements Gathering, SQL, Testing",Technology,Entry,Full-time
+J0256,Financial Analyst,C031,Verity Strategy,"Atlanta, GA","Communication, Excel, SQL, Statistics",Consulting,Entry,Full-time
+J0257,Manufacturing Engineer,C010,Orbital Dynamics,"Atlanta, GA","CAD, Process Improvement, Quality Assurance, SolidWorks",Aerospace,Mid,Full-time
+J0258,Software Engineer,C022,CareSphere,"Chicago, IL","APIs, Data Structures, Git, Linux, Python, SQL",Healthcare,Mid,Full-time
+J0259,Data Analyst,C016,Quantive Systems,"Seattle, WA","APIs, Excel, Pandas, Python, SQL, Statistics, Tableau",Technology,Entry,Intern
+J0260,Clinical Data Analyst,C005,CuraData,"New York, NY","Data Analysis, Documentation, Excel, SQL, Statistics",Healthcare,Entry,Intern
+J0261,Lab Analyst,C033,BrightRx,"Boston, MA","Data Analysis, Documentation, Excel, Laboratory Techniques, Quality Assurance",Pharmaceuticals,Entry,Part-time
+J0262,Quality Engineer,C041,Vector Manufacturing,Remote,"Excel, Process Improvement, Quality Assurance, Statistics",Manufacturing,Entry,Full-time
+J0263,Software Engineer,C026,Summit Bank,"Boston, MA","APIs, Algorithms, Data Structures, Java, Linux, Python",Finance,Entry,Intern
+J0264,Manufacturing Engineer,C011,Axion Mobility,"Detroit, MI","CAD, Documentation, Process Improvement, Quality Assurance, SolidWorks",Automotive,Associate,Full-time
+J0265,Business Analyst,C030,NovaAI,"Seattle, WA","Communication, Power BI, SQL, Tableau",Technology,Entry,Intern
+J0266,Quality Engineer,C013,PrimeMotion,"Atlanta, GA","Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Manufacturing,Associate,Full-time
+J0267,IT Analyst,C017,ByteForge,Remote,"APIs, Communication, Documentation, SQL, Systems Support, Troubleshooting",Technology,Entry,Intern
+J0268,Hardware Test Engineer,C025,NexaTech,"San Francisco, CA","APIs, Circuit Analysis, Documentation, MATLAB, Python, Signal Processing",Technology,Associate,Full-time
+J0269,Business Analyst,C001,Peak Capital,"San Francisco, CA","Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Finance,Associate,Full-time
+J0270,Research Assistant,C015,NorthPoint Health,Remote,"Data Analysis, Documentation, Excel, Research, Statistics",Healthcare,Entry,Intern
+J0271,Data Analyst,C022,CareSphere,"New York, NY","Excel, Pandas, Python, SQL, Statistics, Tableau",Healthcare,Entry,Full-time
+J0272,Software Engineer,C009,OakStone Advisors,"New York, NY","APIs, Algorithms, Communication, Java, Linux, Python, SQL",Finance,Entry,Full-time
+J0273,Business Analyst,C024,UrbanCart,Remote,"Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Retail,Associate,Full-time
+J0274,Data Analyst,C017,ByteForge,"Washington, DC","APIs, Data Visualization, Pandas, Python, SQL, Statistics",Technology,Entry,Intern
+J0275,Data Analyst,C024,UrbanCart,"Austin, TX","Data Visualization, Excel, Pandas, Python, SQL, Tableau",Retail,Entry,Full-time
+J0276,Operations Analyst,C005,CuraData,Remote,"Communication, Excel, Process Improvement, SQL, Statistics",Healthcare,Entry,Intern
+J0277,Data Analyst,C030,NovaAI,"Boston, MA","Data Visualization, Excel, Pandas, Python, SQL, Statistics",Technology,Entry,Intern
+J0278,Machine Learning Engineer,C025,NexaTech,"Washington, DC","Cloud, Git, Pandas, SQL, Statistics",Technology,Entry,Intern
+J0279,Hardware Test Engineer,C017,ByteForge,"Boston, MA","Circuit Analysis, Documentation, MATLAB, Python, Signal Processing",Technology,Entry,Intern
+J0280,Operations Analyst,C017,ByteForge,"New York, NY","Communication, Excel, Power BI, Process Improvement, SQL, Statistics",Technology,Entry,Full-time
+J0281,Business Analyst,C049,Civic Insight,"Atlanta, GA","Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Government,Entry,Intern
+J0282,IT Analyst,C024,UrbanCart,Remote,"Communication, Documentation, SQL, Systems Support, Troubleshooting",Retail,Associate,Full-time
+J0283,Business Analyst,C031,Verity Strategy,"New York, NY","Communication, Excel, SQL, Tableau",Consulting,Associate,Full-time
+J0284,Data Analyst,C015,NorthPoint Health,"San Francisco, CA","Data Visualization, Excel, Pandas, Python, SQL",Healthcare,Associate,Full-time
+J0285,Design Engineer,C028,AeroNova,"Boston, MA","CAD, MATLAB, Problem Solving, Testing",Aerospace,Associate,Full-time
+J0286,Business Analyst,C004,RetailGrid,"Washington, DC","Communication, Power BI, Requirements Gathering, SQL",Retail,Entry,Intern
+J0287,Clinical Data Analyst,C047,Frontier Lab,"Chicago, IL","Data Analysis, Documentation, Excel, SQL, Statistics",Research,Associate,Full-time
+J0288,Embedded Software Engineer,C018,CloudVista,"New York, NY","C++, Linux, MATLAB, Python, Testing",Technology,Mid,Full-time
+J0289,Operations Engineer,C008,GridSpring,"New York, NY","Automation, Excel, Problem Solving, Python",Energy,Entry,Intern
+J0290,Research Analyst,C031,Verity Strategy,"Detroit, MI","Data Visualization, Documentation, Excel, Research, SQL, Statistics",Consulting,Entry,Full-time
+J0291,Lab Analyst,C015,NorthPoint Health,Remote,"Data Analysis, Documentation, Laboratory Techniques, Quality Assurance",Healthcare,Entry,Intern
+J0292,Design Engineer,C043,SteelArc,Remote,"CAD, MATLAB, Problem Solving, SolidWorks",Manufacturing,Entry,Intern
+J0293,Quality Engineer,C041,Vector Manufacturing,"Chicago, IL","Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Manufacturing,Associate,Full-time
+J0294,Manufacturing Engineer,C014,DriveCore,"Washington, DC","CAD, Documentation, Quality Assurance, SolidWorks",Automotive,Entry,Intern
+J0295,Data Analyst,C027,RetailNova,"San Francisco, CA","Data Visualization, Excel, Python, SQL, Statistics, Tableau",E-commerce,Associate,Full-time
+J0296,Business Analyst,C004,RetailGrid,"New York, NY","Communication, Requirements Gathering, SQL, Tableau",Retail,Entry,Intern
+J0297,Data Analyst,C022,CareSphere,"Austin, TX","Data Visualization, Excel, Pandas, Python, Statistics, Tableau",Healthcare,Entry,Intern
+J0298,Data Analyst,C035,BluePeak Consulting,"San Francisco, CA","Data Visualization, Excel, Pandas, Python, Statistics, Tableau",Consulting,Mid,Full-time
+J0299,Machine Learning Engineer,C022,CareSphere,"Chicago, IL","Cloud, Git, Machine Learning, Python, SQL, Statistics",Healthcare,Entry,Full-time
+J0300,Research Assistant,C038,Center for Applied Research,"Detroit, MI","Data Analysis, Documentation, Excel, Research, Statistics",Research,Entry,Intern
+J0301,Quality Analyst,C007,Insight Research Group,"Chicago, IL","Documentation, Excel, Process Improvement, Quality Assurance",Research,Entry,Intern
+J0302,Software Engineer,C030,NovaAI,"Austin, TX","APIs, Data Structures, Git, Java, Python, SQL",Technology,Entry,Intern
+J0303,Quality Engineer,C028,AeroNova,"Austin, TX","Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Aerospace,Entry,Intern
+J0304,Operations Analyst,C031,Verity Strategy,"Boston, MA","Communication, Excel, Power BI, Process Improvement, SQL, Statistics",Consulting,Entry,Intern
+J0305,Clinical Data Analyst,C047,Frontier Lab,"Seattle, WA","Documentation, Excel, SQL, Statistics",Research,Entry,Intern
+J0306,Quality Analyst,C020,Novamedica,"Detroit, MI","Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Pharmaceuticals,Entry,Full-time
+J0307,Software Engineer,C001,Peak Capital,"New York, NY","APIs, Algorithms, Communication, Git, Java, Linux, Python",Finance,Entry,Full-time
+J0308,Policy Analyst,C009,OakStone Advisors,"Chicago, IL","Communication, Documentation, Excel, Research, Statistics",Finance,Associate,Full-time
+J0309,Quality Engineer,C010,Orbital Dynamics,"Washington, DC","Documentation, Excel, Process Improvement, Statistics",Aerospace,Entry,Intern
+J0310,Business Analyst,C035,BluePeak Consulting,"Boston, MA","Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Consulting,Entry,Full-time
+J0311,Research Analyst,C016,Quantive Systems,"New York, NY","APIs, Data Visualization, Documentation, Excel, SQL",Technology,Associate,Full-time
+J0312,Software Engineer,C026,Summit Bank,"Seattle, WA","APIs, Data Structures, Git, Java, Python, SQL",Finance,Entry,Full-time
+J0313,Business Analyst,C025,NexaTech,"Chicago, IL","APIs, Communication, Excel, Power BI, SQL",Technology,Associate,Full-time
+J0314,Data Analyst,C026,Summit Bank,"Atlanta, GA","Data Visualization, Excel, Pandas, Python, Tableau",Finance,Mid,Full-time
+J0315,Hardware Test Engineer,C014,DriveCore,"San Francisco, CA","Circuit Analysis, MATLAB, Python, Signal Processing",Automotive,Entry,Intern
+J0316,Data Analyst,C017,ByteForge,"San Francisco, CA","APIs, Data Visualization, Pandas, Python, SQL, Statistics, Tableau",Technology,Entry,Intern
+J0317,Machine Learning Engineer,C002,NorthBridge Finance,"Boston, MA","Cloud, Git, Machine Learning, Python, Statistics",Finance,Associate,Full-time
+J0318,Systems Analyst,C018,CloudVista,"San Francisco, CA","Documentation, Project Management, Requirements Gathering, SQL, Testing",Technology,Entry,Intern
+J0319,Quality Analyst,C050,BioBridge Labs,"San Francisco, CA","Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Biotech,Entry,Intern
+J0320,Systems Analyst,C005,CuraData,"Boston, MA","Documentation, Project Management, SQL, Testing",Healthcare,Entry,Intern
+J0321,Business Analyst,C026,Summit Bank,"New York, NY","Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Finance,Associate,Full-time
+J0322,IT Analyst,C015,NorthPoint Health,"Atlanta, GA","Communication, SQL, Systems Support, Troubleshooting",Healthcare,Associate,Part-time
+J0323,Hardware Test Engineer,C041,Vector Manufacturing,"Austin, TX","Circuit Analysis, Documentation, MATLAB, Python",Manufacturing,Entry,Intern
+J0324,Embedded Software Engineer,C043,SteelArc,"Washington, DC","C++, Linux, Python, Testing",Manufacturing,Mid,Full-time
+J0325,Cloud Analyst,C022,CareSphere,"Washington, DC","Cloud, Monitoring, Python, SQL, Troubleshooting",Healthcare,Entry,Full-time
+J0326,Business Analyst,C023,ShopScale,"Boston, MA","Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Retail,Entry,Full-time
+J0327,Financial Analyst,C025,NexaTech,"New York, NY","Communication, Excel, Financial Modeling, Statistics",Technology,Entry,Intern
+J0328,Financial Analyst,C031,Verity Strategy,"New York, NY","Communication, Excel, Financial Modeling, SQL, Statistics",Consulting,Associate,Full-time
+J0329,Software Engineer,C005,CuraData,"Chicago, IL","APIs, Algorithms, Git, Java, Linux, SQL",Healthcare,Entry,Full-time
+J0330,Data Analyst,C009,OakStone Advisors,Remote,"Excel, Python, SQL, Statistics, Tableau",Finance,Entry,Full-time
+J0331,Policy Analyst,C049,Civic Insight,"Atlanta, GA","Communication, Documentation, Excel, Research, Statistics",Government,Entry,Full-time
+J0332,Data Analyst,C009,OakStone Advisors,"Boston, MA","Data Visualization, Excel, Python, SQL, Statistics, Tableau",Finance,Entry,Intern
+J0333,Business Analyst,C036,Insight Partners,Remote,"Communication, Excel, Power BI, SQL, Tableau",Consulting,Associate,Full-time
+J0334,Quality Engineer,C039,SkyAxis,"Chicago, IL","Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Aerospace,Entry,Intern
+J0335,Quality Analyst,C005,CuraData,"Seattle, WA","Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Healthcare,Entry,Intern
+J0336,Lab Analyst,C019,HelixPath,"Detroit, MI","Data Analysis, Documentation, Excel, Laboratory Techniques",Biotech,Associate,Part-time
+J0337,Business Analyst,C036,Insight Partners,"Boston, MA","Communication, Excel, Power BI, Requirements Gathering",Consulting,Entry,Intern
+J0338,Manufacturing Engineer,C008,GridSpring,"Seattle, WA","CAD, Documentation, Process Improvement, Quality Assurance, SolidWorks",Energy,Associate,Full-time
+J0339,Research Analyst,C009,OakStone Advisors,"Boston, MA","Data Visualization, Documentation, Excel, SQL",Finance,Associate,Full-time
+J0340,Business Analyst,C036,Insight Partners,Remote,"Power BI, Requirements Gathering, SQL, Tableau",Consulting,Entry,Intern
+J0341,Operations Engineer,C046,Motivon Systems,"Seattle, WA","Automation, Excel, Process Improvement, Python",Automotive,Entry,Full-time
+J0342,Software Engineer,C005,CuraData,"Atlanta, GA","Algorithms, Data Structures, Git, Java, Python, SQL",Healthcare,Entry,Intern
+J0343,Data Analyst,C016,Quantive Systems,Remote,"Data Visualization, Excel, Pandas, Python, Tableau",Technology,Associate,Full-time
+J0344,Design Engineer,C043,SteelArc,"Austin, TX","MATLAB, Problem Solving, SolidWorks, Testing",Manufacturing,Associate,Full-time
+J0345,Business Analyst,C002,NorthBridge Finance,"Washington, DC","Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Finance,Entry,Full-time
+J0346,Business Analyst,C016,Quantive Systems,"Austin, TX","Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Technology,Entry,Intern
+J0347,Software Engineer,C016,Quantive Systems,"Chicago, IL","APIs, Algorithms, Data Structures, Git, Java, Python, SQL",Technology,Entry,Intern
+J0348,Data Analyst,C015,NorthPoint Health,"Washington, DC","Data Visualization, Pandas, SQL, Statistics, Tableau",Healthcare,Entry,Intern
+J0349,Data Analyst,C016,Quantive Systems,"Seattle, WA","APIs, Data Visualization, Excel, Pandas, Python, Tableau",Technology,Associate,Full-time
+J0350,Manufacturing Engineer,C039,SkyAxis,Remote,"CAD, Documentation, Process Improvement, Quality Assurance, SolidWorks",Aerospace,Entry,Full-time
+J0351,Research Assistant,C050,BioBridge Labs,"Seattle, WA","Data Analysis, Excel, Research, Statistics",Biotech,Entry,Intern
+J0352,Machine Learning Engineer,C026,Summit Bank,"Chicago, IL","Cloud, Communication, Git, Machine Learning, Python, SQL, Statistics",Finance,Associate,Full-time
+J0353,Hardware Test Engineer,C006,NorthWind Energy,"San Francisco, CA","Circuit Analysis, Documentation, MATLAB, Python, Signal Processing",Energy,Associate,Full-time
+J0354,Machine Learning Engineer,C012,CartLift,"San Francisco, CA","Cloud, Git, Pandas, Python, Statistics",E-commerce,Entry,Intern
+J0355,Embedded Software Engineer,C045,TorqueWorks,"Chicago, IL","C++, Embedded Systems, Linux, MATLAB, Testing",Automotive,Associate,Full-time
+J0356,Operations Analyst,C005,CuraData,"Washington, DC","Communication, Excel, Power BI, Process Improvement, SQL",Healthcare,Entry,Intern
+J0357,Data Analyst,C037,MedIntel,Remote,"Data Visualization, Excel, Pandas, Python, Statistics, Tableau",Healthcare,Associate,Full-time
+J0358,Hardware Test Engineer,C030,NovaAI,"San Francisco, CA","Circuit Analysis, Documentation, MATLAB, Python, Signal Processing",Technology,Entry,Full-time
+J0359,Clinical Data Analyst,C015,NorthPoint Health,"Detroit, MI","Data Analysis, Documentation, Excel, Statistics",Healthcare,Entry,Full-time
+J0360,Hardware Test Engineer,C014,DriveCore,"San Francisco, CA","Circuit Analysis, Documentation, MATLAB, Python, Signal Processing",Automotive,Associate,Full-time
+J0361,Research Assistant,C007,Insight Research Group,"Seattle, WA","Data Analysis, Excel, Research, Statistics",Research,Entry,Part-time
+J0362,Manufacturing Engineer,C045,TorqueWorks,"New York, NY","CAD, Documentation, Quality Assurance, SolidWorks",Automotive,Mid,Full-time
+J0363,Business Analyst,C026,Summit Bank,Remote,"Communication, Excel, SQL, Tableau",Finance,Associate,Full-time
+J0364,Quality Analyst,C005,CuraData,"Washington, DC","Documentation, Excel, Process Improvement, Quality Assurance",Healthcare,Entry,Intern
+J0365,Operations Analyst,C017,ByteForge,"Austin, TX","Communication, Excel, Power BI, Process Improvement, SQL, Statistics",Technology,Associate,Part-time
+J0366,Software Engineer,C027,RetailNova,"Austin, TX","APIs, Data Structures, Git, Java, Python, SQL",E-commerce,Mid,Full-time
+J0367,Business Analyst,C026,Summit Bank,"Chicago, IL","Communication, Power BI, Requirements Gathering, SQL, Tableau",Finance,Entry,Intern
+J0368,Data Analyst,C015,NorthPoint Health,"Detroit, MI","Data Visualization, Excel, Pandas, Python, Statistics, Tableau",Healthcare,Entry,Full-time
+J0369,Financial Analyst,C031,Verity Strategy,"Chicago, IL","Communication, Excel, SQL, Statistics",Consulting,Entry,Intern
+J0370,Quality Engineer,C010,Orbital Dynamics,"San Francisco, CA","Documentation, Excel, Process Improvement, Statistics",Aerospace,Entry,Full-time
+J0371,Clinical Data Analyst,C038,Center for Applied Research,"Seattle, WA","Data Analysis, Documentation, Excel, SQL, Statistics",Research,Entry,Intern
+J0372,Machine Learning Engineer,C018,CloudVista,"Austin, TX","APIs, Cloud, Git, Machine Learning, Python, SQL, Statistics",Technology,Entry,Intern
+J0373,Software Engineer,C017,ByteForge,"San Francisco, CA","APIs, Algorithms, Data Structures, Git, Java, Python",Technology,Entry,Intern
+J0374,Embedded Software Engineer,C008,GridSpring,"New York, NY","C++, Embedded Systems, Linux, MATLAB, Python, Testing",Energy,Entry,Intern
+J0375,Software Engineer,C048,SwiftBasket,"New York, NY","APIs, Data Structures, Git, Java, Linux, Python",E-commerce,Entry,Intern
+J0376,Data Analyst,C048,SwiftBasket,"San Francisco, CA","Excel, Pandas, Python, SQL, Statistics, Tableau",E-commerce,Associate,Full-time
+J0377,Hardware Test Engineer,C045,TorqueWorks,"Seattle, WA","Circuit Analysis, Documentation, MATLAB, Python, Signal Processing",Automotive,Associate,Full-time
+J0378,Data Analyst,C036,Insight Partners,"Seattle, WA","Data Visualization, Excel, Python, SQL, Statistics, Tableau",Consulting,Entry,Full-time
+J0379,Research Assistant,C042,GeneNova,"Detroit, MI","Data Analysis, Documentation, Excel, Statistics",Biotech,Entry,Intern
+J0380,Data Analyst,C024,UrbanCart,"Chicago, IL","Excel, Pandas, Python, Statistics, Tableau",Retail,Entry,Intern
+J0381,Data Analyst,C017,ByteForge,"Chicago, IL","Data Visualization, Excel, Pandas, Python, Statistics, Tableau",Technology,Entry,Full-time
+J0382,Systems Analyst,C040,MarketLane,"Detroit, MI","Documentation, Project Management, Requirements Gathering, SQL, Testing",Retail,Entry,Full-time
+J0383,Manufacturing Engineer,C021,TerraVolt,Remote,"Documentation, Process Improvement, Quality Assurance, SolidWorks",Energy,Entry,Intern
+J0384,Hardware Test Engineer,C025,NexaTech,"New York, NY","Circuit Analysis, Documentation, Python, Signal Processing",Technology,Entry,Intern
+J0385,IT Analyst,C024,UrbanCart,"Chicago, IL","Communication, Documentation, SQL, Systems Support, Troubleshooting",Retail,Entry,Full-time
+J0386,Research Assistant,C019,HelixPath,"New York, NY","Data Analysis, Documentation, Excel, Research, Statistics",Biotech,Entry,Part-time
+J0387,Systems Analyst,C015,NorthPoint Health,"Atlanta, GA","Project Management, Requirements Gathering, SQL, Testing",Healthcare,Entry,Intern
+J0388,Data Analyst,C002,NorthBridge Finance,"Atlanta, GA","Data Visualization, Excel, Python, SQL, Statistics, Tableau",Finance,Associate,Full-time
+J0389,Financial Analyst,C035,BluePeak Consulting,"San Francisco, CA","Communication, Financial Modeling, SQL, Statistics",Consulting,Associate,Full-time
+J0390,Design Engineer,C013,PrimeMotion,Remote,"CAD, MATLAB, Problem Solving, Testing",Manufacturing,Entry,Intern
+J0391,Business Analyst,C024,UrbanCart,"Atlanta, GA","Power BI, Requirements Gathering, SQL, Tableau",Retail,Mid,Full-time
+J0392,Business Analyst,C040,MarketLane,"New York, NY","Communication, Excel, Requirements Gathering, SQL, Tableau",Retail,Associate,Full-time
+J0393,Machine Learning Engineer,C037,MedIntel,"Boston, MA","Cloud, Machine Learning, Pandas, Python, Statistics",Healthcare,Entry,Intern
+J0394,Operations Analyst,C026,Summit Bank,Remote,"Communication, Excel, Power BI, Process Improvement, SQL, Statistics",Finance,Entry,Intern
+J0395,Machine Learning Engineer,C012,CartLift,Remote,"Cloud, Git, Machine Learning, Pandas, Python, SQL",E-commerce,Entry,Intern
+J0396,Operations Analyst,C018,CloudVista,"Seattle, WA","Communication, Excel, Power BI, Process Improvement, SQL, Statistics",Technology,Associate,Part-time
+J0397,Manufacturing Engineer,C046,Motivon Systems,"Washington, DC","CAD, Documentation, Process Improvement, Quality Assurance, SolidWorks",Automotive,Entry,Intern
+J0398,Research Analyst,C026,Summit Bank,"Austin, TX","Data Visualization, Documentation, Excel, Research, SQL",Finance,Associate,Full-time
+J0399,Cloud Analyst,C022,CareSphere,"Boston, MA","Cloud, Linux, Monitoring, SQL",Healthcare,Entry,Intern
+J0400,Business Analyst,C004,RetailGrid,"Austin, TX","Communication, Excel, Power BI, Requirements Gathering, SQL",Retail,Entry,Intern
+J0401,Quality Analyst,C005,CuraData,"Boston, MA","Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Healthcare,Entry,Intern
+J0402,Research Assistant,C050,BioBridge Labs,"New York, NY","Data Analysis, Documentation, Excel, Research, Statistics",Biotech,Entry,Intern
+J0403,Cloud Analyst,C016,Quantive Systems,"Seattle, WA","APIs, Cloud, Linux, Monitoring, Python, SQL",Technology,Mid,Full-time
+J0404,Data Analyst,C022,CareSphere,"Seattle, WA","Data Visualization, Excel, Pandas, SQL, Statistics",Healthcare,Entry,Intern
+J0405,Design Engineer,C006,NorthWind Energy,"New York, NY","MATLAB, Problem Solving, SolidWorks, Testing",Energy,Associate,Full-time
+J0406,Data Analyst,C002,NorthBridge Finance,"Austin, TX","Data Visualization, Excel, Pandas, Python, SQL, Statistics",Finance,Entry,Intern
+J0407,Data Analyst,C002,NorthBridge Finance,"Austin, TX","Data Visualization, Python, SQL, Statistics, Tableau",Finance,Entry,Full-time
+J0408,Business Intelligence Analyst,C035,BluePeak Consulting,"Detroit, MI","Data Visualization, Excel, Power BI, SQL, Statistics, Tableau",Consulting,Associate,Full-time
+J0409,Business Analyst,C026,Summit Bank,"New York, NY","Communication, Excel, Requirements Gathering, SQL, Tableau",Finance,Entry,Intern
+J0410,Manufacturing Engineer,C021,TerraVolt,"Seattle, WA","CAD, Documentation, Quality Assurance, SolidWorks",Energy,Entry,Intern
+J0411,Data Analyst,C037,MedIntel,"San Francisco, CA","Data Visualization, Excel, Pandas, Python, Statistics",Healthcare,Entry,Intern
+J0412,Software Engineer,C002,NorthBridge Finance,"San Francisco, CA","APIs, Git, Java, Linux, Python, SQL",Finance,Mid,Full-time
+J0413,Business Analyst,C001,Peak Capital,"New York, NY","Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Finance,Entry,Intern
+J0414,Policy Analyst,C049,Civic Insight,"Detroit, MI","Communication, Documentation, Excel, Research, Statistics",Government,Entry,Intern
+J0415,Machine Learning Engineer,C030,NovaAI,"Washington, DC","APIs, Cloud, Machine Learning, Pandas, SQL, Statistics",Technology,Entry,Intern
+J0416,Marketing Analyst,C018,CloudVista,"Atlanta, GA","A/B Testing, Communication, Data Visualization, Excel, Statistics",Technology,Associate,Full-time
+J0417,Research Assistant,C044,Aster Pharma,"Atlanta, GA","Data Analysis, Documentation, Excel, Research, Statistics",Pharmaceuticals,Entry,Part-time
+J0418,Machine Learning Engineer,C037,MedIntel,Remote,"Cloud, Git, Pandas, Python, SQL, Statistics",Healthcare,Associate,Full-time
+J0419,Quality Engineer,C021,TerraVolt,"Atlanta, GA","Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Energy,Entry,Intern
+J0420,Business Intelligence Analyst,C022,CareSphere,"Washington, DC","Data Visualization, Excel, Power BI, SQL, Statistics, Tableau",Healthcare,Entry,Intern
+J0421,Business Analyst,C001,Peak Capital,"Washington, DC","Communication, Requirements Gathering, SQL, Tableau",Finance,Entry,Intern
+J0422,Policy Analyst,C009,OakStone Advisors,Remote,"Communication, Documentation, Excel, Research, Statistics",Finance,Entry,Full-time
+J0423,Quality Analyst,C047,Frontier Lab,"Austin, TX","Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Research,Entry,Full-time
+J0424,Research Assistant,C042,GeneNova,"San Francisco, CA","Data Analysis, Documentation, Excel, Research, Statistics",Biotech,Entry,Intern
+J0425,Marketing Analyst,C004,RetailGrid,Remote,"Communication, Excel, SQL, Statistics",Retail,Associate,Full-time
+J0426,Manufacturing Engineer,C010,Orbital Dynamics,"Austin, TX","CAD, Documentation, Process Improvement, Quality Assurance, SolidWorks",Aerospace,Entry,Intern
+J0427,Systems Analyst,C037,MedIntel,"Austin, TX","Documentation, Requirements Gathering, SQL, Testing",Healthcare,Entry,Full-time
+J0428,Business Analyst,C031,Verity Strategy,"New York, NY","Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Consulting,Entry,Intern
+J0429,Manufacturing Engineer,C039,SkyAxis,Remote,"CAD, Documentation, Quality Assurance, SolidWorks",Aerospace,Entry,Intern
+J0430,Data Analyst,C031,Verity Strategy,"Austin, TX","Excel, Pandas, Python, Statistics, Tableau",Consulting,Associate,Full-time
+J0431,Operations Engineer,C021,TerraVolt,"Austin, TX","Automation, Excel, Problem Solving, Python",Energy,Associate,Full-time
+J0432,Research Assistant,C042,GeneNova,"Washington, DC","Data Analysis, Documentation, Excel, Research, Statistics",Biotech,Entry,Part-time
+J0433,Embedded Software Engineer,C021,TerraVolt,"San Francisco, CA","C++, Embedded Systems, MATLAB, Python",Energy,Entry,Intern
+J0434,Data Analyst,C029,Catalyst Advisory,"New York, NY","Excel, Pandas, Python, SQL, Statistics, Tableau",Consulting,Entry,Intern
+J0435,Systems Analyst,C015,NorthPoint Health,"Chicago, IL","Documentation, Project Management, Requirements Gathering, SQL, Testing",Healthcare,Entry,Intern
+J0436,Software Engineer,C027,RetailNova,"Boston, MA","Algorithms, Data Structures, Git, Java, Python, SQL",E-commerce,Entry,Intern
+J0437,Data Analyst,C048,SwiftBasket,"Austin, TX","APIs, Data Visualization, Excel, Pandas, Python, SQL, Statistics",E-commerce,Associate,Full-time
+J0438,Business Analyst,C018,CloudVista,"Chicago, IL","APIs, Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Technology,Entry,Intern
+J0439,Data Analyst,C001,Peak Capital,"Washington, DC","Data Visualization, Pandas, Python, SQL, Tableau",Finance,Associate,Full-time
+J0440,Research Assistant,C038,Center for Applied Research,"San Francisco, CA","Data Analysis, Documentation, Excel, Research, Statistics",Research,Entry,Intern
+J0441,Research Assistant,C050,BioBridge Labs,"New York, NY","Data Analysis, Documentation, Excel, Research",Biotech,Entry,Part-time
+J0442,Business Intelligence Analyst,C016,Quantive Systems,"Boston, MA","Data Visualization, Excel, Power BI, Statistics",Technology,Associate,Full-time
+J0443,Clinical Data Analyst,C015,NorthPoint Health,"Chicago, IL","Data Analysis, Documentation, Excel, SQL",Healthcare,Entry,Intern
+J0444,Lab Analyst,C022,CareSphere,"Atlanta, GA","Data Analysis, Documentation, Excel, Laboratory Techniques, Quality Assurance",Healthcare,Entry,Intern
+J0445,Financial Analyst,C016,Quantive Systems,"Seattle, WA","APIs, Communication, Excel, Financial Modeling, Statistics",Technology,Associate,Full-time
+J0446,IT Analyst,C022,CareSphere,"San Francisco, CA","Communication, SQL, Systems Support, Troubleshooting",Healthcare,Entry,Full-time
+J0447,Software Engineer,C005,CuraData,"Boston, MA","APIs, Algorithms, Data Structures, Java, Linux, SQL",Healthcare,Associate,Full-time
+J0448,Software Engineer,C012,CartLift,Remote,"APIs, Data Structures, Git, Java, Linux, SQL",E-commerce,Entry,Intern
+J0449,Operations Analyst,C017,ByteForge,"New York, NY","Communication, Process Improvement, SQL, Statistics",Technology,Mid,Full-time
+J0450,Business Analyst,C029,Catalyst Advisory,Remote,"Excel, Power BI, Requirements Gathering, SQL, Tableau",Consulting,Entry,Intern
+J0451,Business Analyst,C031,Verity Strategy,"Chicago, IL","Communication, Excel, Power BI, Requirements Gathering",Consulting,Entry,Intern
+J0452,Business Intelligence Analyst,C018,CloudVista,Remote,"Data Visualization, Power BI, SQL, Statistics, Tableau",Technology,Entry,Full-time
+J0453,Machine Learning Engineer,C022,CareSphere,"Detroit, MI","Cloud, Machine Learning, Pandas, Python, SQL, Statistics",Healthcare,Entry,Intern
+J0454,Software Engineer,C012,CartLift,"New York, NY","APIs, Algorithms, Data Structures, Git, Linux, SQL",E-commerce,Entry,Intern
+J0455,Operations Analyst,C004,RetailGrid,"New York, NY","Communication, Excel, Power BI, SQL",Retail,Entry,Full-time
+J0456,Research Assistant,C038,Center for Applied Research,"Washington, DC","Data Analysis, Documentation, Excel, Research",Research,Entry,Intern
+J0457,Operations Analyst,C018,CloudVista,"San Francisco, CA","APIs, Communication, Power BI, Process Improvement, SQL, Statistics",Technology,Entry,Part-time
+J0458,Business Analyst,C004,RetailGrid,"Austin, TX","Excel, Power BI, SQL, Tableau",Retail,Entry,Intern
+J0459,Policy Analyst,C002,NorthBridge Finance,"Detroit, MI","Documentation, Excel, Research, Statistics",Finance,Entry,Full-time
+J0460,Hardware Test Engineer,C011,Axion Mobility,"San Francisco, CA","Circuit Analysis, Documentation, MATLAB, Python, Signal Processing",Automotive,Entry,Intern
+J0461,Embedded Software Engineer,C021,TerraVolt,Remote,"C++, Linux, MATLAB, Python, Testing",Energy,Entry,Intern
+J0462,Design Engineer,C011,Axion Mobility,"Boston, MA","CAD, MATLAB, Problem Solving, SolidWorks, Testing",Automotive,Entry,Full-time
+J0463,Business Analyst,C005,CuraData,"Boston, MA","Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Healthcare,Mid,Full-time
+J0464,Marketing Analyst,C017,ByteForge,"Atlanta, GA","Communication, Excel, SQL, Statistics",Technology,Entry,Full-time
+J0465,Policy Analyst,C025,NexaTech,"Boston, MA","APIs, Communication, Documentation, Excel, Research, Statistics",Technology,Entry,Full-time
+J0466,Business Intelligence Analyst,C026,Summit Bank,"Washington, DC","Data Visualization, Excel, Power BI, SQL, Statistics, Tableau",Finance,Entry,Full-time
+J0467,Quality Engineer,C010,Orbital Dynamics,"San Francisco, CA","Excel, Process Improvement, Quality Assurance, Statistics",Aerospace,Entry,Intern
+J0468,Research Assistant,C015,NorthPoint Health,Remote,"Data Analysis, Documentation, Excel, Research, Statistics",Healthcare,Entry,Intern
+J0469,Operations Analyst,C023,ShopScale,"Austin, TX","Communication, Excel, Power BI, Statistics",Retail,Entry,Intern
+J0470,Data Analyst,C012,CartLift,"San Francisco, CA","Data Visualization, Excel, Pandas, Python, SQL, Tableau",E-commerce,Entry,Intern
+J0471,Data Analyst,C048,SwiftBasket,"Boston, MA","Data Visualization, Pandas, Python, Statistics, Tableau",E-commerce,Mid,Full-time
+J0472,Lab Analyst,C033,BrightRx,"Washington, DC","Data Analysis, Documentation, Excel, Laboratory Techniques, Quality Assurance",Pharmaceuticals,Entry,Part-time
+J0473,Lab Analyst,C019,HelixPath,"Chicago, IL","Data Analysis, Documentation, Excel, Laboratory Techniques",Biotech,Entry,Part-time
+J0474,Business Intelligence Analyst,C016,Quantive Systems,"Chicago, IL","Data Visualization, Power BI, SQL, Tableau",Technology,Entry,Full-time
+J0475,Research Analyst,C035,BluePeak Consulting,"Austin, TX","Documentation, Excel, Research, Statistics",Consulting,Entry,Full-time
+J0476,Clinical Data Analyst,C015,NorthPoint Health,"Atlanta, GA","Data Analysis, Documentation, Excel, SQL, Statistics",Healthcare,Associate,Full-time
+J0477,Data Analyst,C001,Peak Capital,Remote,"Data Visualization, Pandas, Python, SQL, Tableau",Finance,Entry,Intern
+J0478,Software Engineer,C001,Peak Capital,Remote,"APIs, Algorithms, Data Structures, Git, Python, SQL",Finance,Associate,Full-time
+J0479,Systems Analyst,C025,NexaTech,"Atlanta, GA","APIs, Documentation, Project Management, Requirements Gathering, SQL",Technology,Entry,Intern
+J0480,Design Engineer,C011,Axion Mobility,Remote,"CAD, MATLAB, Problem Solving, SolidWorks, Testing",Automotive,Entry,Full-time
+J0481,Software Engineer,C026,Summit Bank,"Boston, MA","APIs, Algorithms, Data Structures, Git, Java, Python",Finance,Entry,Intern
+J0482,Hardware Test Engineer,C006,NorthWind Energy,"Atlanta, GA","Circuit Analysis, Documentation, MATLAB, Signal Processing",Energy,Entry,Intern
+J0483,Research Assistant,C042,GeneNova,"New York, NY","Data Analysis, Documentation, Excel, Research, Statistics",Biotech,Entry,Intern
+J0484,Manufacturing Engineer,C006,NorthWind Energy,"Atlanta, GA","Documentation, Process Improvement, Quality Assurance, SolidWorks",Energy,Entry,Full-time
+J0485,Research Analyst,C031,Verity Strategy,"Chicago, IL","Data Visualization, Documentation, Excel, Research, SQL, Statistics",Consulting,Entry,Full-time
+J0486,Business Analyst,C016,Quantive Systems,Remote,"Communication, Power BI, Requirements Gathering, SQL, Tableau",Technology,Entry,Intern
+J0487,Research Analyst,C049,Civic Insight,"Austin, TX","Data Visualization, Documentation, Excel, Research, Statistics",Government,Entry,Intern
+J0488,Business Analyst,C037,MedIntel,"New York, NY","Communication, Excel, Requirements Gathering, SQL, Tableau",Healthcare,Associate,Full-time
+J0489,Data Analyst,C023,ShopScale,"Washington, DC","Data Visualization, Pandas, Python, SQL, Tableau",Retail,Associate,Full-time
+J0490,Data Analyst,C012,CartLift,"Austin, TX","APIs, Data Visualization, Excel, Pandas, Python, Tableau",E-commerce,Associate,Full-time
+J0491,Hardware Test Engineer,C017,ByteForge,Remote,"Documentation, MATLAB, Python, Signal Processing",Technology,Entry,Full-time
+J0492,Clinical Data Analyst,C020,Novamedica,Remote,"Data Analysis, Documentation, Excel, SQL, Statistics",Pharmaceuticals,Entry,Intern
+J0493,Research Analyst,C032,Public Systems Office,"San Francisco, CA","Documentation, Research, SQL, Statistics",Government,Entry,Full-time
+J0494,Machine Learning Engineer,C022,CareSphere,"San Francisco, CA","Cloud, Git, Machine Learning, Python, SQL, Statistics",Healthcare,Entry,Intern
+J0495,Data Analyst,C016,Quantive Systems,"Chicago, IL","APIs, Data Visualization, Pandas, Python, Statistics, Tableau",Technology,Mid,Full-time
+J0496,Business Analyst,C024,UrbanCart,"Washington, DC","Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Retail,Entry,Full-time
+J0497,Systems Analyst,C017,ByteForge,"Chicago, IL","APIs, Project Management, Requirements Gathering, SQL, Testing",Technology,Associate,Full-time
+J0498,Clinical Data Analyst,C007,Insight Research Group,"Boston, MA","Data Analysis, Documentation, Excel, SQL, Statistics",Research,Entry,Intern
+J0499,Business Analyst,C004,RetailGrid,"Washington, DC","Communication, Excel, Requirements Gathering, SQL",Retail,Entry,Intern
+J0500,Design Engineer,C028,AeroNova,"Chicago, IL","CAD, Problem Solving, SolidWorks, Testing",Aerospace,Associate,Full-time
+J0501,Controls Engineer,C013,PrimeMotion,"Seattle, WA","Automation, MATLAB, Python, Testing",Manufacturing,Entry,Intern
+J0502,Business Analyst,C016,Quantive Systems,"Austin, TX","Communication, Excel, Power BI, Requirements Gathering",Technology,Associate,Full-time
+J0503,Business Analyst,C023,ShopScale,"Boston, MA","Communication, Excel, Power BI, Requirements Gathering, SQL",Retail,Entry,Intern
+J0504,Design Engineer,C013,PrimeMotion,"Detroit, MI","MATLAB, Problem Solving, SolidWorks, Testing",Manufacturing,Entry,Full-time
+J0505,Research Analyst,C030,NovaAI,"New York, NY","Data Visualization, Documentation, Research, Statistics",Technology,Entry,Intern
+J0506,Machine Learning Engineer,C009,OakStone Advisors,"Boston, MA","Cloud, Git, Machine Learning, SQL, Statistics",Finance,Entry,Full-time
+J0507,Embedded Software Engineer,C017,ByteForge,"Austin, TX","APIs, C++, Embedded Systems, Linux, MATLAB, Python, Testing",Technology,Entry,Intern
+J0508,Cloud Analyst,C002,NorthBridge Finance,"Detroit, MI","Cloud, Linux, Monitoring, Python, SQL, Troubleshooting",Finance,Entry,Intern
+J0509,Research Assistant,C015,NorthPoint Health,"New York, NY","Data Analysis, Documentation, Excel, Statistics",Healthcare,Entry,Intern
+J0510,Operations Analyst,C023,ShopScale,"San Francisco, CA","Communication, Excel, Process Improvement, SQL, Statistics",Retail,Entry,Intern
+J0511,Controls Engineer,C025,NexaTech,"Chicago, IL","APIs, Automation, MATLAB, Python, Signal Processing, Testing",Technology,Entry,Intern
+J0512,Design Engineer,C021,TerraVolt,"Atlanta, GA","CAD, MATLAB, Problem Solving, SolidWorks, Testing",Energy,Mid,Full-time
+J0513,Quality Analyst,C042,GeneNova,Remote,"Documentation, Excel, Quality Assurance, Statistics",Biotech,Entry,Intern
+J0514,Marketing Analyst,C026,Summit Bank,"New York, NY","A/B Testing, Communication, Data Visualization, Excel, SQL, Statistics",Finance,Entry,Intern
+J0515,Systems Analyst,C035,BluePeak Consulting,"San Francisco, CA","Project Management, Requirements Gathering, SQL, Testing",Consulting,Entry,Intern
+J0516,Software Engineer,C002,NorthBridge Finance,"Atlanta, GA","APIs, Algorithms, Data Structures, Git, Linux, Python",Finance,Entry,Intern
+J0517,Data Analyst,C027,RetailNova,"Boston, MA","Data Visualization, Excel, Pandas, Python, Statistics, Tableau",E-commerce,Entry,Full-time
+J0518,Quality Analyst,C019,HelixPath,"Detroit, MI","Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Biotech,Mid,Full-time
+J0519,Business Analyst,C023,ShopScale,"Detroit, MI","Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Retail,Entry,Intern
+J0520,Research Assistant,C011,Axion Mobility,"New York, NY","Data Analysis, Documentation, Excel, Research, Statistics",Automotive,Entry,Intern
+J0521,Manufacturing Engineer,C045,TorqueWorks,"Seattle, WA","CAD, Documentation, Process Improvement, Quality Assurance, SolidWorks",Automotive,Associate,Full-time
+J0522,Operations Engineer,C011,Axion Mobility,"Boston, MA","Excel, Problem Solving, Process Improvement, Python",Automotive,Entry,Intern
+J0523,Operations Analyst,C037,MedIntel,"San Francisco, CA","Excel, Power BI, Process Improvement, SQL",Healthcare,Entry,Full-time
+J0524,Machine Learning Engineer,C025,NexaTech,"Chicago, IL","Cloud, Git, Pandas, Python, Statistics",Technology,Entry,Full-time
+J0525,Systems Analyst,C040,MarketLane,"Atlanta, GA","Project Management, Requirements Gathering, SQL, Testing",Retail,Associate,Full-time
+J0526,Clinical Data Analyst,C005,CuraData,"Atlanta, GA","Data Analysis, Documentation, Excel, SQL, Statistics",Healthcare,Entry,Intern
+J0527,Business Analyst,C031,Verity Strategy,"Austin, TX","Communication, Excel, Power BI, SQL, Tableau",Consulting,Entry,Full-time
+J0528,Business Analyst,C035,BluePeak Consulting,Remote,"Communication, Excel, Requirements Gathering, SQL, Tableau",Consulting,Associate,Full-time
+J0529,Data Analyst,C001,Peak Capital,"Atlanta, GA","Data Visualization, Excel, Pandas, Python, SQL, Tableau",Finance,Entry,Full-time
+J0530,Machine Learning Engineer,C009,OakStone Advisors,"Seattle, WA","Cloud, Communication, Git, Machine Learning, Pandas, Python",Finance,Entry,Intern
+J0531,Quality Engineer,C011,Axion Mobility,Remote,"Documentation, Excel, Quality Assurance, Statistics",Automotive,Entry,Intern
+J0532,Systems Analyst,C030,NovaAI,Remote,"APIs, Documentation, Project Management, Requirements Gathering, SQL, Testing",Technology,Entry,Full-time
+J0533,Machine Learning Engineer,C005,CuraData,"Austin, TX","Cloud, Git, Machine Learning, Python, SQL",Healthcare,Entry,Intern
+J0534,Operations Analyst,C026,Summit Bank,"Seattle, WA","Communication, Excel, Power BI, Process Improvement, SQL, Statistics",Finance,Entry,Full-time
+J0535,Manufacturing Engineer,C041,Vector Manufacturing,"New York, NY","CAD, Documentation, Process Improvement, Quality Assurance, SolidWorks",Manufacturing,Entry,Intern
+J0536,Financial Analyst,C016,Quantive Systems,"Seattle, WA","APIs, Communication, Excel, SQL, Statistics",Technology,Entry,Intern
+J0537,Machine Learning Engineer,C027,RetailNova,"Washington, DC","APIs, Git, Machine Learning, Pandas, SQL, Statistics",E-commerce,Entry,Intern
+J0538,Operations Analyst,C017,ByteForge,"Detroit, MI","Communication, Process Improvement, SQL, Statistics",Technology,Entry,Intern
+J0539,Data Analyst,C027,RetailNova,Remote,"Data Visualization, Excel, Pandas, Python, Statistics",E-commerce,Associate,Full-time
+J0540,Systems Analyst,C035,BluePeak Consulting,"Austin, TX","Documentation, Project Management, Requirements Gathering, SQL, Testing",Consulting,Mid,Full-time
+J0541,Research Analyst,C016,Quantive Systems,"Detroit, MI","Data Visualization, Documentation, Excel, Research, SQL, Statistics",Technology,Entry,Full-time
+J0542,Embedded Software Engineer,C017,ByteForge,Remote,"APIs, C++, Embedded Systems, Linux, MATLAB, Python, Testing",Technology,Entry,Full-time
+J0543,Systems Analyst,C015,NorthPoint Health,"San Francisco, CA","Documentation, Project Management, Requirements Gathering, Testing",Healthcare,Entry,Intern
+J0544,Systems Analyst,C037,MedIntel,Remote,"Documentation, Project Management, SQL, Testing",Healthcare,Entry,Intern
+J0545,Embedded Software Engineer,C021,TerraVolt,"Chicago, IL","Embedded Systems, Linux, MATLAB, Python, Testing",Energy,Entry,Intern
+J0546,Software Engineer,C027,RetailNova,"Washington, DC","APIs, Algorithms, Data Structures, Git, Java, SQL",E-commerce,Entry,Full-time
+J0547,Business Analyst,C023,ShopScale,"San Francisco, CA","Communication, Excel, Power BI, Requirements Gathering, Tableau",Retail,Entry,Intern
+J0548,Business Analyst,C001,Peak Capital,"Chicago, IL","Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Finance,Entry,Intern
+J0549,Systems Analyst,C015,NorthPoint Health,"Seattle, WA","Documentation, Project Management, Requirements Gathering, Testing",Healthcare,Entry,Intern
+J0550,Business Analyst,C024,UrbanCart,Remote,"Communication, Excel, Requirements Gathering, SQL, Tableau",Retail,Associate,Full-time
+J0551,Software Engineer,C012,CartLift,"Chicago, IL","APIs, Algorithms, Git, Java, Python, SQL",E-commerce,Associate,Full-time
+J0552,Hardware Test Engineer,C046,Motivon Systems,"New York, NY","Circuit Analysis, Documentation, MATLAB, Python",Automotive,Associate,Full-time
+J0553,Manufacturing Engineer,C008,GridSpring,Remote,"CAD, Documentation, Process Improvement, Quality Assurance, SolidWorks",Energy,Associate,Full-time
+J0554,Hardware Test Engineer,C034,Orion Industrial,"Boston, MA","Circuit Analysis, Documentation, MATLAB, Python, Signal Processing",Manufacturing,Entry,Full-time
+J0555,Data Analyst,C035,BluePeak Consulting,"Atlanta, GA","Data Visualization, Pandas, Python, SQL, Tableau",Consulting,Associate,Full-time
+J0556,Business Analyst,C023,ShopScale,Remote,"Communication, Excel, Requirements Gathering, Tableau",Retail,Entry,Full-time
+J0557,Clinical Data Analyst,C042,GeneNova,Remote,"Data Analysis, Documentation, Excel, SQL",Biotech,Entry,Intern
+J0558,Research Assistant,C015,NorthPoint Health,"New York, NY","Data Analysis, Documentation, Excel, Research, Statistics",Healthcare,Entry,Intern
+J0559,Business Intelligence Analyst,C001,Peak Capital,"Chicago, IL","Data Visualization, Excel, SQL, Tableau",Finance,Mid,Full-time
+J0560,Machine Learning Engineer,C001,Peak Capital,"New York, NY","Git, Machine Learning, Python, SQL, Statistics",Finance,Associate,Full-time
+J0561,Cloud Analyst,C001,Peak Capital,"Austin, TX","Cloud, Monitoring, Python, Troubleshooting",Finance,Entry,Intern
+J0562,Data Analyst,C002,NorthBridge Finance,Remote,"Excel, Pandas, Python, SQL, Statistics, Tableau",Finance,Entry,Intern
+J0563,Embedded Software Engineer,C008,GridSpring,"New York, NY","Embedded Systems, Linux, MATLAB, Python, Testing",Energy,Mid,Full-time
+J0564,Research Assistant,C047,Frontier Lab,"Seattle, WA","Data Analysis, Documentation, Excel, Research, Statistics",Research,Associate,Part-time
+J0565,Business Analyst,C023,ShopScale,"Austin, TX","Communication, Excel, Power BI, Requirements Gathering, Tableau",Retail,Entry,Intern
+J0566,Embedded Software Engineer,C045,TorqueWorks,"Austin, TX","C++, MATLAB, Python, Testing",Automotive,Entry,Full-time
+J0567,Design Engineer,C011,Axion Mobility,"Boston, MA","CAD, Problem Solving, SolidWorks, Testing",Automotive,Entry,Full-time
+J0568,IT Analyst,C040,MarketLane,"San Francisco, CA","Communication, Documentation, SQL, Systems Support, Troubleshooting",Retail,Entry,Part-time
+J0569,Systems Analyst,C025,NexaTech,"Boston, MA","APIs, Documentation, Project Management, Requirements Gathering, SQL, Testing",Technology,Entry,Full-time
+J0570,Embedded Software Engineer,C017,ByteForge,"Austin, TX","C++, Embedded Systems, Linux, MATLAB, Python, Testing",Technology,Entry,Intern
+J0571,Machine Learning Engineer,C005,CuraData,"Detroit, MI","Cloud, Git, Machine Learning, Python, SQL, Statistics",Healthcare,Entry,Full-time
+J0572,IT Analyst,C031,Verity Strategy,"San Francisco, CA","Communication, Documentation, SQL, Systems Support, Troubleshooting",Consulting,Entry,Intern
+J0573,Data Analyst,C018,CloudVista,"Seattle, WA","Data Visualization, Python, SQL, Statistics, Tableau",Technology,Associate,Full-time
+J0574,Quality Analyst,C020,Novamedica,"San Francisco, CA","Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Pharmaceuticals,Entry,Intern
+J0575,Business Analyst,C005,CuraData,"Washington, DC","Excel, Power BI, Requirements Gathering, SQL, Tableau",Healthcare,Entry,Intern
+J0576,Financial Analyst,C049,Civic Insight,Remote,"Communication, Financial Modeling, SQL, Statistics",Government,Associate,Full-time
+J0577,Data Analyst,C035,BluePeak Consulting,"Detroit, MI","Data Visualization, Excel, Pandas, Statistics, Tableau",Consulting,Entry,Intern
+J0578,Business Analyst,C023,ShopScale,Remote,"Communication, Excel, Power BI, SQL, Tableau",Retail,Entry,Full-time
+J0579,Financial Analyst,C031,Verity Strategy,Remote,"Communication, Excel, Financial Modeling, SQL",Consulting,Entry,Full-time
+J0580,Quality Analyst,C042,GeneNova,"New York, NY","Documentation, Excel, Quality Assurance, Statistics",Biotech,Associate,Full-time
+J0581,Software Engineer,C015,NorthPoint Health,"New York, NY","APIs, Algorithms, Git, Java, Linux, Python",Healthcare,Entry,Full-time
+J0582,Hardware Test Engineer,C043,SteelArc,"Boston, MA","Circuit Analysis, Documentation, MATLAB, Python, Signal Processing",Manufacturing,Entry,Intern
+J0583,Machine Learning Engineer,C009,OakStone Advisors,Remote,"Git, Machine Learning, Pandas, Python, SQL, Statistics",Finance,Associate,Full-time
+J0584,Business Intelligence Analyst,C001,Peak Capital,"New York, NY","Data Visualization, Excel, Power BI, SQL, Statistics, Tableau",Finance,Associate,Full-time
+J0585,Design Engineer,C010,Orbital Dynamics,"Austin, TX","CAD, MATLAB, Problem Solving, SolidWorks, Testing",Aerospace,Entry,Intern
+J0586,Business Analyst,C005,CuraData,"Boston, MA","Communication, Excel, Power BI, Requirements Gathering, SQL",Healthcare,Associate,Full-time
+J0587,Design Engineer,C014,DriveCore,Remote,"CAD, MATLAB, Problem Solving, SolidWorks",Automotive,Entry,Full-time
+J0588,Research Assistant,C047,Frontier Lab,Remote,"Data Analysis, Excel, Research, Statistics",Research,Entry,Intern
+J0589,Business Analyst,C024,UrbanCart,"Boston, MA","Communication, Power BI, Requirements Gathering, SQL, Tableau",Retail,Entry,Intern
+J0590,Quality Analyst,C007,Insight Research Group,"San Francisco, CA","Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Research,Entry,Intern
+J0591,Controls Engineer,C021,TerraVolt,Remote,"Automation, Python, Signal Processing, Testing",Energy,Mid,Full-time
+J0592,Policy Analyst,C031,Verity Strategy,"Chicago, IL","Communication, Documentation, Excel, Research, Statistics",Consulting,Entry,Full-time
+J0593,Machine Learning Engineer,C012,CartLift,"Seattle, WA","Cloud, Git, Pandas, Python, SQL, Statistics",E-commerce,Associate,Full-time
+J0594,Business Analyst,C030,NovaAI,"Detroit, MI","Excel, Requirements Gathering, SQL, Tableau",Technology,Associate,Full-time
+J0595,Research Assistant,C019,HelixPath,"Detroit, MI","Data Analysis, Documentation, Excel, Research",Biotech,Entry,Intern
+J0596,Software Engineer,C015,NorthPoint Health,"Washington, DC","APIs, Algorithms, Data Structures, Java, Linux, Python",Healthcare,Mid,Full-time
+J0597,Data Analyst,C030,NovaAI,"Detroit, MI","Data Visualization, Excel, Python, SQL, Statistics, Tableau",Technology,Entry,Full-time
+J0598,Research Analyst,C035,BluePeak Consulting,Remote,"Data Visualization, Documentation, Excel, Research, SQL, Statistics",Consulting,Entry,Intern
+J0599,Clinical Data Analyst,C015,NorthPoint Health,Remote,"Data Analysis, Documentation, Excel, SQL, Statistics",Healthcare,Associate,Full-time
+J0600,Manufacturing Engineer,C011,Axion Mobility,"San Francisco, CA","CAD, Documentation, Process Improvement, Quality Assurance, SolidWorks",Automotive,Entry,Intern
+J0601,Business Intelligence Analyst,C017,ByteForge,"Atlanta, GA","APIs, Data Visualization, Power BI, SQL, Statistics, Tableau",Technology,Entry,Intern
+J0602,Embedded Software Engineer,C011,Axion Mobility,"Seattle, WA","C++, Embedded Systems, Linux, MATLAB, Python, Testing",Automotive,Entry,Intern
+J0603,Financial Analyst,C001,Peak Capital,"Washington, DC","Communication, Excel, SQL, Statistics",Finance,Mid,Full-time
+J0604,Clinical Data Analyst,C047,Frontier Lab,"Detroit, MI","Data Analysis, Documentation, Excel, SQL, Statistics",Research,Entry,Intern
+J0605,Clinical Data Analyst,C015,NorthPoint Health,"New York, NY","Data Analysis, Documentation, Excel, SQL, Statistics",Healthcare,Entry,Intern
+J0606,Machine Learning Engineer,C030,NovaAI,Remote,"APIs, Git, Machine Learning, Pandas, Python, SQL, Statistics",Technology,Entry,Full-time
+J0607,Manufacturing Engineer,C041,Vector Manufacturing,"New York, NY","CAD, Documentation, Process Improvement, Quality Assurance, SolidWorks",Manufacturing,Entry,Full-time
+J0608,Quality Analyst,C042,GeneNova,"Austin, TX","Excel, Process Improvement, Quality Assurance, Statistics",Biotech,Entry,Full-time
+J0609,Manufacturing Engineer,C011,Axion Mobility,"New York, NY","CAD, Documentation, Process Improvement, Quality Assurance, SolidWorks",Automotive,Entry,Full-time
+J0610,Manufacturing Engineer,C021,TerraVolt,"Boston, MA","CAD, Documentation, Process Improvement, Quality Assurance, SolidWorks",Energy,Entry,Full-time
+J0611,Embedded Software Engineer,C034,Orion Industrial,"San Francisco, CA","C++, Embedded Systems, Linux, MATLAB, Python, Testing",Manufacturing,Entry,Intern
+J0612,Data Analyst,C025,NexaTech,"Atlanta, GA","APIs, Data Visualization, Excel, Python, SQL, Statistics",Technology,Entry,Intern
+J0613,Software Engineer,C009,OakStone Advisors,"Boston, MA","APIs, Data Structures, Git, Java, Linux, SQL",Finance,Entry,Intern
+J0614,Operations Analyst,C031,Verity Strategy,"Seattle, WA","Communication, Excel, Power BI, Process Improvement, SQL",Consulting,Entry,Intern
+J0615,Policy Analyst,C036,Insight Partners,"Austin, TX","Communication, Documentation, Excel, Research, Statistics",Consulting,Associate,Full-time
+J0616,Data Analyst,C026,Summit Bank,"Atlanta, GA","Communication, Data Visualization, Excel, Pandas, Python, Statistics, Tableau",Finance,Entry,Intern
+J0617,Machine Learning Engineer,C048,SwiftBasket,"Boston, MA","APIs, Git, Pandas, Python, SQL, Statistics",E-commerce,Associate,Full-time
+J0618,Data Analyst,C018,CloudVista,Remote,"Data Visualization, Excel, Pandas, Python, Statistics, Tableau",Technology,Entry,Intern
+J0619,Machine Learning Engineer,C027,RetailNova,"Austin, TX","APIs, Cloud, Git, Machine Learning, Pandas, Python, Statistics",E-commerce,Associate,Full-time
+J0620,Hardware Test Engineer,C025,NexaTech,"Austin, TX","APIs, Circuit Analysis, MATLAB, Python, Signal Processing",Technology,Entry,Intern
+J0621,Data Analyst,C035,BluePeak Consulting,"New York, NY","Data Visualization, Excel, Pandas, SQL, Tableau",Consulting,Entry,Intern
+J0622,Clinical Data Analyst,C042,GeneNova,"Detroit, MI","Data Analysis, Documentation, Excel, Statistics",Biotech,Entry,Intern
+J0623,IT Analyst,C024,UrbanCart,"New York, NY","Communication, SQL, Systems Support, Troubleshooting",Retail,Entry,Full-time
+J0624,Controls Engineer,C034,Orion Industrial,"Atlanta, GA","MATLAB, Python, Signal Processing, Testing",Manufacturing,Entry,Full-time
+J0625,Business Intelligence Analyst,C016,Quantive Systems,"Atlanta, GA","Data Visualization, Excel, Power BI, SQL, Tableau",Technology,Entry,Intern
+J0626,Machine Learning Engineer,C001,Peak Capital,"Detroit, MI","Cloud, Git, Machine Learning, Pandas, SQL",Finance,Entry,Full-time
+J0627,Cloud Analyst,C026,Summit Bank,"Atlanta, GA","Cloud, Linux, Python, SQL, Troubleshooting",Finance,Entry,Intern
+J0628,Data Analyst,C009,OakStone Advisors,"New York, NY","Data Visualization, Excel, Pandas, SQL, Tableau",Finance,Entry,Intern
+J0629,Data Analyst,C009,OakStone Advisors,"Boston, MA","Communication, Data Visualization, Excel, Pandas, Statistics, Tableau",Finance,Entry,Intern
+J0630,Policy Analyst,C049,Civic Insight,"Chicago, IL","Communication, Documentation, Excel, Research, Statistics",Government,Entry,Intern
+J0631,Marketing Analyst,C016,Quantive Systems,Remote,"A/B Testing, Communication, Data Visualization, Excel, SQL, Statistics",Technology,Entry,Intern
+J0632,Data Analyst,C036,Insight Partners,"San Francisco, CA","Communication, Data Visualization, Excel, Python, SQL, Statistics",Consulting,Entry,Intern
+J0633,Data Analyst,C002,NorthBridge Finance,Remote,"Data Visualization, Excel, Pandas, Python, SQL",Finance,Associate,Full-time
+J0634,Marketing Analyst,C009,OakStone Advisors,"Boston, MA","A/B Testing, Communication, Data Visualization, Excel, Statistics",Finance,Entry,Intern
+J0635,Manufacturing Engineer,C014,DriveCore,"New York, NY","CAD, Process Improvement, Quality Assurance, SolidWorks",Automotive,Entry,Intern
+J0636,Design Engineer,C045,TorqueWorks,"Chicago, IL","MATLAB, Problem Solving, SolidWorks, Testing",Automotive,Entry,Intern
+J0637,Research Analyst,C017,ByteForge,"Seattle, WA","Data Visualization, Excel, SQL, Statistics",Technology,Entry,Intern
+J0638,Data Analyst,C025,NexaTech,"New York, NY","APIs, Data Visualization, Excel, Python, SQL, Tableau",Technology,Entry,Full-time
+J0639,Manufacturing Engineer,C011,Axion Mobility,"Austin, TX","CAD, Documentation, Quality Assurance, SolidWorks",Automotive,Entry,Intern
+J0640,Business Analyst,C037,MedIntel,"Detroit, MI","Excel, Power BI, Requirements Gathering, SQL, Tableau",Healthcare,Entry,Intern
+J0641,Business Intelligence Analyst,C029,Catalyst Advisory,"Detroit, MI","Communication, Data Visualization, SQL, Statistics, Tableau",Consulting,Associate,Full-time
+J0642,Quality Analyst,C020,Novamedica,"New York, NY","Excel, Process Improvement, Quality Assurance, Statistics",Pharmaceuticals,Entry,Full-time
+J0643,Clinical Data Analyst,C007,Insight Research Group,"Detroit, MI","Data Analysis, Documentation, SQL, Statistics",Research,Entry,Intern
+J0644,Systems Analyst,C029,Catalyst Advisory,"Austin, TX","Communication, Documentation, Requirements Gathering, SQL, Testing",Consulting,Entry,Full-time
+J0645,Operations Analyst,C016,Quantive Systems,Remote,"Communication, Power BI, Process Improvement, SQL, Statistics",Technology,Entry,Intern
+J0646,Research Analyst,C029,Catalyst Advisory,"San Francisco, CA","Communication, Data Visualization, Excel, Research, Statistics",Consulting,Entry,Full-time
+J0647,Policy Analyst,C002,NorthBridge Finance,"Detroit, MI","Communication, Documentation, Excel, Research, Statistics",Finance,Entry,Intern
+J0648,Business Analyst,C017,ByteForge,"Chicago, IL","APIs, Power BI, Requirements Gathering, SQL, Tableau",Technology,Mid,Full-time
+J0649,Machine Learning Engineer,C001,Peak Capital,"New York, NY","Cloud, Communication, Git, Pandas, Python, SQL, Statistics",Finance,Entry,Intern
+J0650,Data Analyst,C029,Catalyst Advisory,"Washington, DC","Data Visualization, Python, SQL, Statistics, Tableau",Consulting,Associate,Full-time
+J0651,Systems Analyst,C023,ShopScale,"Detroit, MI","Documentation, Project Management, Requirements Gathering, SQL",Retail,Entry,Intern
+J0652,Systems Analyst,C035,BluePeak Consulting,"Chicago, IL","Documentation, Project Management, Requirements Gathering, SQL, Testing",Consulting,Entry,Intern
+J0653,Lab Analyst,C050,BioBridge Labs,"Austin, TX","Data Analysis, Documentation, Excel, Laboratory Techniques, Quality Assurance",Biotech,Associate,Part-time
+J0654,Hardware Test Engineer,C043,SteelArc,"Chicago, IL","Circuit Analysis, Documentation, MATLAB, Python, Signal Processing",Manufacturing,Entry,Full-time
+J0655,Financial Analyst,C032,Public Systems Office,"San Francisco, CA","Communication, Excel, SQL, Statistics",Government,Entry,Full-time
+J0656,Data Analyst,C037,MedIntel,"Seattle, WA","Data Visualization, Excel, Pandas, Python, SQL, Tableau",Healthcare,Mid,Full-time
+J0657,IT Analyst,C030,NovaAI,"Atlanta, GA","Communication, Documentation, SQL, Troubleshooting",Technology,Entry,Intern
+J0658,Business Intelligence Analyst,C025,NexaTech,"Austin, TX","Data Visualization, Excel, Power BI, SQL, Statistics, Tableau",Technology,Entry,Intern
+J0659,Business Analyst,C024,UrbanCart,"Seattle, WA","Communication, Power BI, Requirements Gathering, Tableau",Retail,Entry,Intern
+J0660,Quality Analyst,C020,Novamedica,"Washington, DC","Documentation, Excel, Quality Assurance, Statistics",Pharmaceuticals,Associate,Full-time
+J0661,Business Analyst,C031,Verity Strategy,"New York, NY","Communication, Excel, Power BI, Requirements Gathering",Consulting,Entry,Full-time
+J0662,Design Engineer,C043,SteelArc,"Washington, DC","CAD, MATLAB, Problem Solving, Testing",Manufacturing,Entry,Intern
+J0663,Business Analyst,C023,ShopScale,"Detroit, MI","Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Retail,Entry,Full-time
+J0664,Business Analyst,C009,OakStone Advisors,"Atlanta, GA","Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Finance,Associate,Full-time
+J0665,Policy Analyst,C003,Metro Policy Lab,"New York, NY","Communication, Documentation, Excel, Statistics",Government,Entry,Intern
+J0666,Operations Engineer,C039,SkyAxis,"Austin, TX","Excel, Problem Solving, Process Improvement, Python",Aerospace,Entry,Intern
+J0667,IT Analyst,C036,Insight Partners,"Austin, TX","Communication, Documentation, SQL, Systems Support, Troubleshooting",Consulting,Mid,Part-time
+J0668,Research Assistant,C019,HelixPath,"San Francisco, CA","Data Analysis, Documentation, Excel, Research, Statistics",Biotech,Entry,Intern
+J0669,Data Analyst,C030,NovaAI,"Austin, TX","Data Visualization, Excel, Python, SQL, Statistics, Tableau",Technology,Entry,Intern
+J0670,Manufacturing Engineer,C045,TorqueWorks,"San Francisco, CA","Documentation, Process Improvement, Quality Assurance, SolidWorks",Automotive,Entry,Intern
+J0671,Financial Analyst,C035,BluePeak Consulting,Remote,"Communication, Excel, SQL, Statistics",Consulting,Associate,Full-time
+J0672,Clinical Data Analyst,C022,CareSphere,Remote,"Data Analysis, Documentation, Excel, SQL, Statistics",Healthcare,Associate,Full-time
+J0673,Financial Analyst,C009,OakStone Advisors,"San Francisco, CA","Communication, Excel, Financial Modeling, SQL, Statistics",Finance,Associate,Full-time
+J0674,Clinical Data Analyst,C007,Insight Research Group,"Austin, TX","Data Analysis, Excel, SQL, Statistics",Research,Entry,Full-time
+J0675,Data Analyst,C009,OakStone Advisors,"Boston, MA","Data Visualization, Excel, Python, SQL, Statistics, Tableau",Finance,Entry,Full-time
+J0676,Policy Analyst,C016,Quantive Systems,Remote,"APIs, Documentation, Excel, Research, Statistics",Technology,Entry,Full-time
+J0677,Data Analyst,C001,Peak Capital,Remote,"Communication, Data Visualization, Excel, Pandas, Python, Statistics, Tableau",Finance,Entry,Intern
+J0678,Research Analyst,C001,Peak Capital,"New York, NY","Data Visualization, Documentation, Research, SQL",Finance,Entry,Intern
+J0679,Research Assistant,C047,Frontier Lab,"San Francisco, CA","Data Analysis, Documentation, Excel, Research, Statistics",Research,Mid,Part-time
+J0680,Business Analyst,C036,Insight Partners,Remote,"Communication, Excel, Power BI, SQL, Tableau",Consulting,Entry,Intern
+J0681,Data Analyst,C036,Insight Partners,"Atlanta, GA","Data Visualization, Pandas, SQL, Statistics, Tableau",Consulting,Associate,Full-time
+J0682,Software Engineer,C018,CloudVista,"Atlanta, GA","APIs, Data Structures, Git, Java, Python, SQL",Technology,Entry,Full-time
+J0683,Marketing Analyst,C030,NovaAI,"Seattle, WA","A/B Testing, Data Visualization, Excel, SQL, Statistics",Technology,Entry,Full-time
+J0684,Systems Analyst,C040,MarketLane,"Seattle, WA","Documentation, Project Management, Requirements Gathering, SQL, Testing",Retail,Associate,Full-time
+J0685,Marketing Analyst,C040,MarketLane,"Austin, TX","A/B Testing, Communication, Excel, SQL",Retail,Entry,Intern
+J0686,Embedded Software Engineer,C014,DriveCore,"Washington, DC","C++, Embedded Systems, Linux, MATLAB, Python, Testing",Automotive,Entry,Full-time
+J0687,Software Engineer,C001,Peak Capital,"Washington, DC","APIs, Algorithms, Data Structures, Git, Python, SQL",Finance,Entry,Full-time
+J0688,Hardware Test Engineer,C013,PrimeMotion,"Boston, MA","Documentation, MATLAB, Python, Signal Processing",Manufacturing,Mid,Full-time
+J0689,Hardware Test Engineer,C018,CloudVista,"Chicago, IL","APIs, Circuit Analysis, Documentation, MATLAB, Python, Signal Processing",Technology,Mid,Full-time
+J0690,Manufacturing Engineer,C039,SkyAxis,"Austin, TX","Documentation, Process Improvement, Quality Assurance, SolidWorks",Aerospace,Entry,Full-time
+J0691,Research Analyst,C009,OakStone Advisors,"Chicago, IL","Documentation, Research, SQL, Statistics",Finance,Entry,Full-time
+J0692,Data Analyst,C027,RetailNova,"Seattle, WA","Data Visualization, Excel, Pandas, Python, Tableau",E-commerce,Entry,Intern
+J0693,Data Analyst,C031,Verity Strategy,"Atlanta, GA","Data Visualization, Pandas, Python, SQL, Statistics",Consulting,Associate,Full-time
+J0694,Operations Analyst,C005,CuraData,"San Francisco, CA","Excel, Process Improvement, SQL, Statistics",Healthcare,Entry,Part-time
+J0695,Quality Engineer,C021,TerraVolt,"Boston, MA","Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Energy,Entry,Full-time
+J0696,Research Analyst,C005,CuraData,Remote,"Data Visualization, Documentation, Research, Statistics",Healthcare,Entry,Full-time
+J0697,Data Analyst,C037,MedIntel,"San Francisco, CA","Data Visualization, Excel, Python, SQL, Statistics, Tableau",Healthcare,Entry,Intern
+J0698,Controls Engineer,C045,TorqueWorks,"San Francisco, CA","Automation, MATLAB, Python, Signal Processing, Testing",Automotive,Associate,Full-time
+J0699,Business Analyst,C030,NovaAI,"Chicago, IL","APIs, Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Technology,Entry,Intern
+J0700,Quality Analyst,C022,CareSphere,Remote,"Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Healthcare,Associate,Full-time
+J0701,Data Analyst,C048,SwiftBasket,"New York, NY","APIs, Data Visualization, Pandas, Python, SQL, Statistics, Tableau",E-commerce,Entry,Intern
+J0702,Quality Analyst,C007,Insight Research Group,Remote,"Documentation, Excel, Process Improvement, Statistics",Research,Entry,Intern
+J0703,Research Assistant,C014,DriveCore,"Chicago, IL","Data Analysis, Documentation, Excel, Research",Automotive,Entry,Intern
+J0704,Research Assistant,C007,Insight Research Group,"New York, NY","Data Analysis, Documentation, Research, Statistics",Research,Entry,Part-time
+J0705,Data Analyst,C009,OakStone Advisors,"Boston, MA","Data Visualization, Python, SQL, Statistics, Tableau",Finance,Associate,Full-time
+J0706,Data Analyst,C002,NorthBridge Finance,"Boston, MA","Data Visualization, Excel, Pandas, Python, Statistics, Tableau",Finance,Associate,Full-time
+J0707,Financial Analyst,C049,Civic Insight,"Washington, DC","Communication, Excel, Financial Modeling, Statistics",Government,Entry,Intern
+J0708,Software Engineer,C026,Summit Bank,"Austin, TX","Algorithms, Data Structures, Git, Java, Linux, Python",Finance,Entry,Intern
+J0709,Systems Analyst,C031,Verity Strategy,"San Francisco, CA","Project Management, Requirements Gathering, SQL, Testing",Consulting,Entry,Full-time
+J0710,Hardware Test Engineer,C011,Axion Mobility,"Washington, DC","Circuit Analysis, Documentation, Python, Signal Processing",Automotive,Associate,Full-time
+J0711,Software Engineer,C037,MedIntel,Remote,"Algorithms, Data Structures, Git, Java, Python, SQL",Healthcare,Entry,Intern
+J0712,Data Analyst,C002,NorthBridge Finance,Remote,"Communication, Data Visualization, Python, SQL, Statistics, Tableau",Finance,Entry,Intern
+J0713,Data Analyst,C018,CloudVista,"Boston, MA","Excel, Pandas, Python, SQL, Statistics, Tableau",Technology,Entry,Intern
+J0714,Software Engineer,C005,CuraData,"Seattle, WA","APIs, Algorithms, Data Structures, Git, Python, SQL",Healthcare,Entry,Full-time
+J0715,Embedded Software Engineer,C014,DriveCore,"Seattle, WA","C++, Embedded Systems, Linux, MATLAB, Python, Testing",Automotive,Entry,Full-time
+J0716,Clinical Data Analyst,C005,CuraData,"Boston, MA","Data Analysis, Documentation, Excel, SQL, Statistics",Healthcare,Entry,Intern
+J0717,Data Analyst,C009,OakStone Advisors,Remote,"Communication, Data Visualization, Python, SQL, Statistics, Tableau",Finance,Entry,Intern
+J0718,Data Analyst,C002,NorthBridge Finance,"Chicago, IL","Data Visualization, Excel, Pandas, Python, SQL, Tableau",Finance,Entry,Full-time
+J0719,Financial Analyst,C026,Summit Bank,"Chicago, IL","Communication, Excel, Financial Modeling, SQL, Statistics",Finance,Entry,Full-time
+J0720,Business Analyst,C002,NorthBridge Finance,"Atlanta, GA","Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Finance,Entry,Full-time
+J0721,Lab Analyst,C042,GeneNova,"Boston, MA","Data Analysis, Documentation, Laboratory Techniques, Quality Assurance",Biotech,Entry,Full-time
+J0722,Software Engineer,C027,RetailNova,Remote,"APIs, Data Structures, Git, Java, Linux, SQL",E-commerce,Entry,Intern
+J0723,Operations Analyst,C036,Insight Partners,"New York, NY","Communication, Excel, Process Improvement, SQL, Statistics",Consulting,Entry,Intern
+J0724,Lab Analyst,C022,CareSphere,"Detroit, MI","Data Analysis, Excel, Laboratory Techniques, Quality Assurance",Healthcare,Entry,Part-time
+J0725,Data Analyst,C040,MarketLane,"San Francisco, CA","Data Visualization, Pandas, SQL, Statistics, Tableau",Retail,Entry,Intern
+J0726,Data Analyst,C036,Insight Partners,"Austin, TX","Communication, Data Visualization, Excel, Pandas, SQL, Statistics",Consulting,Entry,Full-time
+J0727,Manufacturing Engineer,C041,Vector Manufacturing,"New York, NY","CAD, Documentation, Process Improvement, Quality Assurance, SolidWorks",Manufacturing,Entry,Intern
+J0728,Software Engineer,C005,CuraData,Remote,"APIs, Algorithms, Git, Java, Python, SQL",Healthcare,Entry,Full-time
+J0729,Data Analyst,C017,ByteForge,"Detroit, MI","APIs, Excel, Pandas, Python, SQL, Tableau",Technology,Associate,Full-time
+J0730,Software Engineer,C030,NovaAI,"Atlanta, GA","APIs, Algorithms, Git, Java, Python, SQL",Technology,Entry,Intern
+J0731,IT Analyst,C040,MarketLane,Remote,"Documentation, SQL, Systems Support, Troubleshooting",Retail,Entry,Intern
+J0732,Business Intelligence Analyst,C026,Summit Bank,"Boston, MA","Data Visualization, Excel, Power BI, Statistics, Tableau",Finance,Entry,Intern
+J0733,Cloud Analyst,C001,Peak Capital,"Boston, MA","Cloud, Linux, Monitoring, SQL, Troubleshooting",Finance,Entry,Full-time
+J0734,Data Analyst,C027,RetailNova,"Detroit, MI","APIs, Excel, Pandas, SQL, Statistics, Tableau",E-commerce,Entry,Intern
+J0735,Operations Analyst,C029,Catalyst Advisory,"Chicago, IL","Communication, Excel, SQL, Statistics",Consulting,Entry,Full-time
+J0736,Software Engineer,C005,CuraData,"Washington, DC","Algorithms, Data Structures, Git, Java, Python, SQL",Healthcare,Associate,Full-time
+J0737,Financial Analyst,C031,Verity Strategy,Remote,"Communication, Excel, Financial Modeling, SQL",Consulting,Entry,Full-time
+J0738,Software Engineer,C030,NovaAI,"New York, NY","APIs, Data Structures, Git, Java, Linux, Python",Technology,Associate,Full-time
+J0739,Software Engineer,C030,NovaAI,"New York, NY","APIs, Data Structures, Git, Java, Python, SQL",Technology,Associate,Full-time
+J0740,Business Analyst,C031,Verity Strategy,"Seattle, WA","Communication, Excel, SQL, Tableau",Consulting,Entry,Intern
+J0741,Research Analyst,C005,CuraData,"Chicago, IL","Data Visualization, Documentation, Excel, Research, Statistics",Healthcare,Entry,Full-time
+J0742,Data Analyst,C009,OakStone Advisors,"Seattle, WA","Data Visualization, Pandas, Python, SQL, Statistics, Tableau",Finance,Entry,Full-time
+J0743,Quality Engineer,C011,Axion Mobility,"Boston, MA","Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Automotive,Entry,Intern
+J0744,Software Engineer,C009,OakStone Advisors,"New York, NY","Algorithms, Data Structures, Git, Java, Linux, Python",Finance,Entry,Intern
+J0745,Financial Analyst,C016,Quantive Systems,"New York, NY","Communication, Excel, Financial Modeling, SQL, Statistics",Technology,Entry,Intern
+J0746,Hardware Test Engineer,C030,NovaAI,"New York, NY","APIs, Documentation, MATLAB, Python, Signal Processing",Technology,Entry,Intern
+J0747,Machine Learning Engineer,C031,Verity Strategy,"Detroit, MI","Cloud, Git, Machine Learning, Pandas, Python, Statistics",Consulting,Entry,Full-time
+J0748,Business Intelligence Analyst,C035,BluePeak Consulting,"Boston, MA","Communication, Excel, Power BI, SQL, Statistics, Tableau",Consulting,Entry,Intern
+J0749,Business Analyst,C022,CareSphere,"Washington, DC","Excel, Power BI, Requirements Gathering, SQL, Tableau",Healthcare,Entry,Intern
+J0750,Data Analyst,C040,MarketLane,"New York, NY","Excel, Pandas, Python, SQL, Statistics",Retail,Entry,Intern
+J0751,Quality Engineer,C039,SkyAxis,Remote,"Documentation, Excel, Process Improvement, Quality Assurance",Aerospace,Entry,Intern
+J0752,Business Analyst,C017,ByteForge,"Chicago, IL","Communication, Excel, Power BI, SQL",Technology,Entry,Intern
+J0753,Data Analyst,C025,NexaTech,"San Francisco, CA","Data Visualization, Excel, Pandas, Python, SQL",Technology,Associate,Full-time
+J0754,Financial Analyst,C049,Civic Insight,"San Francisco, CA","Communication, Excel, Financial Modeling, SQL, Statistics",Government,Associate,Full-time
+J0755,Controls Engineer,C006,NorthWind Energy,Remote,"Automation, Python, Signal Processing, Testing",Energy,Entry,Intern
+J0756,Embedded Software Engineer,C043,SteelArc,Remote,"C++, MATLAB, Python, Testing",Manufacturing,Entry,Full-time
+J0757,Clinical Data Analyst,C050,BioBridge Labs,"Chicago, IL","Data Analysis, Documentation, Excel, Statistics",Biotech,Associate,Full-time
+J0758,Research Analyst,C018,CloudVista,"Chicago, IL","APIs, Data Visualization, Documentation, Excel, SQL",Technology,Entry,Intern
+J0759,Clinical Data Analyst,C033,BrightRx,"Seattle, WA","Data Analysis, Documentation, SQL, Statistics",Pharmaceuticals,Entry,Full-time
+J0760,Cloud Analyst,C037,MedIntel,Remote,"Cloud, Linux, Monitoring, Python, Troubleshooting",Healthcare,Entry,Full-time
+J0761,Data Analyst,C031,Verity Strategy,"Boston, MA","Data Visualization, Excel, Pandas, Python, SQL, Tableau",Consulting,Entry,Intern
+J0762,Cloud Analyst,C030,NovaAI,Remote,"APIs, Cloud, Linux, Monitoring, Python, SQL, Troubleshooting",Technology,Associate,Full-time
+J0763,Research Assistant,C042,GeneNova,Remote,"Data Analysis, Documentation, Excel, Research, Statistics",Biotech,Entry,Part-time
+J0764,Quality Analyst,C038,Center for Applied Research,"Chicago, IL","Excel, Process Improvement, Quality Assurance, Statistics",Research,Entry,Intern
+J0765,Machine Learning Engineer,C031,Verity Strategy,Remote,"Cloud, Git, Pandas, Python, SQL, Statistics",Consulting,Entry,Intern
+J0766,Quality Analyst,C047,Frontier Lab,Remote,"Documentation, Excel, Process Improvement, Quality Assurance",Research,Entry,Full-time
+J0767,Financial Analyst,C049,Civic Insight,"San Francisco, CA","Communication, Excel, Financial Modeling, SQL, Statistics",Government,Associate,Full-time
+J0768,Business Analyst,C030,NovaAI,"Chicago, IL","Power BI, Requirements Gathering, SQL, Tableau",Technology,Entry,Intern
+J0769,Hardware Test Engineer,C014,DriveCore,Remote,"Circuit Analysis, Documentation, MATLAB, Python, Signal Processing",Automotive,Entry,Full-time
+J0770,Data Analyst,C036,Insight Partners,Remote,"Communication, Data Visualization, Excel, Pandas, Python, SQL, Tableau",Consulting,Entry,Full-time
+J0771,Hardware Test Engineer,C041,Vector Manufacturing,"New York, NY","Circuit Analysis, Documentation, MATLAB, Python, Signal Processing",Manufacturing,Entry,Intern
+J0772,Systems Analyst,C005,CuraData,"Seattle, WA","Documentation, Project Management, Requirements Gathering, SQL, Testing",Healthcare,Entry,Intern
+J0773,Research Assistant,C033,BrightRx,"Detroit, MI","Data Analysis, Documentation, Excel, Research, Statistics",Pharmaceuticals,Entry,Intern
+J0774,Business Intelligence Analyst,C016,Quantive Systems,"Boston, MA","Data Visualization, Excel, Power BI, SQL, Statistics",Technology,Associate,Full-time
+J0775,Data Analyst,C015,NorthPoint Health,"Chicago, IL","Data Visualization, Excel, Pandas, SQL, Tableau",Healthcare,Entry,Intern
+J0776,Research Analyst,C031,Verity Strategy,"Washington, DC","Data Visualization, Excel, Research, SQL, Statistics",Consulting,Entry,Intern
+J0777,Software Engineer,C025,NexaTech,"Austin, TX","APIs, Algorithms, Data Structures, Git, Linux, Python",Technology,Entry,Full-time
+J0778,Data Analyst,C040,MarketLane,"Boston, MA","Data Visualization, Excel, Pandas, Python, SQL, Tableau",Retail,Associate,Full-time
+J0779,Hardware Test Engineer,C014,DriveCore,Remote,"Circuit Analysis, MATLAB, Python, Signal Processing",Automotive,Entry,Full-time
+J0780,Systems Analyst,C040,MarketLane,"Seattle, WA","Documentation, Project Management, Requirements Gathering, SQL, Testing",Retail,Entry,Intern
+J0781,Marketing Analyst,C026,Summit Bank,"Austin, TX","Communication, Data Visualization, Excel, SQL, Statistics",Finance,Associate,Full-time
+J0782,Business Analyst,C035,BluePeak Consulting,"New York, NY","Communication, Requirements Gathering, SQL, Tableau",Consulting,Associate,Full-time
+J0783,Controls Engineer,C034,Orion Industrial,"Seattle, WA","Automation, MATLAB, Python, Signal Processing, Testing",Manufacturing,Entry,Full-time
+J0784,Research Analyst,C003,Metro Policy Lab,Remote,"Data Visualization, Documentation, Research, SQL, Statistics",Government,Entry,Intern
+J0785,Business Intelligence Analyst,C001,Peak Capital,"Austin, TX","Data Visualization, Excel, Power BI, Tableau",Finance,Entry,Intern
+J0786,Data Analyst,C025,NexaTech,"Seattle, WA","Data Visualization, Pandas, Python, SQL, Statistics, Tableau",Technology,Mid,Full-time
+J0787,Data Analyst,C015,NorthPoint Health,"Chicago, IL","Excel, Pandas, Python, Statistics, Tableau",Healthcare,Entry,Intern
+J0788,Hardware Test Engineer,C041,Vector Manufacturing,"Atlanta, GA","Circuit Analysis, Documentation, MATLAB, Python, Signal Processing",Manufacturing,Associate,Full-time
+J0789,Hardware Test Engineer,C014,DriveCore,"Chicago, IL","Circuit Analysis, Documentation, MATLAB, Python, Signal Processing",Automotive,Associate,Full-time
+J0790,Data Analyst,C030,NovaAI,"San Francisco, CA","Data Visualization, Excel, Pandas, Python, SQL, Tableau",Technology,Entry,Intern
+J0791,Software Engineer,C018,CloudVista,"Washington, DC","APIs, Algorithms, Data Structures, Git, Java, Python",Technology,Entry,Intern
+J0792,Business Analyst,C040,MarketLane,"New York, NY","Excel, Power BI, SQL, Tableau",Retail,Entry,Intern
+J0793,Design Engineer,C010,Orbital Dynamics,"New York, NY","MATLAB, Problem Solving, SolidWorks, Testing",Aerospace,Entry,Intern
+J0794,Software Engineer,C005,CuraData,Remote,"Algorithms, Data Structures, Java, Linux, Python, SQL",Healthcare,Entry,Intern
+J0795,Data Analyst,C016,Quantive Systems,"Chicago, IL","APIs, Data Visualization, Excel, Python, Statistics, Tableau",Technology,Entry,Intern
+J0796,Machine Learning Engineer,C016,Quantive Systems,Remote,"Cloud, Machine Learning, Pandas, Python, SQL, Statistics",Technology,Entry,Intern
+J0797,Research Assistant,C007,Insight Research Group,"Austin, TX","Data Analysis, Documentation, Excel, Research, Statistics",Research,Entry,Intern
+J0798,Design Engineer,C045,TorqueWorks,"New York, NY","CAD, MATLAB, Problem Solving, SolidWorks, Testing",Automotive,Entry,Full-time
+J0799,Hardware Test Engineer,C011,Axion Mobility,"Austin, TX","Circuit Analysis, Documentation, Python, Signal Processing",Automotive,Entry,Intern
+J0800,Business Analyst,C023,ShopScale,"San Francisco, CA","Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Retail,Entry,Full-time
+J0801,Research Analyst,C031,Verity Strategy,Remote,"Communication, Data Visualization, Documentation, Excel, Research, SQL, Statistics",Consulting,Entry,Intern
+J0802,Quality Analyst,C033,BrightRx,Remote,"Documentation, Process Improvement, Quality Assurance, Statistics",Pharmaceuticals,Entry,Intern
+J0803,Clinical Data Analyst,C042,GeneNova,"Detroit, MI","Data Analysis, Documentation, Excel, SQL, Statistics",Biotech,Entry,Full-time
+J0804,Machine Learning Engineer,C048,SwiftBasket,"Austin, TX","APIs, Cloud, Git, Machine Learning, Pandas, Python",E-commerce,Mid,Full-time
+J0805,Business Analyst,C031,Verity Strategy,"Austin, TX","Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Consulting,Entry,Intern
+J0806,Data Analyst,C009,OakStone Advisors,Remote,"Excel, Python, SQL, Statistics, Tableau",Finance,Entry,Intern
+J0807,Clinical Data Analyst,C022,CareSphere,"Washington, DC","Data Analysis, Documentation, Excel, SQL",Healthcare,Entry,Full-time
+J0808,Software Engineer,C026,Summit Bank,Remote,"APIs, Algorithms, Git, Java, Linux, SQL",Finance,Entry,Full-time
+J0809,Data Analyst,C002,NorthBridge Finance,"Atlanta, GA","Data Visualization, Excel, Pandas, SQL, Statistics, Tableau",Finance,Entry,Full-time
+J0810,Machine Learning Engineer,C025,NexaTech,"New York, NY","APIs, Cloud, Machine Learning, Pandas, Python, SQL, Statistics",Technology,Associate,Full-time
+J0811,Manufacturing Engineer,C039,SkyAxis,Remote,"CAD, Documentation, Quality Assurance, SolidWorks",Aerospace,Entry,Intern
+J0812,Hardware Test Engineer,C034,Orion Industrial,"Chicago, IL","Circuit Analysis, Documentation, Python, Signal Processing",Manufacturing,Entry,Full-time
+J0813,Controls Engineer,C021,TerraVolt,"San Francisco, CA","Automation, MATLAB, Python, Signal Processing",Energy,Mid,Full-time
+J0814,Research Analyst,C002,NorthBridge Finance,"Washington, DC","Documentation, Excel, Research, SQL",Finance,Entry,Intern
+J0815,Business Analyst,C024,UrbanCart,"Atlanta, GA","Communication, Requirements Gathering, SQL, Tableau",Retail,Entry,Full-time
+J0816,Marketing Analyst,C004,RetailGrid,Remote,"A/B Testing, Communication, Excel, SQL",Retail,Mid,Full-time
+J0817,Operations Analyst,C024,UrbanCart,"San Francisco, CA","Communication, Power BI, Process Improvement, Statistics",Retail,Entry,Part-time
+J0818,Business Analyst,C031,Verity Strategy,Remote,"Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Consulting,Associate,Full-time
+J0819,Clinical Data Analyst,C047,Frontier Lab,"Seattle, WA","Data Analysis, Documentation, Excel, SQL, Statistics",Research,Entry,Intern
+J0820,Manufacturing Engineer,C043,SteelArc,Remote,"CAD, Documentation, Process Improvement, Quality Assurance, SolidWorks",Manufacturing,Entry,Intern
+J0821,Software Engineer,C016,Quantive Systems,"Detroit, MI","APIs, Algorithms, Data Structures, Git, Java, Python",Technology,Associate,Full-time
+J0822,Data Analyst,C001,Peak Capital,"Austin, TX","Data Visualization, Excel, Python, SQL, Statistics, Tableau",Finance,Entry,Intern
+J0823,Machine Learning Engineer,C022,CareSphere,"New York, NY","Cloud, Git, Machine Learning, Pandas, Python, SQL",Healthcare,Associate,Full-time
+J0824,Machine Learning Engineer,C005,CuraData,"Atlanta, GA","Cloud, Git, Machine Learning, Pandas, Python, Statistics",Healthcare,Associate,Full-time
+J0825,Research Analyst,C026,Summit Bank,"Atlanta, GA","Communication, Data Visualization, Documentation, Excel, Research, SQL, Statistics",Finance,Entry,Full-time
+J0826,Manufacturing Engineer,C006,NorthWind Energy,"New York, NY","CAD, Documentation, Process Improvement, SolidWorks",Energy,Entry,Intern
+J0827,Systems Analyst,C022,CareSphere,"New York, NY","Documentation, Project Management, Requirements Gathering, SQL, Testing",Healthcare,Entry,Full-time
+J0828,Operations Engineer,C008,GridSpring,"New York, NY","Automation, Excel, Problem Solving, Process Improvement, Python",Energy,Entry,Intern
+J0829,Systems Analyst,C025,NexaTech,"San Francisco, CA","Documentation, Project Management, Requirements Gathering, SQL, Testing",Technology,Entry,Intern
+J0830,Clinical Data Analyst,C033,BrightRx,"San Francisco, CA","Data Analysis, Documentation, Excel, SQL, Statistics",Pharmaceuticals,Entry,Full-time
+J0831,Financial Analyst,C035,BluePeak Consulting,"Boston, MA","Communication, Excel, Financial Modeling, SQL, Statistics",Consulting,Entry,Intern
+J0832,Data Analyst,C037,MedIntel,"San Francisco, CA","Data Visualization, Excel, Pandas, SQL, Statistics",Healthcare,Entry,Full-time
+J0833,Software Engineer,C030,NovaAI,"New York, NY","APIs, Git, Java, Linux, Python, SQL",Technology,Entry,Intern
+J0834,Research Assistant,C047,Frontier Lab,"Boston, MA","Data Analysis, Documentation, Excel, Research",Research,Entry,Intern
+J0835,Clinical Data Analyst,C047,Frontier Lab,Remote,"Data Analysis, Documentation, Excel, Statistics",Research,Entry,Full-time
+J0836,Cloud Analyst,C009,OakStone Advisors,"Atlanta, GA","Cloud, Communication, Linux, Monitoring, SQL",Finance,Entry,Intern
+J0837,Data Analyst,C036,Insight Partners,"New York, NY","Communication, Data Visualization, Excel, Pandas, Python, SQL, Statistics",Consulting,Associate,Full-time
+J0838,Data Analyst,C001,Peak Capital,"Austin, TX","Communication, Pandas, Python, SQL, Statistics, Tableau",Finance,Entry,Intern
+J0839,Research Analyst,C032,Public Systems Office,"Austin, TX","Data Visualization, Documentation, Excel, Research, SQL, Statistics",Government,Entry,Intern
+J0840,Data Analyst,C025,NexaTech,"Detroit, MI","Data Visualization, Excel, Pandas, SQL, Statistics, Tableau",Technology,Entry,Intern
+J0841,Controls Engineer,C017,ByteForge,"Washington, DC","Automation, MATLAB, Python, Signal Processing, Testing",Technology,Entry,Full-time
+J0842,Data Analyst,C024,UrbanCart,"Boston, MA","Data Visualization, Excel, Pandas, Python, SQL",Retail,Mid,Full-time
+J0843,Controls Engineer,C041,Vector Manufacturing,"Austin, TX","Automation, MATLAB, Python, Signal Processing, Testing",Manufacturing,Entry,Intern
+J0844,Research Assistant,C018,CloudVista,"Boston, MA","Data Analysis, Documentation, Excel, Statistics",Technology,Associate,Part-time
+J0845,Data Analyst,C001,Peak Capital,Remote,"Data Visualization, Python, SQL, Statistics, Tableau",Finance,Entry,Full-time
+J0846,Quality Engineer,C006,NorthWind Energy,Remote,"Documentation, Excel, Process Improvement, Statistics",Energy,Mid,Full-time
+J0847,Data Analyst,C001,Peak Capital,"Atlanta, GA","Communication, Data Visualization, Excel, SQL, Statistics, Tableau",Finance,Entry,Intern
+J0848,Machine Learning Engineer,C001,Peak Capital,"Washington, DC","Cloud, Machine Learning, Python, SQL, Statistics",Finance,Entry,Full-time
+J0849,Financial Analyst,C009,OakStone Advisors,"Seattle, WA","Communication, Financial Modeling, SQL, Statistics",Finance,Associate,Full-time
+J0850,Clinical Data Analyst,C005,CuraData,"Chicago, IL","Data Analysis, Documentation, Excel, SQL, Statistics",Healthcare,Entry,Full-time
+J0851,Controls Engineer,C017,ByteForge,"Atlanta, GA","Automation, MATLAB, Python, Signal Processing, Testing",Technology,Entry,Full-time
+J0852,Embedded Software Engineer,C046,Motivon Systems,Remote,"C++, Linux, MATLAB, Python, Testing",Automotive,Entry,Intern
+J0853,Research Analyst,C029,Catalyst Advisory,"Chicago, IL","Data Visualization, Documentation, Excel, Research",Consulting,Entry,Intern
+J0854,Research Assistant,C019,HelixPath,"Chicago, IL","Data Analysis, Excel, Research, Statistics",Biotech,Associate,Part-time
+J0855,Policy Analyst,C031,Verity Strategy,"Washington, DC","Communication, Documentation, Excel, Research",Consulting,Mid,Full-time
+J0856,Research Assistant,C042,GeneNova,"New York, NY","Data Analysis, Documentation, Excel, Research, Statistics",Biotech,Entry,Intern
+J0857,Marketing Analyst,C009,OakStone Advisors,"Austin, TX","A/B Testing, Communication, Data Visualization, SQL, Statistics",Finance,Mid,Full-time
+J0858,Systems Analyst,C005,CuraData,"Austin, TX","Documentation, Project Management, Requirements Gathering, SQL, Testing",Healthcare,Entry,Intern
+J0859,Data Analyst,C030,NovaAI,"Austin, TX","APIs, Data Visualization, Excel, Python, SQL, Statistics, Tableau",Technology,Associate,Full-time
+J0860,Operations Analyst,C035,BluePeak Consulting,Remote,"Communication, Excel, Process Improvement, Statistics",Consulting,Associate,Part-time
+J0861,Software Engineer,C017,ByteForge,"New York, NY","APIs, Data Structures, Git, Java, Linux, Python",Technology,Entry,Full-time
+J0862,Research Analyst,C018,CloudVista,"Atlanta, GA","Documentation, Excel, Research, SQL, Statistics",Technology,Mid,Full-time
+J0863,Software Engineer,C005,CuraData,"New York, NY","Algorithms, Data Structures, Git, Java, Linux, SQL",Healthcare,Entry,Intern
+J0864,Quality Analyst,C033,BrightRx,Remote,"Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Pharmaceuticals,Entry,Intern
+J0865,Business Analyst,C036,Insight Partners,Remote,"Communication, Power BI, Requirements Gathering, SQL, Tableau",Consulting,Entry,Intern
+J0866,Cloud Analyst,C017,ByteForge,Remote,"Cloud, Linux, Monitoring, Python, Troubleshooting",Technology,Entry,Intern
+J0867,Clinical Data Analyst,C019,HelixPath,"Boston, MA","Data Analysis, Documentation, Excel, SQL, Statistics",Biotech,Entry,Full-time
+J0868,IT Analyst,C018,CloudVista,"Detroit, MI","APIs, Communication, Documentation, SQL, Troubleshooting",Technology,Associate,Part-time
+J0869,Business Analyst,C024,UrbanCart,Remote,"Communication, Excel, SQL, Tableau",Retail,Entry,Full-time
+J0870,Systems Analyst,C036,Insight Partners,"Boston, MA","Project Management, Requirements Gathering, SQL, Testing",Consulting,Entry,Intern
+J0871,Systems Analyst,C029,Catalyst Advisory,"Chicago, IL","Documentation, Requirements Gathering, SQL, Testing",Consulting,Entry,Full-time
+J0872,Clinical Data Analyst,C038,Center for Applied Research,"Seattle, WA","Data Analysis, Documentation, Excel, SQL, Statistics",Research,Entry,Full-time
+J0873,Software Engineer,C012,CartLift,"Austin, TX","APIs, Algorithms, Data Structures, Git, Python, SQL",E-commerce,Associate,Full-time
+J0874,Business Analyst,C002,NorthBridge Finance,"Boston, MA","Excel, Power BI, SQL, Tableau",Finance,Entry,Intern
+J0875,Manufacturing Engineer,C045,TorqueWorks,"San Francisco, CA","Documentation, Process Improvement, Quality Assurance, SolidWorks",Automotive,Entry,Full-time
+J0876,Machine Learning Engineer,C037,MedIntel,"Austin, TX","Cloud, Git, Machine Learning, Pandas, Python",Healthcare,Entry,Intern
+J0877,Business Intelligence Analyst,C029,Catalyst Advisory,"New York, NY","Excel, Power BI, SQL, Statistics",Consulting,Associate,Full-time
+J0878,Embedded Software Engineer,C041,Vector Manufacturing,"Boston, MA","C++, Embedded Systems, Linux, MATLAB, Python",Manufacturing,Entry,Full-time
+J0879,Research Analyst,C031,Verity Strategy,"New York, NY","Data Visualization, Documentation, Excel, Research, SQL, Statistics",Consulting,Entry,Intern
+J0880,Hardware Test Engineer,C006,NorthWind Energy,"Chicago, IL","Circuit Analysis, Documentation, Python, Signal Processing",Energy,Entry,Full-time
+J0881,Research Assistant,C007,Insight Research Group,"Washington, DC","Data Analysis, Documentation, Excel, Research, Statistics",Research,Entry,Intern
+J0882,Financial Analyst,C049,Civic Insight,"Washington, DC","Communication, Excel, Financial Modeling, SQL",Government,Entry,Intern
+J0883,Software Engineer,C009,OakStone Advisors,Remote,"APIs, Algorithms, Data Structures, Git, Linux, Python",Finance,Entry,Full-time
+J0884,Data Analyst,C012,CartLift,"New York, NY","Data Visualization, Excel, Pandas, SQL, Tableau",E-commerce,Associate,Full-time
+J0885,Business Analyst,C029,Catalyst Advisory,"Boston, MA","Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Consulting,Entry,Full-time
+J0886,Software Engineer,C030,NovaAI,"New York, NY","APIs, Algorithms, Data Structures, Git, Linux, SQL",Technology,Entry,Full-time
+J0887,Manufacturing Engineer,C028,AeroNova,"Seattle, WA","CAD, Documentation, Process Improvement, Quality Assurance, SolidWorks",Aerospace,Associate,Full-time
+J0888,Quality Analyst,C005,CuraData,Remote,"Documentation, Excel, Process Improvement, Quality Assurance, Statistics",Healthcare,Entry,Full-time
+J0889,Business Analyst,C031,Verity Strategy,"Boston, MA","Communication, Excel, Power BI, Requirements Gathering, SQL, Tableau",Consulting,Entry,Full-time
+J0890,Clinical Data Analyst,C044,Aster Pharma,"San Francisco, CA","Data Analysis, Documentation, Excel, SQL, Statistics",Pharmaceuticals,Associate,Full-time
+J0891,Software Engineer,C002,NorthBridge Finance,"Seattle, WA","APIs, Communication, Git, Java, Linux, Python, SQL",Finance,Associate,Full-time
+J0892,Business Analyst,C024,UrbanCart,"Chicago, IL","Communication, Power BI, Requirements Gathering, SQL, Tableau",Retail,Entry,Intern
+J0893,Business Analyst,C036,Insight Partners,Remote,"Communication, Excel, Requirements Gathering, SQL, Tableau",Consulting,Associate,Full-time
+J0894,Business Intelligence Analyst,C002,NorthBridge Finance,"Boston, MA","Data Visualization, Excel, Power BI, SQL, Statistics, Tableau",Finance,Entry,Full-time
+J0895,Cloud Analyst,C012,CartLift,"New York, NY","APIs, Cloud, Linux, SQL, Troubleshooting",E-commerce,Entry,Full-time
+J0896,Controls Engineer,C017,ByteForge,"Seattle, WA","APIs, Automation, MATLAB, Python, Signal Processing",Technology,Associate,Full-time
+J0897,Research Analyst,C002,NorthBridge Finance,"Detroit, MI","Data Visualization, Documentation, Research, SQL",Finance,Entry,Full-time
+J0898,Financial Analyst,C017,ByteForge,Remote,"Communication, Excel, Financial Modeling, SQL, Statistics",Technology,Mid,Full-time
+J0899,Data Analyst,C036,Insight Partners,"Washington, DC","Data Visualization, Excel, Pandas, Python, SQL, Statistics",Consulting,Entry,Full-time
+J0900,Software Engineer,C022,CareSphere,Remote,"Algorithms, Git, Java, Linux, Python, SQL",Healthcare,Entry,Intern

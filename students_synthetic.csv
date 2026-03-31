@@ -1,0 +1,601 @@
+Student ID,Academic Major,GPA,Skill,Location Interest,University,School Year,Area of Experience,Number of Experience (yrs),Degree
+S0001,Electrical Engineering,3.35,"C++, Embedded Systems, MATLAB","New York, NY",University of Michigan,Sophomore,Embedded Systems,0.2,Bachelors
+S0002,Data Science,3.14,"Machine Learning, SQL, Statistics","Detroit, MI",University of Michigan,Freshman,Research,0.1,Bachelors
+S0003,Computer Science,3.4,"Automation, Data Structures, Linux, Python","San Francisco, CA",Howard University,Sophomore,Machine Learning,0.2,Bachelors
+S0004,Economics,3.88,"Data Visualization, Excel, Research, SQL, Statistics","Atlanta, GA",University of Michigan,Masters Year 1,Business Analysis,2.5,Masters
+S0005,Economics,3.36,"Communication, Data Visualization, Excel, Research, SQL, Statistics, Troubleshooting","San Francisco, CA",Georgia Tech,PhD Year 2,Business Analysis,3.7,PhD
+S0006,Computer Science,3.11,"APIs, Git, Python, SQL","Austin, TX",Howard University,Freshman,Data Analysis,0.1,Bachelors
+S0007,Computer Science,3.88,"Algorithms, Data Analysis, Data Structures, Git, Java, Linux","Detroit, MI",University of Illinois Chicago,Masters Year 2,Cloud Computing,1.5,Masters
+S0008,Information Systems,3.47,"Requirements Gathering, SQL, Tableau","Boston, MA",Georgia Tech,Sophomore,IT Support,0.8,Bachelors
+S0009,Computer Science,3.06,"Algorithms, Linux, Python, SQL","Atlanta, GA",Georgia Tech,Junior,Cloud Computing,0.8,Bachelors
+S0010,Business Analytics,3.38,"Excel, Power BI, SQL, Tableau","Washington, DC",University of Illinois Chicago,Junior,Finance,0.4,Bachelors
+S0011,Economics,3.04,"Communication, SQL, Statistics",Remote,University of Washington,Freshman,Finance,0.2,Bachelors
+S0012,Electrical Engineering,3.03,"C++, MATLAB, Python","New York, NY",Georgia Tech,Freshman,Research,0.1,Bachelors
+S0013,Business Analytics,3.34,"Communication, Power BI, SQL, Statistics","Austin, TX",Boston University,Senior,Operations,2.0,Bachelors
+S0014,Data Science,2.58,"Data Visualization, Machine Learning, Pandas, Statistics","Boston, MA",Northeastern University,Senior,Machine Learning,0.9,Bachelors
+S0015,Information Systems,2.62,"APIs, Excel, Project Management, SQL","New York, NY",Howard University,Sophomore,Business Analysis,0.2,Bachelors
+S0016,Data Science,3.0,"Cloud, Machine Learning, Pandas, SQL","Austin, TX",San Jose State University,Sophomore,Research,0.1,Bachelors
+S0017,Information Systems,3.04,"Communication, Power BI, Project Management, Requirements Gathering, Research, SQL, Tableau","Boston, MA",San Jose State University,Masters Year 1,Business Analysis,1.9,Masters
+S0018,Business Analytics,3.47,"Communication, Excel, Power BI, Process Improvement, Research, Statistics, Tableau",Remote,San Jose State University,Masters Year 1,Business Analysis,1.6,Masters
+S0019,Computer Science,2.91,"Algorithms, Data Structures, SQL","Boston, MA",Arizona State University,Sophomore,Cloud Computing,0.7,Bachelors
+S0020,Data Science,2.97,"Data Visualization, Machine Learning, Pandas, Python, Research, SQL, Statistics","New York, NY",University of Texas at Austin,PhD Year 1,Data Analysis,2.5,PhD
+S0021,Computer Science,3.84,"Algorithms, Git, Java, Linux, Python",Remote,Howard University,Masters Year 2,Data Analysis,1.3,Masters
+S0022,Data Science,3.12,"Machine Learning, Project Management, Python, Statistics","Washington, DC",Boston University,Sophomore,Machine Learning,0.3,Bachelors
+S0023,Computer Science,3.23,"Automation, Git, Java, SQL","Atlanta, GA",University of Washington,Sophomore,Software Development,0.7,Bachelors
+S0024,Electrical Engineering,2.97,"C++, Circuit Analysis, Embedded Systems, MATLAB, Python, Research, Signal Processing","San Francisco, CA",University of Illinois Chicago,PhD Year 1,Research,2.3,PhD
+S0025,Mechanical Engineering,3.02,"CAD, Problem Solving, SolidWorks, Thermodynamics","New York, NY",University of Illinois Chicago,Junior,Automation,0.6,Bachelors
+S0026,Information Systems,3.25,"Data Analysis, Project Management, Requirements Gathering, SQL, Tableau","San Francisco, CA",University of Texas at Austin,Senior,Operations,0.8,Bachelors
+S0027,Economics,2.8,"Communication, Excel, Monitoring, SQL","Austin, TX",Georgia Tech,Freshman,Policy Analysis,0.0,Bachelors
+S0028,Business Analytics,3.5,"Communication, Excel, Power BI, Research, SQL, Tableau",Remote,San Jose State University,Masters Year 1,Operations,2.4,Masters
+S0029,Biology,3.16,"Documentation, Excel, Laboratory Techniques, Research, Statistics",Remote,University of Illinois Chicago,Masters Year 2,Research,1.4,Masters
+S0030,Biology,3.12,"Excel, Laboratory Techniques, Research, Statistics","Austin, TX",University of Washington,Junior,Quality Assurance,0.8,Bachelors
+S0031,Computer Science,3.16,"Algorithms, Data Structures, Java, Linux, Python, Research","Washington, DC",Boston University,Masters Year 2,Machine Learning,1.4,Masters
+S0032,Computer Science,3.96,"Algorithms, Data Structures, Git, Java, Python","San Francisco, CA",Howard University,Masters Year 1,Cloud Computing,1.2,Masters
+S0033,Mechanical Engineering,3.24,"Documentation, Problem Solving, Python, SolidWorks, Thermodynamics","Atlanta, GA",San Jose State University,Senior,Automation,1.5,Bachelors
+S0034,Biology,2.85,"Data Analysis, Documentation, Laboratory Techniques","San Francisco, CA",Boston University,Sophomore,Research,0.4,Bachelors
+S0035,Information Systems,3.49,"Power BI, Project Management, SQL, Tableau","Austin, TX",Boston University,Junior,IT Support,0.9,Bachelors
+S0036,Economics,2.96,"Communication, Data Visualization, Excel, Research, Statistics","Austin, TX",Arizona State University,Masters Year 2,Finance,1.6,Masters
+S0037,Electrical Engineering,3.31,"C++, Data Visualization, Embedded Systems, MATLAB, Python","Seattle, WA",University of Washington,Senior,Hardware Engineering,1.5,Bachelors
+S0038,Business Analytics,2.72,"Communication, Power BI, SQL, Statistics, Tableau","Detroit, MI",University of Texas at Austin,Masters Year 1,Finance,1.6,Masters
+S0039,Business Analytics,2.76,"Communication, SQL, Tableau","Chicago, IL",University of Illinois Chicago,Sophomore,Finance,0.5,Bachelors
+S0040,Information Systems,3.4,"Excel, Project Management, Requirements Gathering, SQL, Tableau","New York, NY",San Jose State University,Masters Year 1,IT Support,1.0,Masters
+S0041,Economics,3.5,"Communication, Data Visualization, Excel, Research","Detroit, MI",University of Illinois Chicago,Senior,Research,2.4,Bachelors
+S0042,Economics,3.5,"Communication, Data Visualization, Excel, Research, SQL, Statistics","Detroit, MI",San Jose State University,PhD Year 4,Finance,4.4,PhD
+S0043,Economics,3.34,"Communication, Data Visualization, Documentation, Excel, Research, Statistics","Austin, TX",Arizona State University,Masters Year 1,Research,2.3,Masters
+S0044,Economics,3.16,"Communication, Excel, Research, SQL","Boston, MA",Howard University,Senior,Policy Analysis,2.2,Bachelors
+S0045,Computer Science,2.89,"Algorithms, Financial Modeling, Git, Java, Linux, Python, Research","Seattle, WA",Northeastern University,Masters Year 1,Data Analysis,2.1,Masters
+S0046,Data Science,3.0,"Pandas, Python, SQL, Statistics, Troubleshooting","Atlanta, GA",Boston University,Junior,Data Analysis,1.5,Bachelors
+S0047,Biology,3.06,"Documentation, Laboratory Techniques, Research, Statistics","San Francisco, CA",Howard University,Senior,Clinical Support,0.7,Bachelors
+S0048,Mechanical Engineering,3.54,"CAD, MATLAB, Problem Solving, Python","Atlanta, GA",Arizona State University,Junior,Automation,0.3,Bachelors
+S0049,Information Systems,3.33,"Excel, Power BI, Project Management, Tableau","Chicago, IL",Georgia Tech,Senior,Operations,1.0,Bachelors
+S0050,Business Analytics,2.64,"Communication, Excel, Power BI, Tableau",Remote,Howard University,Junior,Marketing Analytics,1.1,Bachelors
+S0051,Information Systems,3.49,"Excel, Project Management, Requirements Gathering, SQL, Tableau","Seattle, WA",Arizona State University,Masters Year 2,IT Support,2.4,Masters
+S0052,Computer Science,3.08,"Algorithms, Data Structures, Git, SQL","Austin, TX",University of Washington,Junior,Machine Learning,0.6,Bachelors
+S0053,Mechanical Engineering,2.96,"CAD, Data Analysis, MATLAB, SolidWorks","Chicago, IL",Arizona State University,Sophomore,Design Engineering,0.1,Bachelors
+S0054,Electrical Engineering,3.58,"C++, Circuit Analysis, Communication, Embedded Systems, MATLAB, Python, Research","Washington, DC",University of Michigan,Masters Year 2,Hardware Engineering,3.5,Masters
+S0055,Business Analytics,3.53,"Communication, Excel, Tableau","Austin, TX",Arizona State University,Freshman,Finance,0.3,Bachelors
+S0056,Biology,3.52,"Documentation, Excel, Laboratory Techniques, Research","Boston, MA",University of Michigan,Senior,Research,0.7,Bachelors
+S0057,Economics,3.16,"Communication, Data Visualization, Excel, Research, SQL, Statistics","Washington, DC",Boston University,PhD Year 1,Research,3.0,PhD
+S0058,Information Systems,3.13,"Excel, Monitoring, Power BI, Project Management, Tableau","San Francisco, CA",University of Texas at Austin,Junior,IT Support,1.2,Bachelors
+S0059,Computer Science,3.35,"Data Structures, Git, Java, Monitoring, SQL",Remote,University of Illinois Chicago,Senior,Software Development,1.4,Bachelors
+S0060,Electrical Engineering,3.56,"A/B Testing, C++, Circuit Analysis, MATLAB, Python","San Francisco, CA",University of Illinois Chicago,Senior,Hardware Engineering,1.4,Bachelors
+S0061,Economics,3.19,"Communication, Data Visualization, Research, SQL, Statistics","Detroit, MI",San Jose State University,Masters Year 2,Policy Analysis,1.3,Masters
+S0062,Electrical Engineering,3.14,"C++, Circuit Analysis, MATLAB","Seattle, WA",University of Texas at Austin,Sophomore,Embedded Systems,0.5,Bachelors
+S0063,Electrical Engineering,3.01,"C++, Circuit Analysis, MATLAB, Python, Research, Signal Processing",Remote,Georgia Tech,Masters Year 1,Automation,2.5,Masters
+S0064,Information Systems,2.82,"Cloud, Power BI, SQL, Tableau",Remote,San Jose State University,Sophomore,Business Analysis,0.8,Bachelors
+S0065,Economics,3.5,"Data Visualization, Research, SQL, Statistics","Detroit, MI",Arizona State University,Senior,Research,1.4,Bachelors
+S0066,Data Science,3.68,"Communication, Data Visualization, Python, SQL, Statistics","San Francisco, CA",University of Michigan,Senior,Research,1.4,Bachelors
+S0067,Computer Science,3.41,"Algorithms, Data Structures, Git, Java, Linux, Research, SQL","Chicago, IL",Arizona State University,PhD Year 1,Software Development,1.9,PhD
+S0068,Business Analytics,3.57,"Excel, Power BI, SQL, Tableau","Chicago, IL",University of Washington,Senior,Operations,1.5,Bachelors
+S0069,Computer Science,3.37,"Algorithms, Communication, Data Structures, Java, Linux","Austin, TX",University of Washington,Senior,Cloud Computing,1.7,Bachelors
+S0070,Biology,3.16,"Data Analysis, Documentation, Excel, Laboratory Techniques, Research","Washington, DC",San Jose State University,Masters Year 1,Clinical Support,1.8,Masters
+S0071,Economics,3.31,"Communication, Data Visualization, SQL","New York, NY",Arizona State University,Freshman,Finance,0.3,Bachelors
+S0072,Biology,3.7,"Data Analysis, Excel, Laboratory Techniques, Research","Atlanta, GA",San Jose State University,Freshman,Clinical Support,0.3,Bachelors
+S0073,Economics,3.37,"Communication, Data Visualization, Excel, Research, Statistics","Washington, DC",San Jose State University,Masters Year 2,Business Analysis,3.4,Masters
+S0074,Economics,3.7,"Communication, Excel, SQL","Austin, TX",University of Illinois Chicago,Freshman,Policy Analysis,0.0,Bachelors
+S0075,Information Systems,2.36,"Excel, Power BI, Project Management, SQL","Atlanta, GA",Boston University,Junior,IT Support,1.1,Bachelors
+S0076,Business Analytics,3.47,"Excel, Power BI, Tableau","Boston, MA",University of Washington,Sophomore,Finance,0.5,Bachelors
+S0077,Business Analytics,3.25,"Communication, Documentation, Power BI, SQL, Tableau","New York, NY",Arizona State University,Junior,Finance,1.1,Bachelors
+S0078,Information Systems,3.11,"Automation, Power BI, Project Management, Tableau",Remote,University of Michigan,Sophomore,Business Analysis,0.6,Bachelors
+S0079,Mechanical Engineering,3.41,"CAD, MATLAB, Problem Solving, SolidWorks, Thermodynamics","Atlanta, GA",University of Texas at Austin,Masters Year 2,Design Engineering,2.9,Masters
+S0080,Biology,2.54,"Data Analysis, Documentation, Research","Detroit, MI",Howard University,Sophomore,Quality Assurance,0.4,Bachelors
+S0081,Computer Science,3.17,"Data Structures, Java, Linux, SQL","Detroit, MI",University of Illinois Chicago,Junior,Machine Learning,1.5,Bachelors
+S0082,Information Systems,3.33,"Power BI, Project Management, SQL, Tableau","Chicago, IL",University of Michigan,Senior,IT Support,0.8,Bachelors
+S0083,Computer Science,3.71,"Git, Linux, Python, SQL","New York, NY",Arizona State University,Senior,Cloud Computing,1.0,Bachelors
+S0084,Biology,3.04,"Documentation, Excel, Laboratory Techniques, Statistics","New York, NY",University of Texas at Austin,Senior,Research,0.9,Bachelors
+S0085,Computer Science,3.14,"Algorithms, Data Structures, Git, Linux, Python, SQL","San Francisco, CA",Arizona State University,PhD Year 1,Data Analysis,1.2,PhD
+S0086,Biology,3.05,"Data Analysis, Laboratory Techniques, Research, Statistics","New York, NY",Howard University,Senior,Healthcare Analytics,0.9,Bachelors
+S0087,Data Science,3.74,"Data Visualization, Machine Learning, Pandas, Python, SQL, Statistics","New York, NY",Northeastern University,PhD Year 4,Business Intelligence,2.8,PhD
+S0088,Economics,3.32,"A/B Testing, Data Visualization, Excel, Statistics","San Francisco, CA",University of Texas at Austin,Sophomore,Policy Analysis,0.7,Bachelors
+S0089,Economics,3.04,"APIs, Data Visualization, Excel, SQL, Statistics","Detroit, MI",University of Texas at Austin,Senior,Policy Analysis,0.8,Bachelors
+S0090,Business Analytics,3.4,"Data Visualization, Power BI, SQL, Statistics, Tableau","Chicago, IL",University of Washington,Junior,Business Analysis,1.2,Bachelors
+S0091,Electrical Engineering,3.29,"C++, Circuit Analysis, MATLAB, Signal Processing",Remote,Georgia Tech,Senior,Automation,2.2,Bachelors
+S0092,Information Systems,3.51,"Power BI, Requirements Gathering, Tableau","Seattle, WA",Boston University,Freshman,Systems Analysis,0.2,Bachelors
+S0093,Economics,3.0,"Communication, Data Visualization, Process Improvement, Research, Statistics","Austin, TX",San Jose State University,Junior,Finance,1.4,Bachelors
+S0094,Computer Science,3.1,"Algorithms, Data Structures, Git, Python","Seattle, WA",Georgia Tech,Junior,Data Analysis,0.7,Bachelors
+S0095,Mechanical Engineering,3.05,"CAD, Problem Solving, Python",Remote,San Jose State University,Freshman,Quality Assurance,0.0,Bachelors
+S0096,Mechanical Engineering,2.89,"CAD, MATLAB, Problem Solving, Python, Research, Thermodynamics","San Francisco, CA",University of Illinois Chicago,Masters Year 2,Design Engineering,1.9,Masters
+S0097,Economics,3.47,"Data Visualization, Excel, Research, SQL, Statistics",Remote,University of Texas at Austin,Masters Year 1,Policy Analysis,1.8,Masters
+S0098,Electrical Engineering,3.27,"Embedded Systems, MATLAB, Python","Austin, TX",Arizona State University,Freshman,Embedded Systems,0.2,Bachelors
+S0099,Information Systems,3.25,"Cloud, Excel, Power BI, Requirements Gathering, SQL","Seattle, WA",University of Illinois Chicago,Senior,Business Analysis,1.6,Bachelors
+S0100,Information Systems,3.13,"Excel, Power BI, SQL, Tableau","Seattle, WA",Boston University,Junior,Business Analysis,0.6,Bachelors
+S0101,Mechanical Engineering,2.73,"MATLAB, Problem Solving, SolidWorks","Chicago, IL",University of Illinois Chicago,Sophomore,Manufacturing,0.5,Bachelors
+S0102,Computer Science,3.06,"Algorithms, Linux, Python, SQL","Seattle, WA",University of Michigan,Junior,Data Analysis,0.5,Bachelors
+S0103,Business Analytics,3.08,"APIs, Communication, Power BI, Tableau","Boston, MA",Howard University,Sophomore,Finance,0.3,Bachelors
+S0104,Biology,2.96,"Data Analysis, Excel, Laboratory Techniques, Research","Austin, TX",Georgia Tech,Senior,Healthcare Analytics,1.2,Bachelors
+S0105,Information Systems,3.13,"Excel, Project Management, Requirements Gathering","Austin, TX",Howard University,Sophomore,Business Analysis,0.1,Bachelors
+S0106,Biology,3.31,"Data Analysis, Documentation, Statistics","Boston, MA",Georgia Tech,Freshman,Quality Assurance,0.0,Bachelors
+S0107,Economics,3.88,"Communication, Data Visualization, Process Improvement, Research, SQL","Seattle, WA",Georgia Tech,Senior,Business Analysis,2.0,Bachelors
+S0108,Electrical Engineering,3.41,"C++, Circuit Analysis, Embedded Systems, MATLAB, Research, Signal Processing","San Francisco, CA",Georgia Tech,Masters Year 1,Embedded Systems,1.4,Masters
+S0109,Business Analytics,3.32,"Communication, Power BI, SQL, Statistics","Boston, MA",University of Washington,Junior,Business Analysis,1.3,Bachelors
+S0110,Computer Science,3.2,"Algorithms, Git, Java, Process Improvement, Python","Seattle, WA",Arizona State University,Senior,Software Development,1.2,Bachelors
+S0111,Electrical Engineering,2.6,"C++, Circuit Analysis, Embedded Systems, MATLAB","Austin, TX",Georgia Tech,Senior,Research,1.3,Bachelors
+S0112,Business Analytics,3.2,"Excel, SQL, Tableau","Washington, DC",University of Illinois Chicago,Sophomore,Operations,0.7,Bachelors
+S0113,Mechanical Engineering,3.26,"CAD, Python, SolidWorks, Thermodynamics","New York, NY",University of Washington,Junior,Quality Assurance,1.4,Bachelors
+S0114,Mechanical Engineering,4.0,"A/B Testing, MATLAB, Python, SolidWorks","New York, NY",University of Texas at Austin,Freshman,Design Engineering,0.1,Bachelors
+S0115,Economics,3.2,"Communication, Data Visualization, SQL, Statistics","Boston, MA",University of Texas at Austin,Senior,Research,2.2,Bachelors
+S0116,Mechanical Engineering,3.36,"MATLAB, Problem Solving, Python, SolidWorks","Chicago, IL",Arizona State University,Senior,Manufacturing,1.9,Bachelors
+S0117,Data Science,3.43,"Data Visualization, Machine Learning, Pandas, Python, Research, SQL, Statistics",Remote,University of Texas at Austin,PhD Year 4,Business Intelligence,5.7,PhD
+S0118,Economics,2.81,"Communication, Data Visualization, Excel","Chicago, IL",University of Texas at Austin,Sophomore,Policy Analysis,0.5,Bachelors
+S0119,Biology,3.61,"Communication, Data Analysis, Excel, Laboratory Techniques, Research","Chicago, IL",Howard University,Junior,Clinical Support,1.4,Bachelors
+S0120,Biology,3.44,"Automation, Data Analysis, Documentation, Research","Atlanta, GA",Arizona State University,Freshman,Quality Assurance,0.3,Bachelors
+S0121,Computer Science,3.45,"Algorithms, Java, Python, SQL","San Francisco, CA",Boston University,Junior,Software Development,0.3,Bachelors
+S0122,Computer Science,2.88,"Algorithms, Automation, Data Structures, Git","San Francisco, CA",Arizona State University,Sophomore,Cloud Computing,0.0,Bachelors
+S0123,Computer Science,3.65,"Algorithms, Documentation, Python, SQL","Atlanta, GA",University of Texas at Austin,Sophomore,Cloud Computing,0.1,Bachelors
+S0124,Computer Science,2.98,"Data Structures, Git, Java, Linux, Python, Research, SQL","Austin, TX",Georgia Tech,PhD Year 1,Software Development,2.9,PhD
+S0125,Mechanical Engineering,3.45,"CAD, Financial Modeling, MATLAB, Python, SolidWorks",Remote,University of Texas at Austin,Senior,Quality Assurance,2.0,Bachelors
+S0126,Mechanical Engineering,4.0,"CAD, MATLAB, Problem Solving, Python, SolidWorks, Thermodynamics",Remote,Howard University,PhD Year 4,Design Engineering,4.7,PhD
+S0127,Business Analytics,3.11,"Communication, Excel, Power BI, Research, SQL, Statistics, Tableau, Testing","Detroit, MI",San Jose State University,PhD Year 4,Operations,3.4,PhD
+S0128,Biology,3.05,"Documentation, Laboratory Techniques, Research, Statistics","Seattle, WA",Georgia Tech,Senior,Healthcare Analytics,1.5,Bachelors
+S0129,Biology,3.22,"Documentation, Laboratory Techniques, Statistics","Boston, MA",San Jose State University,Sophomore,Quality Assurance,0.1,Bachelors
+S0130,Business Analytics,3.09,"Communication, Excel, Statistics, Tableau","Seattle, WA",Howard University,Senior,Finance,2.3,Bachelors
+S0131,Mechanical Engineering,2.68,"CAD, Financial Modeling, MATLAB, Problem Solving","Austin, TX",Howard University,Freshman,Automation,0.3,Bachelors
+S0132,Biology,3.21,"Excel, Laboratory Techniques, Research","Austin, TX",University of Washington,Freshman,Quality Assurance,0.1,Bachelors
+S0133,Information Systems,2.85,"Data Visualization, Power BI, Project Management, Requirements Gathering, Tableau","Atlanta, GA",University of Illinois Chicago,Senior,IT Support,0.6,Bachelors
+S0134,Data Science,3.42,"Data Analysis, Data Visualization, Pandas, Python, SQL","Washington, DC",Arizona State University,Senior,Business Intelligence,2.5,Bachelors
+S0135,Economics,3.14,"Communication, Data Visualization, Excel, Research, SQL, Statistics","Washington, DC",Georgia Tech,PhD Year 3,Research,4.0,PhD
+S0136,Economics,3.72,"Data Visualization, Research, SQL, Statistics","Chicago, IL",Georgia Tech,Junior,Policy Analysis,0.7,Bachelors
+S0137,Biology,2.97,"Data Analysis, Documentation, Laboratory Techniques, Research","Austin, TX",University of Washington,Junior,Research,1.2,Bachelors
+S0138,Biology,3.27,"A/B Testing, Documentation, Excel, Laboratory Techniques, Research, Statistics","Austin, TX",Northeastern University,Masters Year 1,Clinical Support,2.1,Masters
+S0139,Biology,3.62,"Data Analysis, Excel, Laboratory Techniques, Research, Statistics","Atlanta, GA",University of Texas at Austin,Masters Year 1,Quality Assurance,1.2,Masters
+S0140,Mechanical Engineering,2.84,"CAD, Problem Solving, Project Management, Python, SolidWorks","San Francisco, CA",San Jose State University,Senior,Manufacturing,1.6,Bachelors
+S0141,Computer Science,3.46,"APIs, Data Structures, Git, Java, Linux, Research, SQL","Seattle, WA",San Jose State University,Masters Year 2,Machine Learning,2.6,Masters
+S0142,Data Science,3.64,"Machine Learning, SQL, Statistics","Chicago, IL",Georgia Tech,Sophomore,Machine Learning,0.6,Bachelors
+S0143,Business Analytics,2.65,"Automation, Communication, Power BI, Statistics",Remote,University of Texas at Austin,Sophomore,Marketing Analytics,0.1,Bachelors
+S0144,Biology,3.44,"Data Analysis, Documentation, Excel, Laboratory Techniques, Statistics","Boston, MA",Northeastern University,Masters Year 1,Healthcare Analytics,2.1,Masters
+S0145,Information Systems,3.32,"Power BI, Requirements Gathering, SQL, Tableau","Detroit, MI",University of Illinois Chicago,Junior,Operations,1.4,Bachelors
+S0146,Economics,3.48,"Communication, Data Visualization, Excel, SQL","Detroit, MI",Arizona State University,Junior,Finance,1.0,Bachelors
+S0147,Data Science,3.0,"Communication, Data Visualization, Machine Learning, Pandas, Python, Research, SQL, Statistics","New York, NY",University of Michigan,PhD Year 1,Data Analysis,1.3,PhD
+S0148,Computer Science,2.78,"Algorithms, Java, Linux, SQL","Detroit, MI",Boston University,Junior,Data Analysis,0.8,Bachelors
+S0149,Data Science,3.42,"Machine Learning, Python, SQL, Statistics","San Francisco, CA",San Jose State University,Senior,Machine Learning,1.6,Bachelors
+S0150,Economics,3.47,"Communication, Data Visualization, Excel, Research, SQL, Statistics","Detroit, MI",Boston University,Masters Year 1,Policy Analysis,1.8,Masters
+S0151,Information Systems,3.42,"Data Analysis, Excel, Power BI, Project Management, Research, SQL, Tableau","Detroit, MI",University of Washington,Masters Year 1,Business Analysis,0.9,Masters
+S0152,Biology,3.49,"A/B Testing, Data Analysis, Documentation, Excel, Laboratory Techniques, Research, Statistics","Austin, TX",University of Washington,Masters Year 1,Clinical Support,2.0,Masters
+S0153,Information Systems,3.03,"Excel, Requirements Gathering, SQL, Tableau, Troubleshooting","Washington, DC",Northeastern University,Senior,Systems Analysis,1.8,Bachelors
+S0154,Biology,3.46,"Data Analysis, Documentation, Excel, Laboratory Techniques, Project Management, Statistics",Remote,San Jose State University,Masters Year 1,Healthcare Analytics,2.0,Masters
+S0155,Information Systems,3.31,"Excel, Power BI, Project Management, SQL","Boston, MA",Arizona State University,Senior,Business Analysis,0.8,Bachelors
+S0156,Economics,2.97,"Communication, Data Visualization, Excel, Statistics","Atlanta, GA",Northeastern University,Junior,Research,0.6,Bachelors
+S0157,Computer Science,3.82,"Algorithms, Data Structures, Java, Python","Seattle, WA",Arizona State University,Senior,Data Analysis,0.7,Bachelors
+S0158,Data Science,3.6,"Data Visualization, Machine Learning, Pandas, Python, SQL, Statistics","Washington, DC",University of Michigan,PhD Year 3,Data Analysis,2.9,PhD
+S0159,Information Systems,2.87,"Power BI, Project Management, SQL, Tableau","Chicago, IL",Howard University,Senior,Systems Analysis,2.4,Bachelors
+S0160,Biology,3.45,"Data Analysis, Laboratory Techniques, Process Improvement, Research, Statistics","Detroit, MI",University of Illinois Chicago,Junior,Healthcare Analytics,1.4,Bachelors
+S0161,Computer Science,2.88,"Algorithms, Data Structures, Java","Austin, TX",University of Washington,Sophomore,Data Analysis,0.5,Bachelors
+S0162,Information Systems,3.5,"Power BI, Project Management, SQL, Tableau","Washington, DC",University of Illinois Chicago,Senior,IT Support,1.5,Bachelors
+S0163,Information Systems,3.57,"Documentation, Project Management, SQL, Tableau",Remote,University of Washington,Freshman,IT Support,0.2,Bachelors
+S0164,Biology,3.11,"Data Analysis, Documentation, Laboratory Techniques, Research, Statistics","Austin, TX",Boston University,Masters Year 1,Quality Assurance,1.9,Masters
+S0165,Mechanical Engineering,3.7,"CAD, Communication, Problem Solving, Python, SolidWorks, Thermodynamics","San Francisco, CA",Northeastern University,Masters Year 1,Manufacturing,2.1,Masters
+S0166,Computer Science,3.33,"Algorithms, Data Structures, Git, Python",Remote,Arizona State University,Junior,Data Analysis,0.4,Bachelors
+S0167,Business Analytics,3.47,"APIs, Communication, Excel, SQL, Tableau","San Francisco, CA",Northeastern University,Junior,Finance,0.4,Bachelors
+S0168,Computer Science,3.82,"Data Structures, Python, SQL","Detroit, MI",University of Texas at Austin,Freshman,Software Development,0.3,Bachelors
+S0169,Biology,3.16,"Documentation, Excel, Research, Statistics","Boston, MA",University of Washington,Junior,Healthcare Analytics,1.5,Bachelors
+S0170,Biology,2.98,"Data Analysis, Documentation, Excel, Research","Atlanta, GA",Arizona State University,Senior,Clinical Support,1.3,Bachelors
+S0171,Business Analytics,2.93,"Communication, SQL, Statistics, Tableau",Remote,University of Michigan,Senior,Marketing Analytics,1.0,Bachelors
+S0172,Information Systems,2.93,"Excel, Project Management, Requirements Gathering, SQL","Chicago, IL",University of Michigan,Senior,IT Support,0.5,Bachelors
+S0173,Computer Science,3.2,"Algorithms, Java, Linux, SQL","Chicago, IL",Boston University,Junior,Software Development,1.2,Bachelors
+S0174,Electrical Engineering,3.3,"C++, Embedded Systems, Python","New York, NY",University of Illinois Chicago,Sophomore,Hardware Engineering,0.2,Bachelors
+S0175,Biology,3.47,"Data Analysis, Excel, Laboratory Techniques, Research, Statistics","Austin, TX",San Jose State University,Masters Year 1,Healthcare Analytics,1.9,Masters
+S0176,Data Science,3.48,"Machine Learning, Python, SQL, Statistics","San Francisco, CA",San Jose State University,Junior,Business Intelligence,0.6,Bachelors
+S0177,Computer Science,3.2,"Linux, Python, SQL","New York, NY",Northeastern University,Sophomore,Cloud Computing,0.5,Bachelors
+S0178,Information Systems,3.66,"APIs, Excel, Power BI, Tableau",Remote,Northeastern University,Freshman,IT Support,0.0,Bachelors
+S0179,Biology,3.15,"Data Analysis, Documentation, Excel, Statistics","Chicago, IL",University of Washington,Senior,Clinical Support,1.5,Bachelors
+S0180,Data Science,4.0,"Data Visualization, Machine Learning, Pandas, Python","Detroit, MI",Arizona State University,Junior,Machine Learning,0.7,Bachelors
+S0181,Information Systems,3.39,"Excel, Project Management, SQL","Detroit, MI",Boston University,Sophomore,IT Support,0.0,Bachelors
+S0182,Data Science,2.92,"Automation, Machine Learning, Pandas, Statistics","Washington, DC",Arizona State University,Sophomore,Business Intelligence,0.5,Bachelors
+S0183,Electrical Engineering,2.83,"Communication, Embedded Systems, Python, Signal Processing","Seattle, WA",University of Michigan,Freshman,Hardware Engineering,0.2,Bachelors
+S0184,Economics,3.36,"Data Visualization, Excel, Research, Statistics","Boston, MA",University of Michigan,Senior,Research,0.6,Bachelors
+S0185,Business Analytics,3.16,"Communication, Excel, Power BI, Statistics","New York, NY",San Jose State University,Junior,Finance,1.4,Bachelors
+S0186,Business Analytics,3.44,"Excel, Monitoring, SQL, Statistics, Tableau","San Francisco, CA",Boston University,Senior,Finance,0.5,Bachelors
+S0187,Economics,3.35,"Data Visualization, Research, Statistics","Chicago, IL",Northeastern University,Sophomore,Business Analysis,0.3,Bachelors
+S0188,Economics,3.23,"Data Visualization, Excel, Research, Statistics","Atlanta, GA",University of Michigan,Senior,Research,1.8,Bachelors
+S0189,Mechanical Engineering,2.97,"Automation, CAD, Problem Solving, Python, Thermodynamics","Seattle, WA",Boston University,Senior,Quality Assurance,1.8,Bachelors
+S0190,Computer Science,2.76,"Java, Linux, Python, SQL",Remote,San Jose State University,Senior,Software Development,2.3,Bachelors
+S0191,Data Science,3.08,"Machine Learning, Python, SQL, Statistics","New York, NY",Howard University,Junior,Machine Learning,1.3,Bachelors
+S0192,Information Systems,3.66,"Communication, Excel, Power BI, Project Management, SQL, Tableau","Boston, MA",San Jose State University,Masters Year 2,Operations,2.5,Masters
+S0193,Electrical Engineering,3.29,"C++, Data Analysis, Embedded Systems, MATLAB, Python","Detroit, MI",University of Texas at Austin,Senior,Hardware Engineering,1.1,Bachelors
+S0194,Information Systems,2.77,"Documentation, Excel, Power BI, SQL","San Francisco, CA",Arizona State University,Freshman,Systems Analysis,0.1,Bachelors
+S0195,Business Analytics,3.25,"Excel, Power BI, Tableau","Detroit, MI",Georgia Tech,Freshman,Marketing Analytics,0.2,Bachelors
+S0196,Business Analytics,3.57,"A/B Testing, Communication, Excel, Power BI, Research, SQL, Statistics, Tableau","Chicago, IL",San Jose State University,PhD Year 2,Operations,2.9,PhD
+S0197,Data Science,3.07,"APIs, Data Visualization, Machine Learning, Pandas, Python, SQL",Remote,Howard University,Masters Year 2,Business Intelligence,1.6,Masters
+S0198,Information Systems,3.42,"Documentation, Excel, Power BI, Project Management, Requirements Gathering, Tableau","Detroit, MI",University of Illinois Chicago,Masters Year 2,IT Support,1.8,Masters
+S0199,Electrical Engineering,3.46,"C++, Circuit Analysis, Embedded Systems, MATLAB, Python, Signal Processing","Washington, DC",Arizona State University,PhD Year 2,Research,2.3,PhD
+S0200,Data Science,3.0,"Data Visualization, Financial Modeling, Machine Learning, Pandas, Research, SQL, Statistics",Remote,San Jose State University,Masters Year 1,Research,2.2,Masters
+S0201,Computer Science,3.56,"Algorithms, Data Structures, Git, Linux, Python, Research, SQL","New York, NY",Boston University,PhD Year 4,Cloud Computing,4.5,PhD
+S0202,Biology,3.39,"Communication, Documentation, Research, Statistics","San Francisco, CA",University of Washington,Sophomore,Healthcare Analytics,0.6,Bachelors
+S0203,Mechanical Engineering,3.55,"CAD, Documentation, Python, SolidWorks","New York, NY",Georgia Tech,Sophomore,Design Engineering,0.4,Bachelors
+S0204,Biology,3.54,"Excel, Laboratory Techniques, Statistics","Detroit, MI",Arizona State University,Sophomore,Clinical Support,0.4,Bachelors
+S0205,Business Analytics,2.73,"Excel, SQL, Tableau","Seattle, WA",Northeastern University,Freshman,Business Analysis,0.2,Bachelors
+S0206,Business Analytics,2.91,"Communication, SQL, Statistics, Tableau","New York, NY",San Jose State University,Junior,Finance,0.9,Bachelors
+S0207,Electrical Engineering,3.38,"Automation, Circuit Analysis, Embedded Systems, MATLAB, Python","Boston, MA",University of Washington,Junior,Hardware Engineering,0.8,Bachelors
+S0208,Information Systems,3.38,"Project Management, Requirements Gathering, Tableau","Austin, TX",Howard University,Sophomore,Systems Analysis,0.7,Bachelors
+S0209,Business Analytics,3.4,"Cloud, Communication, Excel, SQL, Tableau","Austin, TX",University of Texas at Austin,Junior,Business Analysis,1.3,Bachelors
+S0210,Computer Science,4.0,"Algorithms, Data Structures, Java, Linux","Chicago, IL",Arizona State University,Junior,Cloud Computing,1.0,Bachelors
+S0211,Data Science,3.57,"Data Visualization, Machine Learning, Pandas, Research, SQL, Statistics","Seattle, WA",Arizona State University,Masters Year 1,Data Analysis,2.3,Masters
+S0212,Computer Science,3.6,"Algorithms, Java, Linux, SQL","Detroit, MI",Boston University,Senior,Machine Learning,1.1,Bachelors
+S0213,Economics,3.49,"Data Visualization, Excel, Research","New York, NY",San Jose State University,Freshman,Policy Analysis,0.0,Bachelors
+S0214,Economics,3.59,"Data Visualization, Excel, Research, SQL, Statistics","Boston, MA",Northeastern University,Masters Year 2,Research,3.2,Masters
+S0215,Mechanical Engineering,3.14,"CAD, MATLAB, Problem Solving, Thermodynamics","San Francisco, CA",University of Michigan,Senior,Automation,1.7,Bachelors
+S0216,Business Analytics,3.44,"Communication, Statistics, Tableau","Washington, DC",University of Washington,Freshman,Marketing Analytics,0.3,Bachelors
+S0217,Mechanical Engineering,3.0,"CAD, MATLAB, SolidWorks, Testing, Thermodynamics","Detroit, MI",Northeastern University,Senior,Manufacturing,2.1,Bachelors
+S0218,Mechanical Engineering,3.13,"CAD, Problem Solving, Python, SolidWorks","Austin, TX",Georgia Tech,Junior,Automation,0.6,Bachelors
+S0219,Mechanical Engineering,3.08,"CAD, Problem Solving, Process Improvement, SolidWorks, Thermodynamics",Remote,Howard University,Senior,Automation,1.4,Bachelors
+S0220,Economics,3.29,"Communication, Data Visualization, SQL, Statistics","San Francisco, CA",University of Texas at Austin,Senior,Business Analysis,2.1,Bachelors
+S0221,Business Analytics,3.97,"Communication, Excel, Power BI, Statistics","Seattle, WA",University of Texas at Austin,Senior,Business Analysis,0.6,Bachelors
+S0222,Computer Science,2.76,"Git, Java, Linux, Python, Research, SQL","Atlanta, GA",Howard University,Masters Year 1,Data Analysis,2.5,Masters
+S0223,Electrical Engineering,3.45,"C++, Cloud, Embedded Systems, MATLAB, Signal Processing","San Francisco, CA",University of Texas at Austin,Junior,Hardware Engineering,1.2,Bachelors
+S0224,Business Analytics,2.65,"Communication, Documentation, Power BI, SQL","Detroit, MI",Georgia Tech,Freshman,Business Analysis,0.1,Bachelors
+S0225,Computer Science,3.06,"Git, Java, Linux, Python","San Francisco, CA",University of Michigan,Senior,Data Analysis,0.8,Bachelors
+S0226,Computer Science,3.56,"Algorithms, Data Structures, Git",Remote,Georgia Tech,Sophomore,Cloud Computing,0.6,Bachelors
+S0227,Computer Science,3.25,"Git, Java, Linux, SQL","San Francisco, CA",Northeastern University,Senior,Cloud Computing,1.2,Bachelors
+S0228,Electrical Engineering,2.9,"C++, Circuit Analysis, Embedded Systems, Python","Detroit, MI",University of Michigan,Senior,Research,1.9,Bachelors
+S0229,Economics,2.95,"Data Visualization, Excel, SQL","Austin, TX",University of Texas at Austin,Sophomore,Research,0.2,Bachelors
+S0230,Economics,3.42,"APIs, Communication, Data Visualization, Excel, Research","Washington, DC",University of Michigan,Junior,Business Analysis,0.5,Bachelors
+S0231,Information Systems,3.02,"Power BI, Project Management, SQL, Tableau","Boston, MA",Boston University,Senior,Operations,2.0,Bachelors
+S0232,Computer Science,3.33,"Algorithms, Data Structures, Documentation, Python, SQL","New York, NY",Northeastern University,Senior,Data Analysis,2.4,Bachelors
+S0233,Computer Science,3.24,"A/B Testing, Git, Java, Linux, Python","Boston, MA",University of Michigan,Junior,Machine Learning,1.0,Bachelors
+S0234,Biology,3.04,"Data Analysis, Documentation, Excel, Laboratory Techniques","Austin, TX",University of Michigan,Senior,Clinical Support,1.9,Bachelors
+S0235,Information Systems,3.92,"Automation, Power BI, Project Management, Tableau","Boston, MA",Boston University,Sophomore,Business Analysis,0.8,Bachelors
+S0236,Computer Science,3.46,"Algorithms, Automation, Git, Java, Python","Chicago, IL",University of Michigan,Senior,Software Development,1.8,Bachelors
+S0237,Business Analytics,2.52,"Documentation, Power BI, SQL, Statistics","Chicago, IL",Howard University,Freshman,Business Analysis,0.3,Bachelors
+S0238,Computer Science,3.3,"Algorithms, Data Structures, Java, Process Improvement, Python","Detroit, MI",University of Illinois Chicago,Junior,Data Analysis,1.4,Bachelors
+S0239,Information Systems,2.99,"Excel, Power BI, Requirements Gathering, Tableau","Washington, DC",Arizona State University,Junior,Systems Analysis,0.7,Bachelors
+S0240,Economics,3.63,"Communication, Excel, Research, SQL, Statistics",Remote,San Jose State University,Masters Year 1,Business Analysis,1.1,Masters
+S0241,Mechanical Engineering,2.94,"CAD, MATLAB, Monitoring, Problem Solving, SolidWorks","Austin, TX",University of Washington,Junior,Automation,0.6,Bachelors
+S0242,Biology,3.21,"Documentation, Excel, Laboratory Techniques, Research","Atlanta, GA",San Jose State University,Senior,Clinical Support,1.7,Bachelors
+S0243,Computer Science,3.43,"Algorithms, Git, Linux, SQL","New York, NY",Northeastern University,Senior,Cloud Computing,2.4,Bachelors
+S0244,Data Science,3.63,"Data Visualization, Machine Learning, Python, SQL, Statistics","Seattle, WA",Northeastern University,Masters Year 1,Business Intelligence,1.1,Masters
+S0245,Business Analytics,2.95,"Communication, Data Analysis, Excel, Power BI, Research, SQL, Statistics","Austin, TX",Howard University,Masters Year 1,Marketing Analytics,1.1,Masters
+S0246,Computer Science,3.1,"Algorithms, Cloud, Data Structures, Java, Linux","New York, NY",University of Texas at Austin,Senior,Cloud Computing,0.8,Bachelors
+S0247,Computer Science,3.03,"Git, Python, SQL",Remote,University of Illinois Chicago,Sophomore,Cloud Computing,0.2,Bachelors
+S0248,Computer Science,3.22,"Algorithms, Data Structures, Java, Linux, Python, Research, SQL","Seattle, WA",Boston University,PhD Year 2,Cloud Computing,3.8,PhD
+S0249,Mechanical Engineering,3.77,"A/B Testing, MATLAB, Problem Solving, SolidWorks","San Francisco, CA",University of Michigan,Sophomore,Quality Assurance,0.3,Bachelors
+S0250,Electrical Engineering,3.37,"C++, Circuit Analysis, MATLAB, Monitoring, Python","Chicago, IL",University of Washington,Junior,Automation,1.4,Bachelors
+S0251,Biology,2.77,"Documentation, Excel, Project Management, Statistics","Chicago, IL",University of Washington,Freshman,Quality Assurance,0.1,Bachelors
+S0252,Data Science,3.49,"Machine Learning, Pandas, Python, Statistics","New York, NY",University of Texas at Austin,Junior,Machine Learning,0.3,Bachelors
+S0253,Electrical Engineering,3.96,"C++, Embedded Systems, Python, Signal Processing","Boston, MA",University of Texas at Austin,Senior,Embedded Systems,2.3,Bachelors
+S0254,Electrical Engineering,3.72,"C++, Circuit Analysis, Embedded Systems, MATLAB, Python","San Francisco, CA",Arizona State University,Masters Year 2,Embedded Systems,3.3,Masters
+S0255,Computer Science,2.69,"Algorithms, Data Structures, Project Management, Python",Remote,Northeastern University,Freshman,Software Development,0.2,Bachelors
+S0256,Information Systems,3.1,"Excel, Project Management, Requirements Gathering, SQL","Washington, DC",Howard University,Senior,Business Analysis,2.2,Bachelors
+S0257,Information Systems,3.8,"Excel, Power BI, Project Management, SQL, Tableau","Boston, MA",Howard University,Masters Year 2,Systems Analysis,2.5,Masters
+S0258,Biology,3.03,"Data Analysis, Documentation, Excel, Statistics","Boston, MA",University of Illinois Chicago,Senior,Clinical Support,2.1,Bachelors
+S0259,Mechanical Engineering,3.53,"CAD, MATLAB, Python, Research, SolidWorks, Thermodynamics","Boston, MA",Arizona State University,Masters Year 2,Manufacturing,3.1,Masters
+S0260,Mechanical Engineering,3.47,"CAD, Monitoring, Problem Solving, Python, SolidWorks","Austin, TX",Georgia Tech,Senior,Manufacturing,0.8,Bachelors
+S0261,Economics,3.05,"Communication, Data Visualization, Research, SQL, Statistics",Remote,Arizona State University,Masters Year 1,Business Analysis,1.5,Masters
+S0262,Electrical Engineering,3.32,"C++, Circuit Analysis, Embedded Systems, MATLAB, Python, Research",Remote,University of Texas at Austin,Masters Year 1,Embedded Systems,1.1,Masters
+S0263,Computer Science,2.19,"Algorithms, Data Structures, Linux, Python","San Francisco, CA",University of Texas at Austin,Senior,Machine Learning,2.5,Bachelors
+S0264,Information Systems,2.87,"Power BI, Project Management, Requirements Gathering","Chicago, IL",University of Illinois Chicago,Sophomore,Operations,0.8,Bachelors
+S0265,Computer Science,3.13,"Data Structures, Linux, Python, SQL","Seattle, WA",Boston University,Senior,Machine Learning,0.8,Bachelors
+S0266,Computer Science,2.83,"Data Structures, Linux, Python, SQL","New York, NY",University of Illinois Chicago,Junior,Cloud Computing,1.5,Bachelors
+S0267,Business Analytics,3.77,"Automation, Excel, Power BI, SQL, Tableau","San Francisco, CA",University of Illinois Chicago,Senior,Finance,1.2,Bachelors
+S0268,Computer Science,2.72,"Algorithms, Java, Linux",Remote,San Jose State University,Freshman,Cloud Computing,0.2,Bachelors
+S0269,Information Systems,3.09,"Excel, Power BI, SQL, Tableau","Seattle, WA",University of Michigan,Senior,IT Support,1.4,Bachelors
+S0270,Biology,3.38,"Cloud, Data Analysis, Documentation, Laboratory Techniques, Research, Statistics","Boston, MA",San Jose State University,Masters Year 1,Healthcare Analytics,1.0,Masters
+S0271,Economics,3.68,"Data Visualization, Excel, Research, SQL, Troubleshooting","Seattle, WA",University of Washington,Junior,Research,0.7,Bachelors
+S0272,Biology,2.88,"Data Analysis, Excel, Laboratory Techniques, Research, Statistics",Remote,Howard University,Masters Year 2,Clinical Support,1.3,Masters
+S0273,Data Science,3.6,"Data Visualization, Machine Learning, SQL, Statistics","New York, NY",San Jose State University,Junior,Business Intelligence,0.9,Bachelors
+S0274,Biology,3.21,"Documentation, Laboratory Techniques, Research","Chicago, IL",University of Illinois Chicago,Sophomore,Quality Assurance,0.6,Bachelors
+S0275,Economics,3.06,"Communication, Data Visualization, Research, SQL, Statistics","Boston, MA",Georgia Tech,Masters Year 1,Finance,2.5,Masters
+S0276,Data Science,3.53,"Data Visualization, Machine Learning, Pandas, Python, Research, SQL",Remote,University of Washington,Masters Year 2,Machine Learning,2.9,Masters
+S0277,Computer Science,3.33,"Data Structures, Linux, Python, SQL","Austin, TX",University of Illinois Chicago,Senior,Data Analysis,2.2,Bachelors
+S0278,Business Analytics,3.06,"Excel, Power BI, Statistics, Tableau","San Francisco, CA",Arizona State University,Senior,Operations,1.9,Bachelors
+S0279,Information Systems,3.28,"Power BI, Project Management, Requirements Gathering, SQL, Tableau",Remote,Northeastern University,Senior,Business Analysis,2.0,Bachelors
+S0280,Electrical Engineering,3.06,"C++, MATLAB, Signal Processing","San Francisco, CA",University of Texas at Austin,Sophomore,Embedded Systems,0.3,Bachelors
+S0281,Computer Science,3.26,"Data Structures, Git, Linux, Process Improvement, SQL","Atlanta, GA",University of Illinois Chicago,Senior,Machine Learning,1.1,Bachelors
+S0282,Economics,3.41,"Cloud, Communication, Data Visualization, SQL","New York, NY",Arizona State University,Freshman,Policy Analysis,0.2,Bachelors
+S0283,Biology,3.74,"Data Analysis, Documentation, Research, Statistics","Austin, TX",Boston University,Senior,Quality Assurance,1.0,Bachelors
+S0284,Information Systems,2.78,"Power BI, Requirements Gathering, Tableau","San Francisco, CA",University of Michigan,Freshman,Systems Analysis,0.1,Bachelors
+S0285,Biology,4.0,"Data Analysis, Documentation, Excel, Laboratory Techniques, Statistics","Boston, MA",University of Washington,Masters Year 2,Clinical Support,2.8,Masters
+S0286,Computer Science,2.56,"Git, Monitoring, Python, SQL","Austin, TX",University of Illinois Chicago,Sophomore,Data Analysis,0.6,Bachelors
+S0287,Biology,3.17,"Data Analysis, Excel, Research, Statistics","New York, NY",University of Washington,Junior,Research,0.9,Bachelors
+S0288,Mechanical Engineering,3.43,"MATLAB, Problem Solving, SolidWorks, Thermodynamics","Boston, MA",Arizona State University,Junior,Design Engineering,1.3,Bachelors
+S0289,Biology,3.28,"Laboratory Techniques, Research, Statistics","Detroit, MI",Northeastern University,Freshman,Clinical Support,0.1,Bachelors
+S0290,Computer Science,3.02,"Algorithms, Data Structures, Git, Java","Austin, TX",Arizona State University,Junior,Software Development,1.2,Bachelors
+S0291,Computer Science,3.11,"APIs, Algorithms, Java, Linux","Chicago, IL",Northeastern University,Sophomore,Machine Learning,0.0,Bachelors
+S0292,Biology,3.03,"Data Analysis, Research, Statistics, Troubleshooting","Detroit, MI",Arizona State University,Freshman,Quality Assurance,0.2,Bachelors
+S0293,Electrical Engineering,3.07,"Circuit Analysis, MATLAB, Python, Signal Processing","New York, NY",San Jose State University,Senior,Research,2.5,Bachelors
+S0294,Data Science,3.72,"Data Visualization, Machine Learning, Pandas, Python, Research, SQL, Statistics","Atlanta, GA",Georgia Tech,PhD Year 2,Business Intelligence,3.3,PhD
+S0295,Computer Science,3.33,"Algorithms, Data Structures, Git, Java","Chicago, IL",University of Michigan,Junior,Machine Learning,0.8,Bachelors
+S0296,Mechanical Engineering,2.97,"CAD, Data Visualization, Python, Thermodynamics","Seattle, WA",Georgia Tech,Sophomore,Design Engineering,0.5,Bachelors
+S0297,Electrical Engineering,3.65,"C++, Circuit Analysis, Embedded Systems, MATLAB, Python","Austin, TX",Arizona State University,Masters Year 1,Automation,1.4,Masters
+S0298,Computer Science,3.36,"Algorithms, Git, Java, Python",Remote,Georgia Tech,Senior,Cloud Computing,2.2,Bachelors
+S0299,Electrical Engineering,3.49,"C++, Embedded Systems, MATLAB, Python","Seattle, WA",Howard University,Senior,Embedded Systems,1.0,Bachelors
+S0300,Computer Science,3.54,"Algorithms, Git, Java, Linux, SQL",Remote,University of Illinois Chicago,Masters Year 1,Data Analysis,0.8,Masters
+S0301,Computer Science,2.92,"Data Structures, Git, SQL","New York, NY",University of Texas at Austin,Sophomore,Cloud Computing,0.3,Bachelors
+S0302,Mechanical Engineering,3.03,"CAD, Problem Solving, Python, Thermodynamics","San Francisco, CA",Howard University,Senior,Automation,0.8,Bachelors
+S0303,Biology,3.61,"Documentation, Excel, Laboratory Techniques, Research, Statistics, Testing","Detroit, MI",University of Washington,Masters Year 1,Healthcare Analytics,1.6,Masters
+S0304,Electrical Engineering,3.45,"C++, Embedded Systems, MATLAB, Python","Seattle, WA",Northeastern University,Senior,Research,1.8,Bachelors
+S0305,Mechanical Engineering,3.18,"CAD, MATLAB, Python","New York, NY",University of Texas at Austin,Freshman,Manufacturing,0.2,Bachelors
+S0306,Business Analytics,3.24,"Communication, Excel, Power BI, Process Improvement, Statistics","Seattle, WA",Boston University,Senior,Operations,0.6,Bachelors
+S0307,Economics,3.61,"Communication, Data Visualization, Excel, Research",Remote,University of Michigan,Freshman,Research,0.1,Bachelors
+S0308,Economics,3.24,"Communication, Data Visualization, Excel, Research, SQL, Statistics","San Francisco, CA",Boston University,PhD Year 3,Finance,4.7,PhD
+S0309,Mechanical Engineering,3.38,"CAD, Python, SolidWorks, Thermodynamics","San Francisco, CA",University of Illinois Chicago,Junior,Design Engineering,0.4,Bachelors
+S0310,Information Systems,3.17,"Automation, Excel, Power BI, Project Management, SQL","Boston, MA",San Jose State University,Senior,Operations,1.5,Bachelors
+S0311,Economics,3.13,"Communication, Data Visualization, Excel","Seattle, WA",Arizona State University,Sophomore,Research,0.6,Bachelors
+S0312,Electrical Engineering,3.56,"C++, Circuit Analysis, Embedded Systems, Signal Processing","Atlanta, GA",University of Texas at Austin,Senior,Embedded Systems,0.5,Bachelors
+S0313,Computer Science,3.46,"Algorithms, Data Structures, Git","Chicago, IL",Northeastern University,Freshman,Machine Learning,0.2,Bachelors
+S0314,Biology,3.71,"Data Analysis, Documentation, Excel, Laboratory Techniques, Project Management, Research, Statistics",Remote,Howard University,PhD Year 4,Clinical Support,5.3,PhD
+S0315,Computer Science,3.65,"Data Structures, Git, Python, SQL","Atlanta, GA",San Jose State University,Senior,Machine Learning,0.9,Bachelors
+S0316,Biology,3.24,"Data Analysis, Documentation, Financial Modeling, Research, Statistics","Boston, MA",University of Michigan,Senior,Research,1.3,Bachelors
+S0317,Mechanical Engineering,3.41,"MATLAB, Problem Solving, SolidWorks","Austin, TX",University of Michigan,Sophomore,Manufacturing,0.2,Bachelors
+S0318,Business Analytics,3.12,"Communication, Excel, Power BI, Statistics","Atlanta, GA",University of Illinois Chicago,Junior,Operations,1.0,Bachelors
+S0319,Computer Science,3.33,"Algorithms, Automation, Git, Python, SQL",Remote,Arizona State University,Junior,Machine Learning,1.2,Bachelors
+S0320,Biology,3.19,"Data Analysis, Documentation, Financial Modeling, Laboratory Techniques, Statistics","Boston, MA",Georgia Tech,Junior,Clinical Support,1.2,Bachelors
+S0321,Computer Science,3.22,"Algorithms, Java, Linux","Austin, TX",University of Michigan,Sophomore,Machine Learning,0.3,Bachelors
+S0322,Mechanical Engineering,3.38,"Problem Solving, SolidWorks, Thermodynamics","San Francisco, CA",Boston University,Freshman,Manufacturing,0.1,Bachelors
+S0323,Computer Science,2.97,"Algorithms, Data Structures, Java, Linux","New York, NY",San Jose State University,Junior,Software Development,1.4,Bachelors
+S0324,Data Science,3.88,"Data Visualization, Machine Learning, Pandas","New York, NY",University of Michigan,Sophomore,Business Intelligence,0.3,Bachelors
+S0325,Information Systems,2.9,"Power BI, Project Management, SQL, Tableau","Detroit, MI",University of Washington,Junior,IT Support,1.4,Bachelors
+S0326,Computer Science,2.84,"Cloud, Data Structures, Java, Python, SQL","Boston, MA",Georgia Tech,Senior,Cloud Computing,1.5,Bachelors
+S0327,Biology,3.56,"Automation, Documentation, Excel, Research","Atlanta, GA",San Jose State University,Freshman,Clinical Support,0.0,Bachelors
+S0328,Biology,3.59,"Documentation, Excel, Laboratory Techniques, Research, Statistics",Remote,Boston University,Masters Year 1,Quality Assurance,0.8,Masters
+S0329,Biology,3.42,"Data Analysis, Documentation, Excel, Laboratory Techniques, Research","New York, NY",Boston University,Junior,Quality Assurance,0.8,Bachelors
+S0330,Mechanical Engineering,3.44,"CAD, MATLAB, Problem Solving, SolidWorks","Austin, TX",Arizona State University,Senior,Manufacturing,1.2,Bachelors
+S0331,Economics,3.18,"Data Visualization, SQL, Statistics","Washington, DC",Howard University,Freshman,Business Analysis,0.1,Bachelors
+S0332,Computer Science,3.04,"Algorithms, Data Analysis, Data Structures, Java, Linux, Python","Boston, MA",Howard University,Masters Year 1,Software Development,1.0,Masters
+S0333,Biology,3.37,"Data Analysis, Documentation, Laboratory Techniques, Research, Statistics",Remote,University of Michigan,Masters Year 1,Clinical Support,1.1,Masters
+S0334,Biology,3.22,"Data Analysis, Documentation, Excel, Laboratory Techniques, Research, Statistics","New York, NY",Northeastern University,PhD Year 4,Research,4.8,PhD
+S0335,Electrical Engineering,3.7,"C++, Circuit Analysis, Embedded Systems, Python, Signal Processing","New York, NY",University of Texas at Austin,Masters Year 2,Research,2.2,Masters
+S0336,Data Science,3.19,"Data Visualization, Machine Learning, SQL, Statistics","Seattle, WA",University of Illinois Chicago,Senior,Machine Learning,1.4,Bachelors
+S0337,Computer Science,2.91,"Algorithms, Java, SQL","Detroit, MI",Georgia Tech,Freshman,Data Analysis,0.1,Bachelors
+S0338,Biology,3.27,"Data Analysis, Documentation, Laboratory Techniques, Research, Statistics","Atlanta, GA",Arizona State University,Masters Year 1,Healthcare Analytics,2.2,Masters
+S0339,Computer Science,3.38,"Algorithms, Data Structures, Java, Python","New York, NY",University of Washington,Senior,Machine Learning,1.7,Bachelors
+S0340,Data Science,3.25,"Data Visualization, Machine Learning, Pandas, Python, Research, SQL, Statistics","Chicago, IL",Arizona State University,PhD Year 2,Business Intelligence,3.4,PhD
+S0341,Data Science,2.94,"Data Visualization, Financial Modeling, Machine Learning, Pandas, Python","New York, NY",Howard University,Junior,Machine Learning,0.9,Bachelors
+S0342,Biology,3.28,"Documentation, Excel, Laboratory Techniques","Seattle, WA",Georgia Tech,Sophomore,Clinical Support,0.6,Bachelors
+S0343,Information Systems,3.46,"Power BI, Project Management, Requirements Gathering, Research, SQL, Tableau","Atlanta, GA",University of Washington,Masters Year 2,Systems Analysis,1.9,Masters
+S0344,Data Science,3.04,"Data Visualization, Machine Learning, SQL","Seattle, WA",Georgia Tech,Sophomore,Data Analysis,0.6,Bachelors
+S0345,Business Analytics,3.04,"Communication, Excel, SQL","Boston, MA",University of Texas at Austin,Freshman,Business Analysis,0.3,Bachelors
+S0346,Business Analytics,3.41,"Excel, Power BI, SQL, Statistics, Tableau","Washington, DC",University of Illinois Chicago,Masters Year 1,Marketing Analytics,0.9,Masters
+S0347,Data Science,2.74,"Machine Learning, Pandas, SQL, Statistics","San Francisco, CA",University of Texas at Austin,Junior,Business Intelligence,0.9,Bachelors
+S0348,Business Analytics,2.8,"Excel, Monitoring, Power BI, SQL, Statistics",Remote,University of Washington,Senior,Business Analysis,2.3,Bachelors
+S0349,Business Analytics,2.94,"Communication, Excel, Statistics","Seattle, WA",University of Washington,Freshman,Finance,0.0,Bachelors
+S0350,Computer Science,3.12,"Data Structures, Git, Linux",Remote,Howard University,Freshman,Software Development,0.2,Bachelors
+S0351,Mechanical Engineering,3.34,"CAD, MATLAB, Process Improvement, SolidWorks, Thermodynamics",Remote,Northeastern University,Senior,Automation,1.5,Bachelors
+S0352,Computer Science,3.69,"Algorithms, Git, Linux, Python","Atlanta, GA",San Jose State University,Junior,Software Development,0.6,Bachelors
+S0353,Mechanical Engineering,3.47,"Python, SolidWorks, Thermodynamics","Chicago, IL",Boston University,Sophomore,Quality Assurance,0.1,Bachelors
+S0354,Mechanical Engineering,3.18,"MATLAB, Problem Solving, Python, SolidWorks","Austin, TX",Boston University,Junior,Automation,1.2,Bachelors
+S0355,Mechanical Engineering,3.25,"CAD, MATLAB, Problem Solving, Python",Remote,Howard University,Senior,Design Engineering,1.8,Bachelors
+S0356,Electrical Engineering,2.85,"MATLAB, Python, Signal Processing","New York, NY",San Jose State University,Freshman,Embedded Systems,0.1,Bachelors
+S0357,Data Science,3.22,"Data Visualization, Machine Learning, Pandas, Statistics","Washington, DC",University of Michigan,Junior,Research,1.2,Bachelors
+S0358,Economics,3.1,"APIs, Communication, Excel, SQL, Statistics","Chicago, IL",Howard University,Junior,Policy Analysis,0.5,Bachelors
+S0359,Computer Science,3.37,"Data Structures, Git, Java, Linux",Remote,Georgia Tech,Senior,Machine Learning,2.1,Bachelors
+S0360,Business Analytics,2.95,"Power BI, SQL, Statistics, Tableau","New York, NY",Boston University,Junior,Marketing Analytics,1.0,Bachelors
+S0361,Computer Science,3.39,"Algorithms, Git, Python, SQL","San Francisco, CA",San Jose State University,Junior,Machine Learning,0.9,Bachelors
+S0362,Economics,3.89,"Data Visualization, Excel, Research, SQL, Statistics",Remote,Northeastern University,Masters Year 2,Research,2.7,Masters
+S0363,Information Systems,3.19,"Excel, Power BI, Project Management, SQL","New York, NY",Howard University,Junior,Systems Analysis,1.1,Bachelors
+S0364,Biology,3.34,"Data Analysis, Documentation, Excel","Detroit, MI",Northeastern University,Sophomore,Quality Assurance,0.7,Bachelors
+S0365,Biology,3.42,"Data Analysis, Research, Statistics","San Francisco, CA",Arizona State University,Sophomore,Quality Assurance,0.2,Bachelors
+S0366,Economics,3.05,"Data Visualization, Research, SQL","Chicago, IL",University of Washington,Freshman,Policy Analysis,0.1,Bachelors
+S0367,Data Science,3.26,"Pandas, Python, Statistics","Seattle, WA",University of Texas at Austin,Freshman,Research,0.2,Bachelors
+S0368,Computer Science,3.18,"Algorithms, Data Structures, Project Management, Python","Boston, MA",University of Illinois Chicago,Sophomore,Data Analysis,0.0,Bachelors
+S0369,Data Science,3.26,"Data Visualization, Machine Learning, Pandas, SQL","Austin, TX",Howard University,Senior,Business Intelligence,1.2,Bachelors
+S0370,Information Systems,2.98,"Excel, Power BI, Requirements Gathering, SQL","Boston, MA",San Jose State University,Junior,IT Support,1.5,Bachelors
+S0371,Economics,3.39,"Communication, Data Visualization, Research, SQL, Statistics",Remote,University of Washington,Masters Year 2,Finance,3.0,Masters
+S0372,Computer Science,3.35,"Data Structures, Git, Python","Chicago, IL",Howard University,Freshman,Machine Learning,0.1,Bachelors
+S0373,Information Systems,3.71,"Excel, Power BI, Requirements Gathering, SQL","Boston, MA",University of Washington,Senior,Operations,1.2,Bachelors
+S0374,Economics,3.53,"Excel, Research, SQL, Statistics",Remote,University of Texas at Austin,Junior,Business Analysis,0.9,Bachelors
+S0375,Electrical Engineering,4.0,"C++, Embedded Systems, Financial Modeling, MATLAB, Python, Research, Signal Processing","San Francisco, CA",University of Illinois Chicago,Masters Year 2,Automation,2.6,Masters
+S0376,Information Systems,3.13,"Excel, Power BI, Requirements Gathering, SQL, Tableau","Boston, MA",Georgia Tech,Masters Year 2,Operations,2.9,Masters
+S0377,Information Systems,3.52,"A/B Testing, Project Management, Requirements Gathering, SQL, Tableau","Atlanta, GA",Georgia Tech,Senior,Business Analysis,1.4,Bachelors
+S0378,Biology,3.25,"Data Analysis, Documentation, Financial Modeling, Statistics",Remote,Howard University,Sophomore,Clinical Support,0.2,Bachelors
+S0379,Information Systems,3.97,"Excel, Power BI, Requirements Gathering, Tableau","San Francisco, CA",Boston University,Senior,Systems Analysis,1.6,Bachelors
+S0380,Electrical Engineering,2.95,"Circuit Analysis, MATLAB, Python, Signal Processing","Austin, TX",Howard University,Junior,Research,0.9,Bachelors
+S0381,Computer Science,2.95,"Data Structures, Linux, Python, SQL","Washington, DC",Arizona State University,Junior,Data Analysis,1.2,Bachelors
+S0382,Business Analytics,3.01,"Communication, Excel, Statistics, Tableau","Seattle, WA",University of Washington,Junior,Operations,0.7,Bachelors
+S0383,Data Science,2.53,"Data Visualization, Machine Learning, Python, Statistics",Remote,Boston University,Junior,Business Intelligence,1.3,Bachelors
+S0384,Mechanical Engineering,3.09,"CAD, Financial Modeling, MATLAB, Problem Solving, Thermodynamics","San Francisco, CA",Arizona State University,Senior,Automation,2.1,Bachelors
+S0385,Data Science,2.93,"Pandas, Python, SQL","Chicago, IL",University of Illinois Chicago,Sophomore,Data Analysis,0.0,Bachelors
+S0386,Mechanical Engineering,3.23,"Data Visualization, MATLAB, Python, SolidWorks","Washington, DC",Arizona State University,Sophomore,Automation,0.1,Bachelors
+S0387,Business Analytics,3.32,"Excel, Power BI, Process Improvement, Tableau","Boston, MA",University of Texas at Austin,Sophomore,Operations,0.7,Bachelors
+S0388,Economics,3.96,"Communication, Data Analysis, Excel, Research, SQL, Statistics","Atlanta, GA",University of Washington,Masters Year 1,Finance,1.0,Masters
+S0389,Data Science,3.57,"Data Visualization, Pandas, Python, SQL","Boston, MA",University of Illinois Chicago,Senior,Business Intelligence,2.4,Bachelors
+S0390,Biology,3.19,"Documentation, Excel, Laboratory Techniques, Research, Statistics",Remote,San Jose State University,Masters Year 1,Clinical Support,2.5,Masters
+S0391,Computer Science,2.94,"Algorithms, Java, Python, SQL","Austin, TX",Boston University,Senior,Data Analysis,1.5,Bachelors
+S0392,Biology,3.5,"Communication, Data Analysis, Documentation, Excel, Research, Statistics",Remote,Howard University,Masters Year 1,Clinical Support,0.9,Masters
+S0393,Information Systems,2.79,"Power BI, Project Management, SQL, Tableau","San Francisco, CA",University of Illinois Chicago,Senior,IT Support,1.2,Bachelors
+S0394,Business Analytics,3.81,"Excel, SQL, Statistics, Tableau","Chicago, IL",Arizona State University,Junior,Finance,0.7,Bachelors
+S0395,Data Science,3.58,"Data Visualization, Python, SQL","Detroit, MI",Howard University,Freshman,Research,0.2,Bachelors
+S0396,Data Science,3.21,"Data Visualization, Machine Learning, Pandas, Research, SQL, Statistics","Atlanta, GA",University of Washington,Masters Year 2,Research,1.5,Masters
+S0397,Computer Science,2.81,"Data Structures, Git, Java, Linux, Python","San Francisco, CA",Arizona State University,Masters Year 1,Data Analysis,2.3,Masters
+S0398,Mechanical Engineering,3.65,"CAD, MATLAB, Python","Seattle, WA",Georgia Tech,Sophomore,Manufacturing,0.5,Bachelors
+S0399,Electrical Engineering,3.22,"C++, Circuit Analysis, Cloud, MATLAB, Signal Processing","New York, NY",University of Illinois Chicago,Senior,Research,2.3,Bachelors
+S0400,Data Science,3.59,"Data Visualization, Pandas, SQL","San Francisco, CA",University of Texas at Austin,Freshman,Research,0.1,Bachelors
+S0401,Business Analytics,2.72,"Communication, Excel, Power BI, Statistics","Austin, TX",University of Washington,Senior,Finance,1.7,Bachelors
+S0402,Information Systems,3.04,"Excel, Power BI, Project Management, Requirements Gathering",Remote,San Jose State University,Senior,Systems Analysis,1.4,Bachelors
+S0403,Information Systems,3.21,"APIs, Excel, Power BI, Requirements Gathering, Tableau","San Francisco, CA",University of Illinois Chicago,Junior,Systems Analysis,0.8,Bachelors
+S0404,Business Analytics,3.46,"Communication, Excel, Power BI, Process Improvement, Research, SQL, Statistics, Tableau","Chicago, IL",University of Texas at Austin,PhD Year 3,Operations,2.0,PhD
+S0405,Biology,3.04,"Data Analysis, Research, Statistics","Boston, MA",Arizona State University,Sophomore,Healthcare Analytics,0.2,Bachelors
+S0406,Economics,3.44,"Communication, Data Visualization, Excel, Research","Austin, TX",Howard University,Junior,Policy Analysis,1.4,Bachelors
+S0407,Economics,2.91,"Communication, Data Visualization, Excel, SQL","New York, NY",San Jose State University,Senior,Finance,2.2,Bachelors
+S0408,Business Analytics,3.16,"Communication, Excel, Power BI, SQL","Seattle, WA",Boston University,Junior,Operations,0.7,Bachelors
+S0409,Data Science,3.22,"Machine Learning, Pandas, Python","New York, NY",University of Illinois Chicago,Sophomore,Data Analysis,0.1,Bachelors
+S0410,Business Analytics,3.35,"Communication, Power BI, SQL","Chicago, IL",University of Washington,Freshman,Operations,0.0,Bachelors
+S0411,Computer Science,3.44,"Data Structures, Git, Python","Boston, MA",Howard University,Sophomore,Software Development,0.7,Bachelors
+S0412,Information Systems,2.84,"Automation, Excel, Project Management, Requirements Gathering, Tableau","Boston, MA",Northeastern University,Senior,Systems Analysis,0.8,Bachelors
+S0413,Information Systems,2.7,"Data Analysis, Excel, Project Management, Requirements Gathering, Tableau","Chicago, IL",Georgia Tech,Senior,Business Analysis,0.7,Bachelors
+S0414,Business Analytics,3.64,"Power BI, SQL, Statistics, Tableau","Austin, TX",University of Michigan,Senior,Marketing Analytics,0.9,Bachelors
+S0415,Biology,3.29,"Documentation, Financial Modeling, Laboratory Techniques, Statistics","New York, NY",University of Michigan,Sophomore,Clinical Support,0.0,Bachelors
+S0416,Mechanical Engineering,2.98,"CAD, Problem Solving, Python, SolidWorks","Washington, DC",University of Washington,Senior,Manufacturing,1.2,Bachelors
+S0417,Computer Science,3.76,"Algorithms, Communication, Data Structures, Java, Python","Austin, TX",University of Illinois Chicago,Senior,Data Analysis,1.6,Bachelors
+S0418,Information Systems,3.23,"Excel, Power BI, Requirements Gathering",Remote,University of Illinois Chicago,Sophomore,Systems Analysis,0.3,Bachelors
+S0419,Biology,3.77,"Data Analysis, Documentation, Laboratory Techniques, Research, Statistics",Remote,Boston University,Masters Year 1,Quality Assurance,2.4,Masters
+S0420,Mechanical Engineering,3.23,"Financial Modeling, Problem Solving, Python, SolidWorks, Thermodynamics","San Francisco, CA",University of Texas at Austin,Junior,Quality Assurance,0.8,Bachelors
+S0421,Mechanical Engineering,3.87,"Communication, MATLAB, Python, Thermodynamics","Washington, DC",University of Washington,Freshman,Design Engineering,0.2,Bachelors
+S0422,Computer Science,3.84,"Data Structures, Git, Linux, SQL","Boston, MA",University of Illinois Chicago,Senior,Machine Learning,2.0,Bachelors
+S0423,Data Science,3.11,"Data Visualization, Pandas, SQL","Atlanta, GA",Northeastern University,Freshman,Machine Learning,0.3,Bachelors
+S0424,Information Systems,3.54,"Excel, Power BI, Project Management, Tableau","Boston, MA",University of Texas at Austin,Junior,Operations,0.9,Bachelors
+S0425,Data Science,3.47,"Data Visualization, Pandas, Process Improvement, Python, SQL","Seattle, WA",Boston University,Senior,Research,2.4,Bachelors
+S0426,Information Systems,3.64,"Power BI, Requirements Gathering, Tableau","San Francisco, CA",Boston University,Sophomore,Business Analysis,0.3,Bachelors
+S0427,Business Analytics,3.05,"Communication, Excel, Power BI, Research, SQL, Tableau","Seattle, WA",San Jose State University,Masters Year 1,Finance,1.7,Masters
+S0428,Electrical Engineering,3.42,"Circuit Analysis, Python, Signal Processing",Remote,Boston University,Sophomore,Research,0.3,Bachelors
+S0429,Mechanical Engineering,3.73,"CAD, Problem Solving, Python, Research, SolidWorks, Thermodynamics","Boston, MA",University of Michigan,Masters Year 2,Automation,3.1,Masters
+S0430,Electrical Engineering,2.62,"Circuit Analysis, Data Analysis, MATLAB, Python","Atlanta, GA",Arizona State University,Sophomore,Research,0.4,Bachelors
+S0431,Computer Science,2.87,"Algorithms, Data Structures, Linux, Python","San Francisco, CA",Howard University,Senior,Data Analysis,2.5,Bachelors
+S0432,Electrical Engineering,2.54,"C++, Circuit Analysis, Embedded Systems, Signal Processing","Chicago, IL",Arizona State University,Senior,Embedded Systems,0.9,Bachelors
+S0433,Data Science,3.24,"Data Visualization, Machine Learning, Pandas, Python, Research, SQL","San Francisco, CA",Northeastern University,Masters Year 1,Machine Learning,0.8,Masters
+S0434,Business Analytics,3.42,"A/B Testing, SQL, Statistics, Tableau","Atlanta, GA",University of Michigan,Freshman,Operations,0.2,Bachelors
+S0435,Computer Science,3.87,"Data Structures, Git, Java, Linux, Python","San Francisco, CA",Boston University,Masters Year 2,Software Development,1.8,Masters
+S0436,Electrical Engineering,3.46,"C++, Circuit Analysis, Embedded Systems, MATLAB, Python, Research, Signal Processing","Boston, MA",Arizona State University,PhD Year 3,Embedded Systems,4.8,PhD
+S0437,Mechanical Engineering,3.75,"CAD, Problem Solving, SolidWorks, Thermodynamics","Washington, DC",University of Washington,Junior,Design Engineering,0.9,Bachelors
+S0438,Business Analytics,2.8,"Power BI, SQL, Statistics, Tableau","Austin, TX",Boston University,Senior,Marketing Analytics,2.5,Bachelors
+S0439,Computer Science,2.66,"Algorithms, Git, Java, Linux","New York, NY",Northeastern University,Junior,Cloud Computing,1.1,Bachelors
+S0440,Computer Science,3.17,"Data Structures, Data Visualization, Python, SQL","New York, NY",Northeastern University,Freshman,Cloud Computing,0.3,Bachelors
+S0441,Data Science,3.35,"Data Visualization, Python, SQL, Statistics","San Francisco, CA",Boston University,Senior,Machine Learning,1.1,Bachelors
+S0442,Computer Science,3.18,"Data Structures, Java, Python",Remote,Arizona State University,Sophomore,Cloud Computing,0.3,Bachelors
+S0443,Business Analytics,2.55,"Communication, Power BI, Statistics, Tableau","San Francisco, CA",Northeastern University,Senior,Business Analysis,1.3,Bachelors
+S0444,Information Systems,3.32,"Excel, Power BI, Project Management, Requirements Gathering, Research, SQL","New York, NY",Boston University,Masters Year 2,IT Support,1.2,Masters
+S0445,Economics,2.83,"Communication, Data Visualization, Excel, Research","Boston, MA",University of Illinois Chicago,Senior,Policy Analysis,1.9,Bachelors
+S0446,Information Systems,3.48,"Excel, Requirements Gathering, SQL, Tableau","Boston, MA",University of Texas at Austin,Senior,Business Analysis,2.1,Bachelors
+S0447,Biology,3.5,"Data Analysis, Documentation, Laboratory Techniques, Research, Statistics","New York, NY",University of Washington,Masters Year 2,Clinical Support,2.9,Masters
+S0448,Information Systems,2.95,"Power BI, Requirements Gathering, SQL, Tableau","New York, NY",University of Illinois Chicago,Senior,Systems Analysis,2.2,Bachelors
+S0449,Mechanical Engineering,3.02,"Problem Solving, SolidWorks, Thermodynamics","Chicago, IL",Georgia Tech,Sophomore,Quality Assurance,0.2,Bachelors
+S0450,Computer Science,2.89,"Algorithms, Data Analysis, Git, Java, SQL","San Francisco, CA",University of Illinois Chicago,Senior,Software Development,1.6,Bachelors
+S0451,Computer Science,3.22,"APIs, Data Structures, Git, Java, Python","Seattle, WA",Georgia Tech,Senior,Software Development,1.6,Bachelors
+S0452,Computer Science,3.55,"Algorithms, Git, Linux, SQL","New York, NY",University of Washington,Junior,Cloud Computing,1.3,Bachelors
+S0453,Biology,3.01,"Data Analysis, Excel, Laboratory Techniques, Research, Statistics",Remote,University of Texas at Austin,Masters Year 1,Healthcare Analytics,1.0,Masters
+S0454,Electrical Engineering,3.53,"C++, Circuit Analysis, Embedded Systems, MATLAB, Research, Signal Processing",Remote,Arizona State University,Masters Year 2,Research,1.5,Masters
+S0455,Data Science,3.04,"Data Visualization, Machine Learning, Python, Statistics","San Francisco, CA",University of Illinois Chicago,Junior,Research,0.9,Bachelors
+S0456,Information Systems,2.96,"Power BI, Requirements Gathering, SQL, Tableau","Seattle, WA",Boston University,Junior,Operations,1.0,Bachelors
+S0457,Biology,3.17,"Documentation, Excel, Project Management, Research","Austin, TX",Arizona State University,Sophomore,Clinical Support,0.6,Bachelors
+S0458,Computer Science,2.85,"Algorithms, Data Structures, Financial Modeling, Git","New York, NY",University of Michigan,Sophomore,Software Development,0.3,Bachelors
+S0459,Economics,3.2,"Communication, Data Visualization, Financial Modeling, Research, SQL, Statistics","San Francisco, CA",University of Illinois Chicago,Masters Year 1,Finance,2.1,Masters
+S0460,Biology,2.84,"Documentation, Laboratory Techniques, Research, Statistics",Remote,San Jose State University,Senior,Quality Assurance,1.4,Bachelors
+S0461,Economics,3.91,"Communication, Data Visualization, Excel, SQL","Chicago, IL",University of Michigan,Senior,Research,2.4,Bachelors
+S0462,Mechanical Engineering,3.2,"MATLAB, Python, Thermodynamics","Boston, MA",Arizona State University,Sophomore,Automation,0.3,Bachelors
+S0463,Business Analytics,3.15,"Communication, Excel, Research, SQL, Statistics, Tableau","Atlanta, GA",Arizona State University,Masters Year 2,Operations,3.1,Masters
+S0464,Biology,3.26,"Documentation, Excel, Statistics","Seattle, WA",Arizona State University,Freshman,Healthcare Analytics,0.2,Bachelors
+S0465,Business Analytics,3.15,"Power BI, SQL, Statistics","Austin, TX",University of Illinois Chicago,Sophomore,Business Analysis,0.1,Bachelors
+S0466,Business Analytics,3.17,"Data Analysis, Excel, Power BI, Statistics, Tableau","Washington, DC",University of Washington,Senior,Marketing Analytics,1.6,Bachelors
+S0467,Biology,3.58,"Data Analysis, Documentation, Excel, Laboratory Techniques, Research","Detroit, MI",University of Washington,Masters Year 2,Research,2.3,Masters
+S0468,Business Analytics,3.48,"Communication, Excel, Project Management, Statistics, Tableau","Detroit, MI",University of Illinois Chicago,Junior,Finance,1.2,Bachelors
+S0469,Electrical Engineering,3.02,"C++, Circuit Analysis, MATLAB, Python","Seattle, WA",University of Texas at Austin,Junior,Embedded Systems,0.5,Bachelors
+S0470,Economics,2.99,"Communication, Excel, Statistics","Atlanta, GA",University of Texas at Austin,Freshman,Policy Analysis,0.1,Bachelors
+S0471,Information Systems,3.13,"Power BI, Project Management, Requirements Gathering, SQL",Remote,Boston University,Senior,IT Support,1.0,Bachelors
+S0472,Computer Science,2.5,"Algorithms, Data Structures, Git, Java","New York, NY",Howard University,Senior,Data Analysis,2.0,Bachelors
+S0473,Data Science,2.84,"Data Visualization, Machine Learning, Pandas, Python, Statistics","Chicago, IL",Arizona State University,Masters Year 1,Research,1.1,Masters
+S0474,Business Analytics,3.66,"Communication, Excel, Tableau","Washington, DC",Howard University,Sophomore,Finance,0.6,Bachelors
+S0475,Information Systems,3.91,"Excel, Power BI, Project Management, SQL, Tableau","Seattle, WA",Northeastern University,Masters Year 2,Systems Analysis,1.8,Masters
+S0476,Mechanical Engineering,3.36,"CAD, MATLAB, Problem Solving, Python, SolidWorks, Thermodynamics","Boston, MA",University of Illinois Chicago,PhD Year 3,Manufacturing,3.6,PhD
+S0477,Computer Science,3.44,"Algorithms, Git, Linux, Project Management, Python","Austin, TX",University of Texas at Austin,Senior,Data Analysis,1.8,Bachelors
+S0478,Economics,3.32,"Communication, Data Visualization, SQL, Statistics","Atlanta, GA",Georgia Tech,Senior,Research,0.9,Bachelors
+S0479,Biology,4.0,"Data Analysis, Laboratory Techniques, Research, Statistics","Austin, TX",San Jose State University,Junior,Quality Assurance,1.4,Bachelors
+S0480,Biology,3.59,"Data Analysis, Documentation, Excel, Research","Boston, MA",Georgia Tech,Senior,Research,0.9,Bachelors
+S0481,Economics,3.19,"Communication, Data Visualization, Excel, Research","Detroit, MI",University of Illinois Chicago,Junior,Policy Analysis,1.4,Bachelors
+S0482,Computer Science,2.88,"Data Structures, Git, Java, SQL","San Francisco, CA",San Jose State University,Junior,Software Development,0.3,Bachelors
+S0483,Business Analytics,2.85,"Communication, Excel, Power BI, SQL, Statistics","New York, NY",Arizona State University,Masters Year 2,Finance,2.2,Masters
+S0484,Business Analytics,3.51,"Communication, Excel, Power BI, SQL, Statistics, Tableau","Atlanta, GA",University of Illinois Chicago,PhD Year 3,Finance,4.0,PhD
+S0485,Computer Science,2.94,"Git, Python, SQL","Detroit, MI",Arizona State University,Sophomore,Cloud Computing,0.2,Bachelors
+S0486,Computer Science,2.78,"Algorithms, Data Structures, Python, SQL","Washington, DC",Arizona State University,Senior,Cloud Computing,1.7,Bachelors
+S0487,Computer Science,2.99,"Algorithms, Java, Python","Boston, MA",University of Washington,Sophomore,Cloud Computing,0.6,Bachelors
+S0488,Electrical Engineering,3.02,"C++, Circuit Analysis, Embedded Systems, Financial Modeling, MATLAB, Research, Signal Processing","Atlanta, GA",University of Texas at Austin,Masters Year 1,Automation,2.1,Masters
+S0489,Biology,3.92,"Data Analysis, Documentation, Excel, Research, Statistics",Remote,Georgia Tech,Masters Year 1,Clinical Support,1.6,Masters
+S0490,Information Systems,3.55,"Excel, Requirements Gathering, SQL, Tableau","Detroit, MI",Northeastern University,Senior,Systems Analysis,1.9,Bachelors
+S0491,Electrical Engineering,3.18,"C++, Circuit Analysis, Python","New York, NY",Boston University,Freshman,Automation,0.0,Bachelors
+S0492,Computer Science,3.87,"Algorithms, Data Structures, Git, Linux, Python",Remote,Boston University,Masters Year 2,Software Development,2.9,Masters
+S0493,Information Systems,3.28,"A/B Testing, Excel, Power BI, Project Management, Tableau","Atlanta, GA",Boston University,Senior,IT Support,1.9,Bachelors
+S0494,Electrical Engineering,2.91,"C++, Circuit Analysis, Cloud, MATLAB, Signal Processing","Washington, DC",University of Washington,Junior,Research,0.4,Bachelors
+S0495,Electrical Engineering,3.87,"C++, Circuit Analysis, Embedded Systems, MATLAB, Python","Seattle, WA",Arizona State University,Masters Year 1,Hardware Engineering,1.6,Masters
+S0496,Computer Science,3.55,"Algorithms, Data Structures, Git, Java, SQL","New York, NY",University of Michigan,Masters Year 1,Machine Learning,1.9,Masters
+S0497,Computer Science,2.84,"Data Structures, Java, Python","Austin, TX",Howard University,Freshman,Software Development,0.0,Bachelors
+S0498,Mechanical Engineering,3.32,"CAD, MATLAB, Problem Solving, Python, Research, SolidWorks","New York, NY",Northeastern University,Masters Year 1,Quality Assurance,2.1,Masters
+S0499,Electrical Engineering,2.92,"Circuit Analysis, MATLAB, Python, Signal Processing","Atlanta, GA",Northeastern University,Junior,Automation,0.6,Bachelors
+S0500,Biology,2.73,"Data Analysis, Laboratory Techniques, Research","Austin, TX",Arizona State University,Freshman,Research,0.2,Bachelors
+S0501,Economics,3.49,"Automation, Communication, Data Visualization, Statistics","Seattle, WA",University of Washington,Sophomore,Finance,0.1,Bachelors
+S0502,Biology,3.85,"Data Analysis, Documentation, Excel, Statistics",Remote,Northeastern University,Senior,Healthcare Analytics,1.1,Bachelors
+S0503,Electrical Engineering,2.73,"C++, MATLAB, Python, Signal Processing",Remote,Arizona State University,Junior,Embedded Systems,0.3,Bachelors
+S0504,Mechanical Engineering,3.38,"CAD, MATLAB, Problem Solving, Python","Atlanta, GA",Northeastern University,Junior,Manufacturing,0.4,Bachelors
+S0505,Computer Science,2.99,"Data Structures, Java, Linux","Boston, MA",San Jose State University,Sophomore,Software Development,0.6,Bachelors
+S0506,Biology,3.04,"Data Analysis, Excel, Laboratory Techniques, Research","Atlanta, GA",University of Illinois Chicago,Senior,Research,0.5,Bachelors
+S0507,Electrical Engineering,3.0,"C++, Circuit Analysis, MATLAB","Austin, TX",Georgia Tech,Sophomore,Research,0.5,Bachelors
+S0508,Business Analytics,2.91,"Communication, SQL, Statistics","San Francisco, CA",Northeastern University,Sophomore,Business Analysis,0.5,Bachelors
+S0509,Electrical Engineering,3.4,"C++, Circuit Analysis, Cloud, Embedded Systems, Python, Research, Signal Processing","Seattle, WA",Arizona State University,Masters Year 1,Hardware Engineering,2.1,Masters
+S0510,Business Analytics,2.98,"Communication, Power BI, Statistics, Tableau","Boston, MA",Georgia Tech,Senior,Marketing Analytics,1.9,Bachelors
+S0511,Biology,3.27,"A/B Testing, Data Analysis, Laboratory Techniques, Research","Boston, MA",Arizona State University,Sophomore,Research,0.1,Bachelors
+S0512,Data Science,3.41,"APIs, Data Visualization, Machine Learning, Pandas, Python, SQL, Statistics",Remote,Northeastern University,PhD Year 1,Business Intelligence,1.6,PhD
+S0513,Business Analytics,3.15,"A/B Testing, Communication, Power BI, SQL, Statistics","Boston, MA",University of Illinois Chicago,Junior,Marketing Analytics,1.1,Bachelors
+S0514,Data Science,2.96,"Data Visualization, Pandas, SQL, Statistics",Remote,Boston University,Senior,Data Analysis,2.0,Bachelors
+S0515,Mechanical Engineering,3.07,"CAD, MATLAB, Problem Solving, Python","Boston, MA",Boston University,Senior,Design Engineering,2.2,Bachelors
+S0516,Data Science,3.44,"Data Visualization, Pandas, SQL, Statistics","San Francisco, CA",University of Texas at Austin,Junior,Machine Learning,0.3,Bachelors
+S0517,Computer Science,3.43,"Java, Linux, Python, SQL","Seattle, WA",University of Illinois Chicago,Senior,Cloud Computing,2.0,Bachelors
+S0518,Data Science,3.12,"Data Visualization, Documentation, Machine Learning, Pandas, Python, SQL, Statistics","Seattle, WA",Northeastern University,PhD Year 2,Research,3.5,PhD
+S0519,Computer Science,3.25,"Automation, Java, Linux, Python, SQL","Atlanta, GA",Arizona State University,Junior,Data Analysis,1.0,Bachelors
+S0520,Biology,3.69,"Automation, Data Analysis, Documentation, Excel, Laboratory Techniques, Research, Statistics","Austin, TX",San Jose State University,PhD Year 4,Quality Assurance,3.2,PhD
+S0521,Data Science,2.71,"Data Visualization, Machine Learning, Pandas, SQL","Detroit, MI",San Jose State University,Senior,Data Analysis,2.2,Bachelors
+S0522,Information Systems,3.52,"Documentation, Excel, Power BI, Requirements Gathering, SQL, Tableau","Austin, TX",University of Illinois Chicago,Masters Year 1,Systems Analysis,1.0,Masters
+S0523,Business Analytics,2.99,"Communication, Excel, Power BI, Tableau",Remote,University of Illinois Chicago,Senior,Operations,0.8,Bachelors
+S0524,Information Systems,3.38,"Excel, Power BI, Requirements Gathering, Tableau","New York, NY",Arizona State University,Junior,Business Analysis,0.3,Bachelors
+S0525,Mechanical Engineering,2.94,"CAD, Problem Solving, SolidWorks","San Francisco, CA",Georgia Tech,Freshman,Design Engineering,0.3,Bachelors
+S0526,Information Systems,2.61,"Power BI, Project Management, SQL, Tableau",Remote,University of Michigan,Junior,Operations,0.6,Bachelors
+S0527,Computer Science,2.67,"Documentation, Java, Python, SQL","New York, NY",Howard University,Sophomore,Data Analysis,0.7,Bachelors
+S0528,Data Science,3.2,"Pandas, Python, SQL",Remote,Howard University,Freshman,Business Intelligence,0.1,Bachelors
+S0529,Mechanical Engineering,3.34,"CAD, Communication, Problem Solving, SolidWorks, Thermodynamics","Austin, TX",University of Illinois Chicago,Senior,Manufacturing,1.9,Bachelors
+S0530,Business Analytics,2.91,"Communication, SQL, Statistics, Tableau",Remote,University of Washington,Senior,Operations,0.7,Bachelors
+S0531,Mechanical Engineering,3.44,"CAD, Data Analysis, MATLAB, Problem Solving, Thermodynamics","Boston, MA",Howard University,Senior,Manufacturing,1.3,Bachelors
+S0532,Business Analytics,2.89,"Communication, Excel, Monitoring, Power BI, Research, SQL, Statistics, Tableau","Austin, TX",Georgia Tech,PhD Year 3,Marketing Analytics,2.5,PhD
+S0533,Economics,3.16,"Communication, Excel, Financial Modeling, Statistics","San Francisco, CA",University of Washington,Freshman,Business Analysis,0.1,Bachelors
+S0534,Business Analytics,2.94,"Communication, Excel, Research, SQL, Statistics, Tableau, Testing",Remote,University of Texas at Austin,Masters Year 1,Business Analysis,0.9,Masters
+S0535,Biology,3.22,"Data Analysis, Documentation, Excel, Laboratory Techniques, Research, Statistics",Remote,University of Texas at Austin,PhD Year 3,Clinical Support,3.1,PhD
+S0536,Business Analytics,3.46,"Communication, Excel, Power BI, SQL, Statistics, Tableau","Boston, MA",San Jose State University,PhD Year 1,Finance,2.8,PhD
+S0537,Data Science,2.92,"Data Visualization, Machine Learning, Pandas, SQL","Detroit, MI",University of Washington,Senior,Data Analysis,0.7,Bachelors
+S0538,Computer Science,3.07,"Data Structures, Git, Java","Washington, DC",University of Illinois Chicago,Sophomore,Machine Learning,0.4,Bachelors
+S0539,Information Systems,3.71,"Excel, Power BI, Requirements Gathering, SQL, Tableau","New York, NY",Georgia Tech,Masters Year 2,Systems Analysis,3.3,Masters
+S0540,Information Systems,3.07,"Automation, Excel, Power BI, SQL, Tableau","New York, NY",San Jose State University,Senior,IT Support,2.0,Bachelors
+S0541,Economics,3.66,"Communication, Data Visualization, Research, SQL, Statistics","Detroit, MI",University of Texas at Austin,Masters Year 2,Policy Analysis,2.9,Masters
+S0542,Computer Science,2.85,"Algorithms, Git, Linux, Python","Washington, DC",University of Michigan,Junior,Data Analysis,1.1,Bachelors
+S0543,Information Systems,3.36,"Requirements Gathering, SQL, Tableau","Chicago, IL",Northeastern University,Freshman,Business Analysis,0.2,Bachelors
+S0544,Business Analytics,3.71,"Communication, Excel, Power BI, SQL","Seattle, WA",San Jose State University,Junior,Business Analysis,1.3,Bachelors
+S0545,Computer Science,2.41,"Data Structures, Java, Linux, SQL","Detroit, MI",Arizona State University,Junior,Data Analysis,1.2,Bachelors
+S0546,Electrical Engineering,2.95,"Circuit Analysis, Embedded Systems, Python, Signal Processing, Troubleshooting","San Francisco, CA",Arizona State University,Junior,Automation,0.9,Bachelors
+S0547,Information Systems,3.41,"Project Management, Requirements Gathering, SQL, Tableau",Remote,Howard University,Senior,Business Analysis,1.1,Bachelors
+S0548,Electrical Engineering,3.31,"C++, Circuit Analysis, MATLAB, Python, Research, Signal Processing","San Francisco, CA",University of Illinois Chicago,Masters Year 2,Automation,2.0,Masters
+S0549,Biology,3.31,"Laboratory Techniques, Research, Statistics","San Francisco, CA",San Jose State University,Sophomore,Research,0.3,Bachelors
+S0550,Biology,3.05,"Data Analysis, Documentation, Excel, Statistics","New York, NY",Arizona State University,Senior,Quality Assurance,1.7,Bachelors
+S0551,Mechanical Engineering,3.26,"MATLAB, Problem Solving, SolidWorks, Thermodynamics","Seattle, WA",Northeastern University,Junior,Quality Assurance,1.2,Bachelors
+S0552,Economics,3.3,"Communication, Data Visualization, Excel, Research, SQL","Austin, TX",Boston University,Masters Year 1,Research,1.3,Masters
+S0553,Computer Science,3.59,"Algorithms, Git, Linux, SQL","Chicago, IL",University of Washington,Junior,Software Development,0.6,Bachelors
+S0554,Information Systems,3.31,"Excel, Power BI, Requirements Gathering, SQL","Chicago, IL",Arizona State University,Junior,IT Support,1.1,Bachelors
+S0555,Electrical Engineering,3.49,"C++, Circuit Analysis, Data Analysis, Embedded Systems, MATLAB, Python",Remote,University of Illinois Chicago,Masters Year 2,Embedded Systems,3.3,Masters
+S0556,Information Systems,3.24,"Excel, Power BI, Project Management, Research, SQL, Tableau","New York, NY",Northeastern University,Masters Year 1,Operations,1.9,Masters
+S0557,Economics,3.08,"APIs, Communication, Data Visualization, Excel, Statistics",Remote,University of Illinois Chicago,Junior,Business Analysis,1.5,Bachelors
+S0558,Data Science,3.05,"Data Visualization, Pandas, Python, SQL",Remote,Georgia Tech,Junior,Research,0.4,Bachelors
+S0559,Information Systems,3.33,"Excel, Power BI, Requirements Gathering, SQL","Washington, DC",Boston University,Junior,IT Support,0.4,Bachelors
+S0560,Biology,3.08,"Documentation, Excel, Laboratory Techniques, Statistics","Boston, MA",San Jose State University,Senior,Research,1.0,Bachelors
+S0561,Computer Science,3.29,"Algorithms, Data Structures, SQL","Chicago, IL",Georgia Tech,Sophomore,Software Development,0.3,Bachelors
+S0562,Information Systems,3.94,"Excel, Power BI, Project Management, Tableau",Remote,University of Michigan,Senior,IT Support,2.3,Bachelors
+S0563,Mechanical Engineering,3.64,"CAD, Problem Solving, Python, Research, SolidWorks, Thermodynamics",Remote,San Jose State University,Masters Year 1,Automation,1.2,Masters
+S0564,Biology,3.15,"Data Analysis, Data Visualization, Documentation, Excel, Laboratory Techniques",Remote,San Jose State University,Senior,Quality Assurance,2.0,Bachelors
+S0565,Data Science,3.64,"Machine Learning, Pandas, Python, Statistics","New York, NY",University of Washington,Senior,Research,1.5,Bachelors
+S0566,Information Systems,3.07,"Documentation, Excel, Power BI, SQL, Tableau","Atlanta, GA",Northeastern University,Junior,Business Analysis,0.7,Bachelors
+S0567,Information Systems,2.52,"Power BI, Requirements Gathering, Tableau","Chicago, IL",University of Texas at Austin,Freshman,IT Support,0.2,Bachelors
+S0568,Mechanical Engineering,3.03,"APIs, CAD, MATLAB, Python, SolidWorks, Thermodynamics","Atlanta, GA",Boston University,Masters Year 2,Automation,1.5,Masters
+S0569,Biology,2.82,"Data Analysis, Documentation, Excel, Laboratory Techniques, Research, Statistics, Testing","New York, NY",Boston University,PhD Year 2,Clinical Support,2.2,PhD
+S0570,Mechanical Engineering,3.12,"CAD, MATLAB, Problem Solving, Thermodynamics","Chicago, IL",University of Illinois Chicago,Senior,Automation,1.4,Bachelors
+S0571,Business Analytics,3.25,"Communication, Excel, Power BI, SQL","New York, NY",University of Texas at Austin,Senior,Marketing Analytics,1.7,Bachelors
+S0572,Biology,3.76,"Documentation, Excel, Research, Statistics","Atlanta, GA",San Jose State University,Junior,Healthcare Analytics,0.6,Bachelors
+S0573,Mechanical Engineering,3.33,"CAD, MATLAB, Problem Solving, Thermodynamics",Remote,Arizona State University,Senior,Manufacturing,1.0,Bachelors
+S0574,Biology,3.26,"Documentation, Excel, Laboratory Techniques, Research, Statistics","Seattle, WA",University of Washington,Masters Year 1,Healthcare Analytics,0.8,Masters
+S0575,Information Systems,3.46,"A/B Testing, Excel, Power BI, SQL",Remote,Arizona State University,Freshman,Operations,0.2,Bachelors
+S0576,Economics,2.64,"Communication, Data Visualization, Excel, Process Improvement, SQL, Statistics","San Francisco, CA",University of Texas at Austin,Masters Year 2,Policy Analysis,1.7,Masters
+S0577,Biology,3.28,"Data Analysis, Documentation, Research, Statistics","Seattle, WA",Arizona State University,Junior,Research,0.5,Bachelors
+S0578,Biology,3.62,"Cloud, Documentation, Excel, Laboratory Techniques, Research, Statistics","Boston, MA",University of Illinois Chicago,Masters Year 1,Healthcare Analytics,1.6,Masters
+S0579,Computer Science,2.72,"Algorithms, Linux, Python","Austin, TX",University of Texas at Austin,Sophomore,Data Analysis,0.7,Bachelors
+S0580,Computer Science,3.61,"Data Structures, Git, Python, SQL",Remote,Georgia Tech,Junior,Software Development,1.4,Bachelors
+S0581,Computer Science,3.36,"APIs, Algorithms, Git, Python, SQL","Washington, DC",Boston University,Senior,Cloud Computing,1.8,Bachelors
+S0582,Information Systems,3.12,"Excel, Power BI, Project Management, SQL","San Francisco, CA",Georgia Tech,Senior,IT Support,2.4,Bachelors
+S0583,Electrical Engineering,3.4,"C++, Data Visualization, MATLAB, Python","Chicago, IL",San Jose State University,Sophomore,Automation,0.2,Bachelors
+S0584,Mechanical Engineering,3.93,"MATLAB, Problem Solving, SolidWorks",Remote,Georgia Tech,Freshman,Automation,0.1,Bachelors
+S0585,Business Analytics,3.3,"Excel, Financial Modeling, Power BI, Statistics, Tableau","New York, NY",San Jose State University,Senior,Finance,1.5,Bachelors
+S0586,Business Analytics,3.52,"Communication, Data Visualization, Excel, Power BI, Research, SQL, Statistics, Tableau","Washington, DC",University of Texas at Austin,PhD Year 2,Operations,3.1,PhD
+S0587,Mechanical Engineering,3.04,"CAD, Problem Solving, Thermodynamics","Austin, TX",University of Washington,Sophomore,Manufacturing,0.3,Bachelors
+S0588,Computer Science,2.92,"Algorithms, Financial Modeling, Git, Linux, Python","Boston, MA",Arizona State University,Junior,Machine Learning,0.6,Bachelors
+S0589,Data Science,3.47,"Machine Learning, Pandas, Statistics","San Francisco, CA",Arizona State University,Freshman,Machine Learning,0.3,Bachelors
+S0590,Data Science,3.16,"Data Visualization, Machine Learning, Pandas, Python, Research, SQL, Statistics","New York, NY",Georgia Tech,PhD Year 2,Data Analysis,2.0,PhD
+S0591,Electrical Engineering,3.25,"C++, Circuit Analysis, Embedded Systems, Signal Processing",Remote,San Jose State University,Junior,Automation,1.1,Bachelors
+S0592,Computer Science,3.05,"Java, Linux, Python","Atlanta, GA",University of Texas at Austin,Sophomore,Data Analysis,0.7,Bachelors
+S0593,Information Systems,3.37,"A/B Testing, Excel, Project Management, Requirements Gathering, Tableau","Detroit, MI",University of Texas at Austin,Senior,Systems Analysis,0.9,Bachelors
+S0594,Business Analytics,3.29,"APIs, Power BI, SQL, Tableau","Atlanta, GA",Georgia Tech,Freshman,Operations,0.1,Bachelors
+S0595,Mechanical Engineering,3.78,"CAD, MATLAB, Problem Solving, Python, SolidWorks, Thermodynamics","San Francisco, CA",San Jose State University,PhD Year 4,Quality Assurance,5.1,PhD
+S0596,Business Analytics,3.07,"Power BI, SQL, Statistics, Tableau","Boston, MA",University of Michigan,Junior,Business Analysis,1.4,Bachelors
+S0597,Mechanical Engineering,3.13,"MATLAB, Problem Solving, Python, Thermodynamics","Washington, DC",San Jose State University,Junior,Quality Assurance,0.9,Bachelors
+S0598,Economics,2.94,"Data Visualization, Research, SQL, Statistics","Boston, MA",Arizona State University,Senior,Finance,2.1,Bachelors
+S0599,Data Science,3.04,"Pandas, SQL, Statistics","Austin, TX",University of Michigan,Freshman,Research,0.1,Bachelors
+S0600,Data Science,3.32,"Machine Learning, Monitoring, Python, Statistics","San Francisco, CA",Georgia Tech,Freshman,Data Analysis,0.3,Bachelors
